@@ -23,10 +23,20 @@
 | Earth Science/101016jecoinf2023102421 | Earth Science | rank 4 (loss) | rank 4 (loss) | 30 | 0.0936 | 534 |
 | Earth Science/101016jjafrearsci2024105229 | Earth Science | rank 14 (win) | rank 10 (win) | 30 | 0.1190 | 363 |
 | Earth Science/101016jrse2023113932 | Earth Science | rank 8 (loss) | rank 9 (win) | 30 | 0.1278 | 631 |
+| Earth Science/101016jscitotenv2023169647 | Earth Science | rank 2 (loss) | rank 6 (loss) | 30 | 0.0996 | 613 |
+| Energy Science/101007s1104202008769x | Energy Science | rank 10 (win) | rank 12 (win) | 30 | 0.1374 | 455 |
+| Energy Science/101016jymssp2023110908 | Energy Science | rank 15 (win) | rank 15 (win) | 30 | 0.0868 | 541 |
+| Environmental Science/101016jengappai2023107536 | Environmental Science | rank 16 (win) | rank 15 (win) | 30 | 0.0852 | 489 |
+| Environmental Science/101016jijinfomgt2023102700 | Environmental Science | rank 7 (loss) | rank 9 (win) | 30 | 0.0811 | 412 |
+| Law/101007s1050602309361y | Law | rank 16 (win) | rank 16 (win) | 30 | 0.0995 | 605 |
+| Law/101007s11604023014743 | Law | rank 8 (loss) | rank 11 (win) | 30 | 0.0991 | 706 |
+| Law/101007s13132023014333 | Law | rank 12 (win) | rank 13 (win) | 30 | 0.1029 | 592 |
+| Law/101016jartmed2023102698 | Law | rank 16 (win) | rank 16 (win) | 30 | 0.0935 | 390 |
 | Law/101016jclsr2023105899 | Law | rank 15 (win) | rank 15 (win) | 30 | 0.0863 | 557 |
+| Material Science/101016jenganabound2024105802 | Material Science | rank 14 (win) | rank 15 (win) | 30 | 0.0921 | 505 |
 | Math/101007s1058602203956x | Math | rank 9 (win) | rank 9 (win) | 30 | 0.1088 | 616 |
-| **total (23 items)** | | | | 690 | 2.3194 | |
+| **total (33 items)** | | | | 990 | 3.2967 | |
 
-Tokens: prompt 317316, completion 1101932 (of which reasoning 843096). Retried attempts: 0. Empty replies: 0.
+Tokens: prompt 475076, completion 1597956 (of which reasoning 1225125). Retried attempts: 0. Empty replies: 0.
 
 Scores from ResearchBench's own `score-rank` over all items: `ALL_ranking.score.json`.

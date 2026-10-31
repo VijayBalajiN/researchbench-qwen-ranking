@@ -1,0 +1,44 @@
+{
+  "summary": {
+    "overall_accuracy": 1.0,
+    "order_accuracy": {
+      "res": 1.0,
+      "fan_1_res": 1.0
+    },
+    "readable_order_accuracy": {
+      "gold_first_accuracy": 1.0,
+      "negative_first_accuracy": 1.0
+    },
+    "sum_ratios": {
+      "2": 1.0
+    },
+    "sum_counts": {
+      "2": 1
+    },
+    "sample_outcome_ratios": {
+      "gold_wins_neither_order": 0.0,
+      "gold_wins_exactly_one_order": 0.0,
+      "gold_wins_both_orders": 1.0
+    },
+    "pair_ratios": {
+      "both_correct": 1.0
+    },
+    "pair_counts": {
+      "both_correct": 15
+    },
+    "pair_consistency_ratios": {
+      "both_orders_choose_gold": 1.0,
+      "orders_disagree": 0.0,
+      "both_orders_choose_negative": 0.0
+    }
+  },
+  "per_sample": [
+    {
+      "sample_id": "Law/101007s1050602309361y",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+ "sample_id": "Material Science/101016jenganabound2024105802",
+ "doi": "10.1016/j.enganabound.2024.105802",
+ "title": "A gradient-enhanced physics-informed neural networks method for the wave equation",
+ "abstract": "Physics -informed neural networks (PINNs) have been proven to be a useful tool for solving general partial differential equations (PDEs), which is meshless and dimensionally free compared with traditional numerical solvers. Based on PINNs, gradient -enhanced physics -informed neural networks (gPINNs) add the partial derivative loss term of the independent variable and the physical constraint term, which improves the accuracy of network training. In this paper, the gPINNs method is proposed to solve the wave problem. The equation boundary value of the wave problem is added in the network construction, thus the network is forced to satisfy the equation boundary value during each training process. Two examples of wave equations are given in our paper, which are solved numerically by PINNs and gPINNs, respectively. It is found that using fewer data sets, gPINNs can learn data features more fully than PINNs and better results of gPINNs can be obtained."
+}

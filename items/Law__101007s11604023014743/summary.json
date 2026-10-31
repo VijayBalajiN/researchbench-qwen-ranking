@@ -1,0 +1,33 @@
+{
+ "sample_id": "Law/101007s11604023014743",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 14600,
+ "completion_tokens": 56064,
+ "reasoning_tokens": 44805,
+ "cost_usd": 0.099147,
+ "wall_seconds": 706,
+ "sum_request_seconds": 706,
+ "providers": [
+  "Darkbloom",
+  "Mancer 2",
+  "ModelRun",
+  "Near AI",
+  "Tenstorrent",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 11,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 8,
+   "gold_wins": false
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "sample_id": "Environmental Science/101016jengappai2023107536",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 12832,
+ "completion_tokens": 46539,
+ "reasoning_tokens": 35899,
+ "cost_usd": 0.085162,
+ "wall_seconds": 489,
+ "sum_request_seconds": 489,
+ "providers": [
+  "AkashML",
+  "Darkbloom",
+  "Ionstream",
+  "ModelRun",
+  "Near AI",
+  "Tenstorrent"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 15,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 16,
+   "gold_wins": true
+  }
+ }
+}
