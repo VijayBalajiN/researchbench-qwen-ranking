@@ -13,10 +13,20 @@
 | Biology/101038s4159102302702z | Biology | rank 7 (loss) | rank 11 (win) | 30 | 0.1080 | 609 |
 | Business/101007s1047902103956x | Business | rank 16 (win) | rank 16 (win) | 30 | 0.1099 | 605 |
 | Business/101007s10479021041492 | Business | rank 7 (loss) | rank 6 (loss) | 30 | 0.0960 | 337 |
+| Business/101007s10755023096861 | Business | rank 16 (win) | rank 16 (win) | 30 | 0.0957 | 341 |
+| Business/101007s1079602110168y | Business | rank 3 (loss) | rank 10 (win) | 30 | 0.0985 | 564 |
+| Business/101007s1125702309364z | Business | rank 6 (loss) | rank 10 (win) | 30 | 0.1162 | 401 |
+| Business/101016jeswa2023122442 | Business | rank 4 (loss) | rank 5 (loss) | 30 | 0.0707 | 535 |
+| Cell Biology/101038s41587023020199 | Cell Biology | rank 14 (win) | rank 15 (win) | 30 | 0.0846 | 541 |
+| Cell Biology/101038s41592024023057 | Cell Biology | rank 9 (win) | rank 9 (win) | 30 | 0.1070 | 642 |
+| Chemistry/101038s41587023017632 | Chemistry | rank 14 (win) | rank 13 (win) | 30 | 0.1094 | 616 |
+| Earth Science/101016jecoinf2023102421 | Earth Science | rank 4 (loss) | rank 4 (loss) | 30 | 0.0936 | 534 |
+| Earth Science/101016jjafrearsci2024105229 | Earth Science | rank 14 (win) | rank 10 (win) | 30 | 0.1190 | 363 |
+| Earth Science/101016jrse2023113932 | Earth Science | rank 8 (loss) | rank 9 (win) | 30 | 0.1278 | 631 |
 | Law/101016jclsr2023105899 | Law | rank 15 (win) | rank 15 (win) | 30 | 0.0863 | 557 |
 | Math/101007s1058602203956x | Math | rank 9 (win) | rank 9 (win) | 30 | 0.1088 | 616 |
-| **total (13 items)** | | | | 390 | 1.2968 | |
+| **total (23 items)** | | | | 690 | 2.3194 | |
 
-Tokens: prompt 175210, completion 612000 (of which reasoning 468652). Retried attempts: 0. Empty replies: 0.
+Tokens: prompt 317316, completion 1101932 (of which reasoning 843096). Retried attempts: 0. Empty replies: 0.
 
 Scores from ResearchBench's own `score-rank` over all items: `ALL_ranking.score.json`.

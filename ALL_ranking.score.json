@@ -1,43 +1,43 @@
 {
   "summary": {
-    "overall_accuracy": 0.6538461538461539,
+    "overall_accuracy": 0.6521739130434783,
     "order_accuracy": {
-      "res": 0.6153846153846154,
-      "fan_1_res": 0.6923076923076923
+      "res": 0.5652173913043478,
+      "fan_1_res": 0.7391304347826086
     },
     "readable_order_accuracy": {
-      "gold_first_accuracy": 0.6153846153846154,
-      "negative_first_accuracy": 0.6923076923076923
+      "gold_first_accuracy": 0.5652173913043478,
+      "negative_first_accuracy": 0.7391304347826086
     },
     "sum_ratios": {
-      "2": 0.5384615384615384,
-      "1": 0.23076923076923078,
-      "0": 0.23076923076923078
+      "2": 0.5217391304347826,
+      "1": 0.2608695652173913,
+      "0": 0.21739130434782608
     },
     "sum_counts": {
-      "2": 7,
-      "1": 3,
-      "0": 3
+      "2": 12,
+      "1": 6,
+      "0": 5
     },
     "sample_outcome_ratios": {
-      "gold_wins_neither_order": 0.23076923076923078,
-      "gold_wins_exactly_one_order": 0.23076923076923078,
-      "gold_wins_both_orders": 0.5384615384615384
+      "gold_wins_neither_order": 0.21739130434782608,
+      "gold_wins_exactly_one_order": 0.2608695652173913,
+      "gold_wins_both_orders": 0.5217391304347826
     },
     "pair_ratios": {
-      "both_correct": 0.5025641025641026,
-      "both_wrong": 0.3230769230769231,
-      "self_contradictory": 0.17435897435897435
+      "both_correct": 0.4927536231884058,
+      "both_wrong": 0.32463768115942027,
+      "self_contradictory": 0.1826086956521739
     },
     "pair_counts": {
-      "both_correct": 98,
-      "both_wrong": 63,
-      "self_contradictory": 34
+      "both_correct": 170,
+      "both_wrong": 112,
+      "self_contradictory": 63
     },
     "pair_consistency_ratios": {
-      "both_orders_choose_gold": 0.5025641025641026,
-      "orders_disagree": 0.17435897435897435,
-      "both_orders_choose_negative": 0.3230769230769231
+      "both_orders_choose_gold": 0.4927536231884058,
+      "orders_disagree": 0.1826086956521739,
+      "both_orders_choose_negative": 0.32463768115942027
     }
   },
   "per_sample": [
@@ -116,6 +116,76 @@
       "orders": {
         "res": 0,
         "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Business/101007s10755023096861",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Business/101007s1079602110168y",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Business/101007s1125702309364z",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Business/101016jeswa2023122442",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Cell Biology/101038s41587023020199",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Cell Biology/101038s41592024023057",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Chemistry/101038s41587023017632",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Earth Science/101016jecoinf2023102421",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Earth Science/101016jjafrearsci2024105229",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Earth Science/101016jrse2023113932",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 1
       }
     },
     {

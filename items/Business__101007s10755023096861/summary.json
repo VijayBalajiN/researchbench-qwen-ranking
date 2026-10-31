@@ -1,0 +1,33 @@
+{
+ "sample_id": "Business/101007s10755023096861",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 15314,
+ "completion_tokens": 43041,
+ "reasoning_tokens": 30598,
+ "cost_usd": 0.095749,
+ "wall_seconds": 341,
+ "sum_request_seconds": 341,
+ "providers": [
+  "Darkbloom",
+  "DekaLLM",
+  "ModelRun",
+  "Near AI",
+  "Reka",
+  "Tenstorrent"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 16,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 16,
+   "gold_wins": true
+  }
+ }
+}
