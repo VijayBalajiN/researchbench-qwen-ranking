@@ -6,6 +6,11 @@ Outputs of running **ResearchBench's own hypothesis-ranking pipeline** ([paper](
 does not compare the model with anything. It is a work in progress: items are added as they are run. Not affiliated with the
 ResearchBench authors.
 
+**Status:** 40 hand-picked AI-related items run (1,200 requests, all answered in the expected format, no retries). Totals, from
+ResearchBench's own `score-rank` over all 40 (`ALL_ranking.score.json`): overall directional accuracy **70.0%** (gold first 62.5%,
+gold second 77.5%); gold wins in both orders for 24 items, in exactly one order for 8, in neither for 8. Logged cost $3.99; 0.57M
+prompt and 1.93M completion tokens, of which 1.48M are thinking. Per-item rows: `SUMMARY.md`.
+
 ## What was run
 
 | | |
@@ -39,13 +44,13 @@ ALL_ranking.jsonl, ALL_ranking.score.json   all items together, through the same
 SUMMARY.md              one table: result, requests, cost and time per item
 ai_selection/           how the items were chosen: all 1,323 titles reviewed, shortlist of 40 (+28 reserve)
 v0_keyword_trial_superseded/   the first 3-item trial (keyword-picked items, no call log), kept for completeness
-build_views.py, run_items.py, qwen_env.py   the scripts that produced the above
+run_batches.py (batches of items: run, build views, commit, push), run_items.py (items in parallel), build_views.py, qwen_env.py
 clients_local_patch.diff   the patch
 ```
 
 ## Please read before using the numbers
 
-- **Small and early.** A handful of items so far.
+- **Small.** 40 items, one run each (temperature 0.0, but the provider can differ between requests); do not read small differences as real.
 - **The items are not a random sample.** The benchmark has no AI/CS discipline; AI-related items were picked by reading titles and
   abstracts (by Claude, an AI model, not a domain expert). `ai_selection/README.md` has the details and the caveats.
 - **`calls.jsonl` is the provider's reply as returned.** The thinking is the provider's `reasoning` field. Upstream's client keeps only
