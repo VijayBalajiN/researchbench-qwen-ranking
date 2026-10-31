@@ -1,0 +1,6 @@
+{
+ "sample_id": "Chemistry/101038s41587023018000",
+ "doi": "10.1038/s41587-023-01800-0",
+ "title": "A fully integrated wearable ultrasound system to monitor deep tissues in moving subjects",
+ "abstract": "A wearable ultrasound patch monitors subjects in motion using machine learning and wireless electronics. Recent advances in wearable ultrasound technologies have demonstrated the potential for hands-free data acquisition, but technical barriers remain as these probes require wire connections, can lose track of moving targets and create data-interpretation challenges. Here we report a fully integrated autonomous wearable ultrasonic-system-on-patch (USoP). A miniaturized flexible control circuit is designed to interface with an ultrasound transducer array for signal pre-conditioning and wireless data communication. Machine learning is used to track moving tissue targets and assist the data interpretation. We demonstrate that the USoP allows continuous tracking of physiological signals from tissues as deep as 164 mm. On mobile subjects, the USoP can continuously monitor physiological signals, including central blood pressure, heart rate and cardiac output, for as long as 12 h. This result enables continuous autonomous surveillance of deep tissue signals toward the internet-of-medical-things."
+}

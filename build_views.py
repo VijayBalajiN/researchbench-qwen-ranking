@@ -4,7 +4,7 @@ Per item folder (outputs/items/*/ with a ranking.jsonl):  summary.json  (request
                                                            READABLE.md   (question, gold, every negative, the model's reply and thinking)
 Top level (outputs/):  ALL_ranking.jsonl + ALL_ranking.score.json (all items through ResearchBench's own score-rank), SUMMARY.md
 """
-import json, subprocess, sys
+import csv, json, subprocess, sys
 from pathlib import Path
 
 from researchbench.ranking import SELECTION_RE  # the pattern run-rank looks for before it falls back to a looser one
@@ -85,18 +85,39 @@ def build_item(folder: Path) -> dict:
     return {**summary, "title": paper.get("title"), "discipline": item["discipline"]}
 
 
+GROUP_NAMES = {"selected_40": "AI (first 40)", "selected_extra": "AI", "selected_extra_other_row_of_same_paper": "AI (second row of a paper)",
+               "selected_tier2_ml_as_tool": "ML as a tool", "selected_non_ai_random_sample": "non-AI control"}
+
+
+def groups_by_item() -> dict:
+    with open(ROOT / "outputs" / "ai_selection" / "shortlist.csv", newline="", encoding="utf-8") as handle:
+        return {r["sample_id"]: GROUP_NAMES.get(r["status"], r["status"]) for r in csv.DictReader(handle)}
+
+
+def group_table(rows: list, groups: dict) -> list:
+    """Per group: items, order-runs won (gold beat >= 8 of 15 negatives) out of order-runs, and that share (same definition as score-rank)."""
+    lines = ["\n## By group\n", "| group | items | order-runs won | share |", "|---|---|---|---|"]
+    for name in dict.fromkeys(groups[r["sample_id"]] for r in rows):
+        members = [r for r in rows if groups[r["sample_id"]] == name]
+        won = sum(v["gold_wins"] for r in members for v in r["result"].values()); total = sum(len(r["result"]) for r in members)
+        lines.append(f"| {name} | {len(members)} | {won} / {total} | {won / total:.1%} |")
+    return lines
+
+
 def build_top(rows: list, folders: list) -> None:
+    groups = groups_by_item()
     pred = ROOT / "outputs" / "ALL_ranking.jsonl"
     pred.write_text("".join((f / "ranking.jsonl").read_text(encoding="utf-8") for f in folders), encoding="utf-8")
     subprocess.run([str(ROOT / ".venv" / "bin" / "researchbench"), "score-rank", "--pred", str(pred)], check=True,
                    stdout=subprocess.DEVNULL)
-    lines = ["# Summary of all items run so far\n", "| item | discipline | gold first (`res`) | gold second (`fan_1_res`) | requests | cost USD | wall s |",
-             "|---|---|---|---|---|---|---|"]
+    lines = ["# Summary of all items run so far\n"] + group_table(rows, groups)
+    lines += ["\n## Per item\n", "| item | group | discipline | gold first (`res`) | gold second (`fan_1_res`) | requests | cost USD | wall s |",
+              "|---|---|---|---|---|---|---|---|"]
     for r in rows:
         cell = lambda o: f"rank {r['result'][o]['rank']} ({'win' if r['result'][o]['gold_wins'] else 'loss'})"
-        lines.append(f"| {r['sample_id']} | {r['discipline']} | {cell('res')} | {cell('fan_1_res')} | {r['requests_logged']} | "
-                     f"{r['cost_usd']:.4f} | {r['wall_seconds']} |")
-    lines.append(f"| **total ({len(rows)} items)** | | | | {sum(r['requests_logged'] for r in rows)} | "
+        lines.append(f"| {r['sample_id']} | {groups[r['sample_id']]} | {r['discipline']} | {cell('res')} | {cell('fan_1_res')} | "
+                     f"{r['requests_logged']} | {r['cost_usd']:.4f} | {r['wall_seconds']} |")
+    lines.append(f"| **total ({len(rows)} items)** | | | | | {sum(r['requests_logged'] for r in rows)} | "
                  f"{sum(r['cost_usd'] for r in rows):.4f} | |")
     lines.append(f"\nTokens: prompt {sum(r['prompt_tokens'] for r in rows)}, completion {sum(r['completion_tokens'] for r in rows)} "
                  f"(of which reasoning {sum(r['reasoning_tokens'] for r in rows)}). Retried attempts: {sum(r['retried_attempts'] for r in rows)}. "

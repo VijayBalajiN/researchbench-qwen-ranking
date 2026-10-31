@@ -34,10 +34,19 @@ The first 40 came from the title reading above. For more, a second pass was made
    (the snippet around the match, and for doubtful ones more of the abstract) and judged by hand; every decision, with a reason, is in
    `second_pass_recall.csv`. 13 were added (`selected_extra`); 11 are `tier2_ml_as_tool_not_run` (ML is used as a tool inside a paper
    that is about something else, e.g. a wearable sensor with a classifier); the rest were rejected (the term was incidental).
-   Eight more title-only borderlines were also put in `tier2_ml_as_tool_not_run`. **Tier 2 has not been run.**
+   Eight more title-only borderlines were also put in tier 2. **Tier 2 was run as `selected_tier2_ml_as_tool`** (19 items); these are
+   papers where ML is a tool, not the subject, so read their results separately from the AI-subject items.
 3. **Other dataset rows of the same paper.** A paper can appear in two disciplines, and those rows have a different research
    question, gold hypothesis and negatives (checked: none of the 10 pairs found is identical). They are separate benchmark
    items, so the second rows of selected papers are included as `selected_extra_other_row_of_same_paper`.
 
-Counts: `selected_40` 40 (run), `selected_extra` 38 + `selected_extra_other_row_of_same_paper` 10 (to run), `tier2_ml_as_tool_not_run` 19,
-`rejected_after_reading_abstract` 3. As before, the judgement is Claude's, not a domain expert's.
+## Non-AI control sample
+
+To reach 100 new items beyond the first 40, 33 items were drawn at random, **labelled `selected_non_ai_random_sample`**. Pool: the
+1,156 ranking rows whose paper is not in `shortlist.csv` in any status and whose abstract and research question contain none of a broad
+list of AI/ML terms (including 'algorithm', 'data-driven', 'classifier'). `draw_non_ai_sample.py` reproduces the draw (seed 20261101,
+plain random, not stratified by discipline).
+
+Counts in `shortlist.csv`: `selected_40` 40, `selected_extra` 38, `selected_extra_other_row_of_same_paper` 10, `selected_tier2_ml_as_tool` 19,
+`selected_non_ai_random_sample` 33, `rejected_after_reading_abstract` 3. That is 140 selected rows: the first 40, then 100 new ones
+(48 AI-related, 19 ML-as-tool, 33 non-AI). As before, the judgement is Claude's, not a domain expert's.

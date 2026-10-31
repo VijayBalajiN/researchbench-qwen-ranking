@@ -1,0 +1,6 @@
+{
+ "sample_id": "Cell Biology/101038s41928023011077",
+ "doi": "10.1038/s41928-023-01107-7",
+ "title": "Biomimetic olfactory chips based on large-scale monolithically integrated nanotube sensor arrays",
+ "abstract": "Human olfactory sensors have a large variety of receptor cells that generate signature responses to various gaseous molecules. Ideally, artificial olfactory sensors should have arrays of diverse sensors. However, it is challenging to monolithically integrate large-scale arrays of different high-performance gas sensors. Here we report biomimetic olfactory chips that integrate nanotube sensor arrays on nanoporous substrates with up to 10,000 individually addressable sensors per chip. The range of sensors is achieved using an engineered material composition gradient. Supported by artificial intelligence, the chips offer a high sensitivity to various gases with excellent distinguishability for mixed gases and 24 distinct odours. We also show that the olfactory chips can be combined with vision sensors on a robot dog to create a system that can identify an object in a blind box. A biomimetic olfactory system that integrates nanotube sensor arrays with up to 10,000 individually addressable sensors per chip can offer high sensitivity to various gases with excellent distinguishability for mixed gases and 24 distinct odours."
+}

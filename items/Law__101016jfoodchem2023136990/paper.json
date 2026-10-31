@@ -1,0 +1,6 @@
+{
+ "sample_id": "Law/101016jfoodchem2023136990",
+ "doi": "10.1016/j.foodchem.2023.136990",
+ "title": "Natural deep eutectic solvents for the extraction of lentinan from shiitake mushroom: COSMO-RS screening and ANN-GA optimizing conditions",
+ "abstract": "Using natural deep eutectic solvents (NDES) for green extraction of lentinan from shiitake mushroom is a highefficiency method. However, empirical and trial-and-error methods commonly used to select suitable NDES are unconvincing and time-consuming. Conductor-like screening model for realistic solvation (COSMO-RS) is helpful for the priori design of NDES by predicting the solubility of biomolecules. In this study, 372 NDES were used to evaluate lentinan dissolution capability via COSMO-RS. The results showed that the solvent formed by carnitine (15 wt%), urea (40.8 wt%), and water (44.2 wt%) exhibited the best performance for the extraction of lentinan. In the extraction stage, an artificial neural network coupled with genetic algorithm (ANN-GA) was developed to optimize the extraction conditions and to analyze their interaction effects on lentinan content. Therefore, COSMO-RS and ANN-GA can be used as powerful tools for solvent screening and extraction process optimization, which can be extended to various bioactive substance extraction."
+}

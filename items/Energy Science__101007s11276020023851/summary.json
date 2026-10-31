@@ -1,0 +1,33 @@
+{
+ "sample_id": "Energy Science/101007s11276020023851",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 14026,
+ "completion_tokens": 48876,
+ "reasoning_tokens": 36985,
+ "cost_usd": 0.088937,
+ "wall_seconds": 432,
+ "sum_request_seconds": 432,
+ "providers": [
+  "DekaLLM",
+  "Mancer 2",
+  "ModelRun",
+  "Near AI",
+  "Tenstorrent",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 11,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 7,
+   "gold_wins": false
+  }
+ }
+}

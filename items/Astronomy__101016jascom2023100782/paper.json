@@ -1,0 +1,6 @@
+{
+ "sample_id": "Astronomy/101016jascom2023100782",
+ "doi": "10.1016/j.ascom.2023.100782",
+ "title": "Data-driven satellite orbit prediction using two-line elements",
+ "abstract": "Orbit prediction is crucial for space situational awareness operations. Low earth orbit satellites are subjected to external forces such as atmospheric drag, radiation, and gravity. However, the well-known Kepler propagation model ignores these external forces. The simplified perturbation model included only the main external forces. In this study, a nonlinear programming model for orbit prediction using public two-line elements (TLE) is proposed. It has been proven that our models exhibit better performance than the standard Kepler and SPG4 models in terms of orbit prediction accuracy. Moreover, the proposed models were simple, computationally effective, and robust to disturbances. The sensitivity analysis indicates that a right ascension of the ascending node, a perigee argument, and a mean anomaly of the orbital elements are the most sensitive parameters in our models. The results also revealed that our method can be generalized to any low-earth orbit satellite with adequate data."
+}
