@@ -34,9 +34,16 @@
 | Law/101016jartmed2023102698 | Law | rank 16 (win) | rank 16 (win) | 30 | 0.0935 | 390 |
 | Law/101016jclsr2023105899 | Law | rank 15 (win) | rank 15 (win) | 30 | 0.0863 | 557 |
 | Material Science/101016jenganabound2024105802 | Material Science | rank 14 (win) | rank 15 (win) | 30 | 0.0921 | 505 |
+| Material Science/101016jeswa2023123111 | Material Science | rank 3 (loss) | rank 2 (loss) | 30 | 0.0780 | 436 |
+| Math/101007s10208022095953 | Math | rank 16 (win) | rank 16 (win) | 30 | 0.0920 | 283 |
 | Math/101007s1058602203956x | Math | rank 9 (win) | rank 9 (win) | 30 | 0.1088 | 616 |
-| **total (33 items)** | | | | 990 | 3.2967 | |
+| Math/101007s10915023024121 | Math | rank 11 (win) | rank 9 (win) | 30 | 0.1091 | 755 |
+| Math/101007s11071023090835 | Math | rank 5 (loss) | rank 6 (loss) | 30 | 0.1057 | 376 |
+| Math/101007s1304202201681w | Math | rank 9 (win) | rank 10 (win) | 30 | 0.1149 | 523 |
+| Math/101038s41586023069246 | Math | rank 16 (win) | rank 15 (win) | 30 | 0.1144 | 515 |
+| Physics/101007s12559020098127 | Physics | rank 13 (win) | rank 12 (win) | 30 | 0.0809 | 415 |
+| **total (40 items)** | | | | 1200 | 3.9917 | |
 
-Tokens: prompt 475076, completion 1597956 (of which reasoning 1225125). Retried attempts: 0. Empty replies: 0.
+Tokens: prompt 570900, completion 1927288 (of which reasoning 1479685). Retried attempts: 0. Empty replies: 0.
 
 Scores from ResearchBench's own `score-rank` over all items: `ALL_ranking.score.json`.

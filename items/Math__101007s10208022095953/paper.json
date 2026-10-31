@@ -1,0 +1,6 @@
+{
+ "sample_id": "Math/101007s10208022095953",
+ "doi": "10.1007/s10208-022-09595-3",
+ "title": "Sharp Bounds on the Approximation Rates, Metric Entropy, and <i>n</i>-Widths of Shallow Neural Networks",
+ "abstract": "In this article, we study approximation properties of the variation spaces corresponding to shallow neural networks with a variety of activation functions. We introduce two main tools for estimating the metric entropy, approximation rates, and n-widths of these spaces. First, we introduce the notion of a smoothly parameterized dictionary and give upper bounds on the nonlinear approximation rates, metric entropy, and n-widths of their absolute convex hull. The upper bounds depend upon the order of smoothness of the parameterization. This result is applied to dictionaries of ridge functions corresponding to shallow neural networks, and they improve upon existing results in many cases. Next, we provide a method for lower bounding the metric entropy and n-widths of variation spaces which contain certain classes of ridge functions. This result gives sharp lower bounds on the L-2-approximation rates, metric entropy, and n-widths for variation spaces corresponding to neural networks with a range of important activation functions, including ReLUk activation functions and sigmoidal activation functions with bounded variation."
+}

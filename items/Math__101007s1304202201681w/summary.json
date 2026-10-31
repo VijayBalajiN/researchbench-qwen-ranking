@@ -1,0 +1,35 @@
+{
+ "sample_id": "Math/101007s1304202201681w",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 14674,
+ "completion_tokens": 48513,
+ "reasoning_tokens": 37054,
+ "cost_usd": 0.114937,
+ "wall_seconds": 523,
+ "sum_request_seconds": 523,
+ "providers": [
+  "CoreWeave",
+  "Darkbloom",
+  "DekaLLM",
+  "ModelRun",
+  "Near AI",
+  "Reka",
+  "Tenstorrent",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 10,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 9,
+   "gold_wins": true
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "sample_id": "Math/101007s10208022095953",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 11536,
+ "completion_tokens": 40007,
+ "reasoning_tokens": 29454,
+ "cost_usd": 0.091968,
+ "wall_seconds": 283,
+ "sum_request_seconds": 283,
+ "providers": [
+  "AkashML",
+  "Darkbloom",
+  "ModelRun",
+  "Near AI",
+  "Reka",
+  "Tenstorrent",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 16,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 16,
+   "gold_wins": true
+  }
+ }
+}

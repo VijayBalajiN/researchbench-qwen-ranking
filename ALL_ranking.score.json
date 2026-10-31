@@ -1,43 +1,43 @@
 {
   "summary": {
-    "overall_accuracy": 0.696969696969697,
+    "overall_accuracy": 0.7,
     "order_accuracy": {
-      "res": 0.6060606060606061,
-      "fan_1_res": 0.7878787878787878
+      "res": 0.625,
+      "fan_1_res": 0.775
     },
     "readable_order_accuracy": {
-      "gold_first_accuracy": 0.6060606060606061,
-      "negative_first_accuracy": 0.7878787878787878
+      "gold_first_accuracy": 0.625,
+      "negative_first_accuracy": 0.775
     },
     "sum_ratios": {
-      "2": 0.5757575757575758,
-      "1": 0.24242424242424243,
-      "0": 0.18181818181818182
+      "2": 0.6,
+      "1": 0.2,
+      "0": 0.2
     },
     "sum_counts": {
-      "2": 19,
+      "2": 24,
       "1": 8,
-      "0": 6
+      "0": 8
     },
     "sample_outcome_ratios": {
-      "gold_wins_neither_order": 0.18181818181818182,
-      "gold_wins_exactly_one_order": 0.24242424242424243,
-      "gold_wins_both_orders": 0.5757575757575758
+      "gold_wins_neither_order": 0.2,
+      "gold_wins_exactly_one_order": 0.2,
+      "gold_wins_both_orders": 0.6
     },
     "pair_ratios": {
-      "both_correct": 0.5454545454545454,
-      "both_wrong": 0.2787878787878788,
-      "self_contradictory": 0.17575757575757575
+      "both_correct": 0.5466666666666666,
+      "both_wrong": 0.2866666666666667,
+      "self_contradictory": 0.16666666666666666
     },
     "pair_counts": {
-      "both_correct": 270,
-      "both_wrong": 138,
-      "self_contradictory": 87
+      "both_correct": 328,
+      "both_wrong": 172,
+      "self_contradictory": 100
     },
     "pair_consistency_ratios": {
-      "both_orders_choose_gold": 0.5454545454545454,
-      "orders_disagree": 0.17575757575757575,
-      "both_orders_choose_negative": 0.2787878787878788
+      "both_orders_choose_gold": 0.5466666666666666,
+      "orders_disagree": 0.16666666666666666,
+      "both_orders_choose_negative": 0.2866666666666667
     }
   },
   "per_sample": [
@@ -266,7 +266,56 @@
       }
     },
     {
+      "sample_id": "Material Science/101016jeswa2023123111",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Math/101007s10208022095953",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Math/101007s1058602203956x",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Math/101007s10915023024121",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Math/101007s11071023090835",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Math/101007s1304202201681w",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Math/101038s41586023069246",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Physics/101007s12559020098127",
       "orders": {
         "res": 1,
         "fan_1_res": 1
