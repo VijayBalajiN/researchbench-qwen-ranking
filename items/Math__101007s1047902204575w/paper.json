@@ -1,0 +1,6 @@
+{
+ "sample_id": "Math/101007s1047902204575w",
+ "doi": "10.1007/s10479-022-04575-w",
+ "title": "Comprehensive review on twin support vector machines",
+ "abstract": "Twin support vector machine (TWSVM) and twin support vector regression (TSVR) are newly emerging efficient machine learning techniques which offer promising solutions for classification and regression challenges respectively. TWSVM is based upon the idea to identify two nonparallel hyperplanes which classify the data points to their respective classes. It requires to solve two small sized quadratic programming problems (QPPs) in lieu of solving single large size QPP in support vector machine (SVM) while TSVR is formulated on the lines of TWSVM and requires to solve two SVM kind problems. Although there has been good research progress on these techniques; there is limited literature on the comparison of different variants of TSVR. Thus, this review presents a rigorous analysis of recent research in TWSVM and TSVR simultaneously mentioning their limitations and advantages. To begin with, we first introduce the basic theory of support vector machine, TWSVM and then focus on the various improvements and applications of TWSVM, and then we introduce TSVR and its various enhancements. Finally, we suggest future research and development prospects."
+}

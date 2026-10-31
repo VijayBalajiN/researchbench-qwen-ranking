@@ -1,0 +1,28 @@
+{
+ "sample_id": "Energy Science/101038s4158702301953y",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 14276,
+ "completion_tokens": 47048,
+ "reasoning_tokens": 35799,
+ "cost_usd": 0.109062,
+ "wall_seconds": 367,
+ "sum_request_seconds": 367,
+ "providers": [
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 14,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 16,
+   "gold_wins": true
+  }
+ }
+}

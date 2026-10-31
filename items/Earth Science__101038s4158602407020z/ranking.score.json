@@ -1,0 +1,48 @@
+{
+  "summary": {
+    "overall_accuracy": 1.0,
+    "order_accuracy": {
+      "res": 1.0,
+      "fan_1_res": 1.0
+    },
+    "readable_order_accuracy": {
+      "gold_first_accuracy": 1.0,
+      "negative_first_accuracy": 1.0
+    },
+    "sum_ratios": {
+      "2": 1.0
+    },
+    "sum_counts": {
+      "2": 1
+    },
+    "sample_outcome_ratios": {
+      "gold_wins_neither_order": 0.0,
+      "gold_wins_exactly_one_order": 0.0,
+      "gold_wins_both_orders": 1.0
+    },
+    "pair_ratios": {
+      "both_correct": 0.4666666666666667,
+      "self_contradictory": 0.4,
+      "both_wrong": 0.13333333333333333
+    },
+    "pair_counts": {
+      "both_correct": 7,
+      "self_contradictory": 6,
+      "both_wrong": 2
+    },
+    "pair_consistency_ratios": {
+      "both_orders_choose_gold": 0.4666666666666667,
+      "orders_disagree": 0.4,
+      "both_orders_choose_negative": 0.13333333333333333
+    }
+  },
+  "per_sample": [
+    {
+      "sample_id": "Earth Science/101038s4158602407020z",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    }
+  ]
+}
