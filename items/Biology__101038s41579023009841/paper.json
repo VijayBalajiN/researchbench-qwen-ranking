@@ -1,0 +1,6 @@
+{
+ "sample_id": "Biology/101038s41579023009841",
+ "doi": "10.1038/s41579-023-00984-1",
+ "title": "Machine learning for microbiologists",
+ "abstract": "Machine learning is increasingly important in microbiology where it is used for tasks such as predicting antibiotic resistance and associating human microbiome features with complex host diseases. The applications in microbiology are quickly expanding and the machine learning tools frequently used in basic and clinical research range from classification and regression to clustering and dimensionality reduction. In this Review, we examine the main machine learning concepts, tasks and applications that are relevant for experimental and clinical microbiologists. We provide the minimal toolbox for a microbiologist to be able to understand, interpret and use machine learning in their experimental and translational activities. In this Review, Segata, Waldron and colleagues discuss important key concepts of machine learning that are relevant to microbiologists and provide them with a set of tools essential to apply machine learning in microbiology research."
+}

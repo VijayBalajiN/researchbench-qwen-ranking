@@ -1,0 +1,6 @@
+{
+ "sample_id": "Astronomy/101016jsoftx2024101930",
+ "doi": "10.1016/j.softx.2024.101930",
+ "title": "GWAI: Artificial intelligence platform for enhanced gravitational wave data analysis",
+ "abstract": "Gravitational wave (GW) astronomy has opened new frontiers in understanding the cosmos, while the integration of artificial intelligence (AI) in science promises to revolutionize data analysis methodologies. However, a significant gap exists, as there is currently no dedicated platform that enables scientists to develop, test, and evaluate AI algorithms efficiently for GW data analysis. To address this gap, we introduce GWAI, a pioneering AI-centered software platform designed for GW data analysis. GWAI contains a three-layered architecture that emphasizes simplicity, modularity, and flexibility, covering the entire analysis pipeline. GWAI aims to accelerate scientific discoveries, bridging the gap between advanced AI techniques and astrophysical research."
+}

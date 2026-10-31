@@ -1,0 +1,33 @@
+{
+ "sample_id": "Astronomy/101016jsoftx2024101930",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 11862,
+ "completion_tokens": 34701,
+ "reasoning_tokens": 24463,
+ "cost_usd": 0.077817,
+ "wall_seconds": 285,
+ "sum_request_seconds": 285,
+ "providers": [
+  "Darkbloom",
+  "DekaLLM",
+  "Ionstream",
+  "ModelRun",
+  "Near AI",
+  "Tenstorrent"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 1,
+   "gold_wins": false
+  },
+  "res": {
+   "rank": 1,
+   "gold_wins": false
+  }
+ }
+}

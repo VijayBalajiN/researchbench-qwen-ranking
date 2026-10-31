@@ -1,0 +1,6 @@
+{
+ "sample_id": "Astronomy/101016jascom2023100770",
+ "doi": "10.1016/j.ascom.2023.100770",
+ "title": "Spiral-Elliptical automated galaxy morphology classification from telescope images",
+ "abstract": "The classification of galaxy morphologies is an important step in the investigation of theories of hierarchical structure formation. While human expert visual classification remains quite effective and accurate, it cannot keep up with the massive influx of data from emerging sky surveys. A variety of approaches have been proposed to classify large numbers of galaxies; these approaches include crowdsourced visual classification, and automated and computational methods, such as machine learning methods based on designed morphology statistics and deep learning. In this work, we develop two novel galaxy morphology statistics, descent average and descent variance, which can be efficiently extracted from telescope galaxy images. We further propose simplified versions of the existing image statistics concentration, asymmetry, and clumpiness, which have been widely used in the literature of galaxy morphologies. We utilize the galaxy image data from the Sloan Digital Sky Survey to demonstrate the effective performance of our proposed image statistics at accurately detecting spiral and elliptical galaxies when used as features of a random forest classifier."
+}

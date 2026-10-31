@@ -1,0 +1,6 @@
+{
+ "sample_id": "Business/101007s10479021041492",
+ "doi": "10.1007/s10479-021-04149-2",
+ "title": "An intelligent payment card fraud detection system",
+ "abstract": "Payment cards offer a simple and convenient method for making purchases. Owing to the increase in the usage of payment cards, especially in online purchases, fraud cases are on the rise. The rise creates financial risk and uncertainty, as in the commercial sector, it incurs billions of losses each year. However, real transaction records that can facilitate the development of effective predictive models for fraud detection are difficult to obtain, mainly because of issues related to confidentially of customer information. In this paper, we apply a total of 13 statistical and machine learning models for payment card fraud detection using both publicly available and real transaction records. The results from both original features and aggregated features are analyzed and compared. A statistical hypothesis test is conducted to evaluate whether the aggregated features identified by a genetic algorithm can offer a better discriminative power, as compared with the original features, in fraud detection. The outcomes positively ascertain the effectiveness of using aggregated features for undertaking real-world payment card fraud detection problems."
+}
