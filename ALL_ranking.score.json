@@ -1,0 +1,64 @@
+{
+  "summary": {
+    "overall_accuracy": 0.8333333333333334,
+    "order_accuracy": {
+      "res": 1.0,
+      "fan_1_res": 0.6666666666666666
+    },
+    "readable_order_accuracy": {
+      "gold_first_accuracy": 1.0,
+      "negative_first_accuracy": 0.6666666666666666
+    },
+    "sum_ratios": {
+      "1": 0.3333333333333333,
+      "2": 0.6666666666666666
+    },
+    "sum_counts": {
+      "1": 1,
+      "2": 2
+    },
+    "sample_outcome_ratios": {
+      "gold_wins_neither_order": 0.0,
+      "gold_wins_exactly_one_order": 0.3333333333333333,
+      "gold_wins_both_orders": 0.6666666666666666
+    },
+    "pair_ratios": {
+      "both_correct": 0.5555555555555556,
+      "self_contradictory": 0.2,
+      "both_wrong": 0.24444444444444444
+    },
+    "pair_counts": {
+      "both_correct": 25,
+      "self_contradictory": 9,
+      "both_wrong": 11
+    },
+    "pair_consistency_ratios": {
+      "both_orders_choose_gold": 0.5555555555555556,
+      "orders_disagree": 0.2,
+      "both_orders_choose_negative": 0.24444444444444444
+    }
+  },
+  "per_sample": [
+    {
+      "sample_id": "Astronomy/101016jascom2023100784",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Law/101016jclsr2023105899",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Math/101007s1058602203956x",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    }
+  ]
+}

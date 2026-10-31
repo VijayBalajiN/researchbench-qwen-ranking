@@ -1,0 +1,69 @@
+index_in_reviewed_titles,sample_id,discipline,title,status,kind
+3,Astronomy/101016jascom2023100770,Astronomy,Spiral-Elliptical automated galaxy morphology classification from telescope images,selected_40,AI applied: image classification
+7,Astronomy/101016jascom2023100784,Astronomy,Harnessing edge-enhanced attention mechanisms for supernova detection in deep learning frameworks,selected_40,AI method: detection
+16,Astronomy/101016jascom2024100884,Astronomy,Classifying the clouds of Venus using unsupervised machine learning,selected_40,AI applied: unsupervised ML
+34,Astronomy/101016jnewast2023102125,Astronomy,Deep learning-based pulsar candidate identification model using a variational autoencoder,selected_40,AI method: deep learning
+48,Astronomy/101016jsoftx2024101930,Astronomy,GWAI: Artificial intelligence platform for enhanced gravitational wave data analysis,selected_40,AI tool: platform
+152,Biology/101038s41586023068329,Biology,Predicting multiple conformations via sequence clustering and AlphaFold2,selected_40,AI method: AlphaFold2
+164,Biology/101038s41586024072154,Biology,Automated model building and protein identification in cryo-EM maps,selected_40,AI method: ML model building
+181,Biology/101038s4159102302702z,Biology,A deep learning system for predicting time to progression of diabetic retinopathy,selected_40,AI applied: medical deep learning
+138,Biology/101038s41579023009841,Biology,Machine learning for microbiologists,selected_40,AI review: ML tutorial
+195,Business/101007s1047902103956x,Business,Artificial intelligence-driven innovation for enhancing supply chain resilience and performance under the effect of,selected_40,AI adoption: management
+199,Business/101007s10479021041492,Business,An intelligent payment card fraud detection system,selected_40,AI applied: fraud detection
+222,Business/101007s10755023096861,Business,Students' Acceptance of ChatGPT in Higher Education: An Extended Unified Theory of Acceptance and Use of Technology,selected_40,AI adoption: ChatGPT
+223,Business/101007s1079602110168y,Business,Cognitive Chatbot for Personalised Contextual Customer Service: Behind the Scene and beyond the Hype,selected_40,AI adoption: chatbot
+232,Business/101007s1125702309364z,Business,Fairness in recommender systems: research landscape and future directions,selected_40,AI fairness: recommender systems
+258,Business/101016jeswa2023122442,Business,"Artificial Intelligence Trust, Risk and Security Management (AI TRiSM): Frameworks, applications, challenges and fu",selected_40,AI governance: trust/risk/security
+439,Cell Biology/101038s41592024023057,Cell Biology,Large-scale foundation model on single-cell transcriptomics,selected_40,AI method: foundation model
+419,Cell Biology/101038s41587023020199,Cell Biology,Inferring super-resolution tissue architecture by integrating spatial transcriptomics with histology,selected_40,AI method: ML
+542,Chemistry/101038s41587023017632,Chemistry,Efficient evolution of human antibodies from general protein language models,selected_40,AI method: protein language model
+575,Earth Science/101016jecoinf2023102421,Earth Science,Hybrid machine learning models for aboveground biomass estimations,selected_40,AI applied: ML regression
+594,Earth Science/101016jjafrearsci2024105229,Earth Science,"Machine learning models for gully erosion susceptibility assessment in the Tensift catchment, Haouz Plain, Morocco ",selected_40,AI applied: ML classification
+617,Earth Science/101016jrse2023113932,Earth Science,An AI approach to operationalise global daily PlanetScope satellite imagery for river water masking,selected_40,AI method: segmentation
+625,Earth Science/101016jscitotenv2023169647,Earth Science,Geospatial prediction of total soil carbon in European agricultural land based on deep learning,selected_40,AI applied: deep learning
+668,Energy Science/101007s1104202008769x,Energy Science,Detection of myocardial infarction based on novel deep transfer learning methods for urban healthcare in smart citi,selected_40,AI applied: transfer learning
+760,Energy Science/101016jymssp2023110908,Energy Science,Loading condition monitoring of high-strength bolt connections based on physics-guided deep learning of acoustic em,selected_40,AI method: physics-guided DL
+817,Environmental Science/101016jengappai2023107536,Environmental Science,Forecasting global climate drivers using Gaussian processes and convolutional autoencoders,selected_40,AI method: forecasting
+836,Environmental Science/101016jijinfomgt2023102700,Environmental Science,The ethics of ChatGPT - Exploring the ethical issues of an emerging technology,selected_40,AI ethics: ChatGPT
+896,Law/101007s1050602309361y,Law,Mining legal arguments in court decisions,selected_40,AI/NLP: argument mining
+911,Law/101007s11604023014743,Law,Fairness of artificial intelligence in healthcare: review and recommendations,selected_40,AI fairness: healthcare
+918,Law/101007s13132023014333,Law,"Artificial Intelligence (AI) and Automation in Administrative Procedures: Potentials, Limitations, and Framework Co",selected_40,AI law: administrative procedures
+921,Law/101016jartmed2023102698,Law,Understanding the factors influencing acceptability of AI in medical imaging domains among healthcare professionals,selected_40,AI adoption: medical imaging
+924,Law/101016jclsr2023105899,Law,Licensing high-risk artificial intelligence: Toward ex ante justification for a disruptive technology,selected_40,AI law: licensing
+1020,Material Science/101016jenganabound2024105802,Material Science,A gradient-enhanced physics-informed neural networks method for the wave equation,selected_40,AI method: PINN
+1025,Material Science/101016jeswa2023123111,Material Science,MICU: Image super-resolution via multi-level information compensation and U-net,selected_40,AI method: super-resolution
+1097,Math/101007s10208022095953,Math,"Sharp Bounds on the Approximation Rates, Metric Entropy, and <i>n</i>-Widths of Shallow Neural Networks",selected_40,AI theory: neural network approximation
+1099,Math/101007s1058602203956x,Math,BERT-based ensemble learning for multi-aspect hate speech detection,selected_40,AI method: BERT ensemble
+1102,Math/101007s10915023024121,Math,Discontinuity Computing Using Physics-Informed Neural Networks,selected_40,AI method: PINN
+1105,Math/101007s11071023090835,Math,Data-driven solitons and parameter discovery to the (2+1)-dimensional NLSE in optical fiber communications,selected_40,AI method: PINN
+1116,Math/101007s1304202201681w,Math,A descriptive human visual cognitive strategy using graph neural network for facial expression recognition,selected_40,AI method: GNN
+1180,Math/101038s41586023069246,Math,Mathematical discoveries from program search with large language models,selected_40,AI method: LLM program search
+1204,Physics/101007s12559020098127,Physics,An Early Warning Tool for Predicting Mortality Risk of COVID-19 Patients Using Machine Learning,selected_40,AI applied: ML prediction
+4,Astronomy/101016jascom2023100771,Astronomy,Search for the edge-on galaxies using an artificial neural network,"reserve (title judged AI-related, abstract not read)",
+14,Astronomy/101016jascom2024100879,Astronomy,Determining research priorities using machine learning,"reserve (title judged AI-related, abstract not read)",
+29,Astronomy/101016jjastp2024106370,Astronomy,Construction of global IGS-3D electron density (N<sub>e</sub>) model by deep learning,"reserve (title judged AI-related, abstract not read)",
+183,Biology/101038s41592024022010,Biology,scGPT: toward building a foundation model for single-cell multi-omics using generative AI,"reserve (title judged AI-related, abstract not read)",
+224,Business/101007s1079602110203y,Business,Enablers and Inhibitors of AI-Powered Voice Assistants: A Dual-Factor Approach by Integrating the Status Quo Bias a,"reserve (title judged AI-related, abstract not read)",
+229,Business/101007s10845023020748,Business,A novel approach of tool condition monitoring in sustainable machining of Ni alloy with transfer learning models,"reserve (title judged AI-related, abstract not read)",
+251,Business/101016jeneco2024107403,Business,Do the benefits outweigh the disadvantages? Exploring the role of artificial intelligence in renewable energy,"reserve (title judged AI-related, abstract not read)",
+257,Business/101016jeswa2023121464,Business,Data-driven interpretable ensemble learning methods for the prediction of wind turbine power incorporating SHAP ana,"reserve (title judged AI-related, abstract not read)",
+276,Business/101016jijinfomgt2023102716,Business,"Generative artificial intelligence in marketing: Applications, opportunities, challenges, and research agenda","reserve (title judged AI-related, abstract not read)",
+282,Business/101016jjclepro2023140527,Business,Navigating the confluence of artificial intelligence and education for sustainable development in the era of indust,"reserve (title judged AI-related, abstract not read)",
+288,Business/101016jjretconser2023103560,Business,Artificial intelligence-generated virtual influencer: Examining the effects of emotional display on user engagement,"reserve (title judged AI-related, abstract not read)",
+409,Cell Biology/101038s4158702301766z,Cell Biology,Stabilized mosaic single-cell data integration using unshared features,"reserve (title judged AI-related, abstract not read)",
+410,Cell Biology/101038s4158702301767y,Cell Biology,"Dictionary learning for integrative, multimodal and scalable single-cell analysis","reserve (title judged AI-related, abstract not read)",
+895,Law/101007s10506022093436,Law,Algorithms in the court: does it matter which part of the judicial decision-making is automated,"reserve (title judged AI-related, abstract not read)",
+899,Law/101007s10639023120098,Law,"AI in Medical Education: Global situation, effects and challenges","reserve (title judged AI-related, abstract not read)",
+915,Law/101007s12553023008067,Law,"The underuse of AI in the health sector: Opportunity costs, success stories, risks and recommendations","reserve (title judged AI-related, abstract not read)",
+922,Law/101016jartmed2024102861,Law,Challenges and strategies for wide-scale artificial intelligence (AI) deployment in healthcare practices: A perspec,"reserve (title judged AI-related, abstract not read)",
+974,Law/101016jxcrm2023101356,Law,"Artificial intelligence, ChatGPT, and other large language models for social determinants of health: Current state ","reserve (title judged AI-related, abstract not read)",
+1100,Math/101007s10639023119904,Math,Artificial Intelligence in K-12 Education: eliciting and reflecting on Swedish teachers' understanding of AI and it,"reserve (title judged AI-related, abstract not read)",
+1133,Math/101016jbspc2024106024,Math,Hybrid convolutional neural network and Flexible Dwarf Mongoose Optimization Algorithm for strong kidney stone diag,"reserve (title judged AI-related, abstract not read)",
+1137,Math/101016jcompedu2024105031,Math,ChatGPT improves creative problem-solving performance in university students: An experimental study,"reserve (title judged AI-related, abstract not read)",
+1138,Math/101016jcompeleceng2023109059,Math,An ensemble neural network model for predicting the energy utility in individual houses,"reserve (title judged AI-related, abstract not read)",
+1143,Math/101016jdcan202205020,Math,A blockchain based privacy-preserving federated learning scheme for Internet of Vehicles,"reserve (title judged AI-related, abstract not read)",
+1144,Math/101016jdcan202303008,Math,IDS-INT: Intrusion detection system using transformer-based transfer learning for imbalanced network traffic,"reserve (title judged AI-related, abstract not read)",
+1167,Math/101016jtriboint2023109231,Math,A decreasing failure rate model with a novel approach to enhance the artificial neural network's structure for engi,"reserve (title judged AI-related, abstract not read)",
+1189,Math/101038s41587023019172,Math,Protein remote homology detection and structural alignment using deep learning,"reserve (title judged AI-related, abstract not read)",
+1197,Math/101067jcpradiol202304001,Math,Ability of ChatGPT to generate competent radiology reports for distal radius fracture by use of RSNA template items,"reserve (title judged AI-related, abstract not read)",
+82,Biology/101007s1045302209750x,Biology,Automatic detection of airborne pollen: an overview,"reserve (title judged AI-related, abstract not read)",

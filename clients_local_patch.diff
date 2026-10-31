@@ -1,0 +1,77 @@
+diff --git a/src/researchbench/clients.py b/src/researchbench/clients.py
+index e1b3f8f..ddebeb8 100644
+--- a/src/researchbench/clients.py
++++ b/src/researchbench/clients.py
+@@ -2,10 +2,23 @@
+ 
+ from __future__ import annotations
+ 
++import itertools
++import json
+ import os
+ import re
++import threading
++import time
+ from dataclasses import dataclass
+ 
++_CALL_COUNTER = itertools.count(1)  # LOCAL CHANGE: counts every request, for RESEARCHBENCH_MAX_CALLS
++_CALL_LOG_LOCK = threading.Lock()
++
++
++def _append_call_log(path: str, record: dict) -> None:
++    """LOCAL CHANGE: one JSON line per request (prompt + the provider's whole reply: text, thinking, token usage, cost)."""
++    with _CALL_LOG_LOCK, open(path, "a", encoding="utf-8") as handle:
++        handle.write(json.dumps(record, ensure_ascii=False, default=str) + "\n")
++
+ 
+ class ModelClient:
+     """Minimal text-generation client interface."""
+@@ -77,15 +90,41 @@ class OpenAICompatibleClient(ModelClient):
+             from openai import OpenAI
+         except ImportError as exc:
+             raise RuntimeError("Install the optional dependency with `pip install -e .[openai]`.") from exc
+-        self._client = OpenAI(api_key=api_key, base_url=base_url)
++        self._client = OpenAI(api_key=api_key, base_url=base_url, max_retries=6)  # LOCAL CHANGE: SDK default is 2
+ 
+     def generate(self, prompt: str, *, temperature: float = 0.0) -> str:
+-        completion = self._client.chat.completions.create(
+-            model=self.model,
+-            messages=[{"role": "user", "content": prompt}],
+-            temperature=temperature,
+-        )
+-        return completion.choices[0].message.content or ""
++        # LOCAL CHANGES (all opt-in / failure handling; with none of the env vars set this sends the same request as upstream):
++        #  - RESEARCHBENCH_REASONING_EFFORT=high  -> OpenRouter's `reasoning` field (thinking on)
++        #  - RESEARCHBENCH_MAX_CALLS=N            -> hard cap on requests per process
++        #  - RESEARCHBENCH_CALL_LOG=file.jsonl    -> append every request and the provider's whole reply (incl. thinking,
++        #    token usage and cost; asks OpenRouter to include the cost) to that file
++        #  - an empty reply (thinking used the whole output budget) is retried, then raises; upstream would return ""
++        #    and ranking.parse_selection() would silently turn it into "candidate 1".
++        effort = os.getenv("RESEARCHBENCH_REASONING_EFFORT")
++        body = {"reasoning": {"effort": effort}} if effort else {}
++        call_log = os.getenv("RESEARCHBENCH_CALL_LOG")
++        if call_log:
++            body["usage"] = {"include": True}
++        extra = {"extra_body": body} if body else {}
++        cap = int(os.getenv("RESEARCHBENCH_MAX_CALLS") or 0)
++        for _attempt in range(3):
++            if cap and next(_CALL_COUNTER) > cap:
++                raise RuntimeError(f"RESEARCHBENCH_MAX_CALLS={cap} reached")
++            started = time.time()
++            completion = self._client.chat.completions.create(
++                model=self.model,
++                messages=[{"role": "user", "content": prompt}],
++                temperature=temperature,
++                **extra,
++            )
++            if call_log:
++                _append_call_log(call_log, {"started_at": started, "elapsed_s": round(time.time() - started, 2),
++                                            "attempt": _attempt + 1, "temperature": temperature, "prompt": prompt,
++                                            "response": completion.model_dump()})
++            text = completion.choices[0].message.content or ""
++            if text.strip():
++                return text
++        raise RuntimeError("model returned an empty reply 3 times in a row")
+ 
+ 
+ def make_client(model: str, *, api_key: str | None = None, base_url: str | None = None) -> ModelClient:

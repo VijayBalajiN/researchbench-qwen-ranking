@@ -1,0 +1,14 @@
+[qwen_env] OPENROUTER_API_KEY found; model qwen/qwen3.8-27b, thinking high, call cap 80
+
+ranking samples [............................] 0/1   0.0% |  0.00/s | ETA   0.0s
+ranking samples [############################] 1/1 100.0% |  0.00/s | ETA   0.0s
+Wrote 1 ranking predictions to <clone>/outputs/items/Law__101016jclsr2023105899/ranking.jsonl
+Hypothesis ranking score summary
+- Overall directional accuracy: 1.0000 (100.00%)
+- Gold-first order accuracy (gold is candidate 1): 1.0000 (100.00%)
+- Negative-first order accuracy (gold is candidate 2): 1.0000 (100.00%)
+- Sample-level two-order outcomes
+  - Gold wins in both orders: 1.0000 (100.00%); count=1
+- Pair-level order-consistency outcomes
+  - Both orders choose gold: 0.9333 (93.33%); count=14
+  - Both orders choose negative: 0.0667 (6.67%); count=1

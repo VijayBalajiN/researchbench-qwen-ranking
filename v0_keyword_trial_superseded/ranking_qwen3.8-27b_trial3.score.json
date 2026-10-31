@@ -1,0 +1,66 @@
+{
+  "summary": {
+    "overall_accuracy": 0.5,
+    "order_accuracy": {
+      "res": 0.6666666666666666,
+      "fan_1_res": 0.3333333333333333
+    },
+    "readable_order_accuracy": {
+      "gold_first_accuracy": 0.6666666666666666,
+      "negative_first_accuracy": 0.3333333333333333
+    },
+    "sum_ratios": {
+      "1": 0.3333333333333333,
+      "0": 0.3333333333333333,
+      "2": 0.3333333333333333
+    },
+    "sum_counts": {
+      "1": 1,
+      "0": 1,
+      "2": 1
+    },
+    "sample_outcome_ratios": {
+      "gold_wins_neither_order": 0.3333333333333333,
+      "gold_wins_exactly_one_order": 0.3333333333333333,
+      "gold_wins_both_orders": 0.3333333333333333
+    },
+    "pair_ratios": {
+      "self_contradictory": 0.26666666666666666,
+      "both_correct": 0.4,
+      "both_wrong": 0.3333333333333333
+    },
+    "pair_counts": {
+      "self_contradictory": 12,
+      "both_correct": 18,
+      "both_wrong": 15
+    },
+    "pair_consistency_ratios": {
+      "both_orders_choose_gold": 0.4,
+      "orders_disagree": 0.26666666666666666,
+      "both_orders_choose_negative": 0.3333333333333333
+    }
+  },
+  "per_sample": [
+    {
+      "sample_id": "Astronomy/101016jascom2024100799",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Earth Science/101016jscitotenv2023169647",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Environmental Science/101016jengappai2023107536",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    }
+  ]
+}

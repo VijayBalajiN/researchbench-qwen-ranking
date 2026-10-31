@@ -1,0 +1,1324 @@
+index	sample_id	title
+0	Astronomy/101007s00159024001512	The formation and cosmic evolution of dust in the early Universe: I. Dust sources
+1	Astronomy/101007s00159024001521	The Fermi/eROSITA bubbles: a look into the nuclear outflow from the Milky Way
+2	Astronomy/101007s11214024010483	Science with a Small Two-Band UV-Photometry Mission I: Mission Description and Follow-up Observations of Stellar Tr
+3	Astronomy/101016jascom2023100770	Spiral-Elliptical automated galaxy morphology classification from telescope images
+4	Astronomy/101016jascom2023100771	Search for the edge-on galaxies using an artificial neural network
+5	Astronomy/101016jascom2023100773	OPTICAM triple-channel astronomical image acquisition control software and external triggering synchronization syst
+6	Astronomy/101016jascom2023100782	Data-driven satellite orbit prediction using two-line elements
+7	Astronomy/101016jascom2023100784	Harnessing edge-enhanced attention mechanisms for supernova detection in deep learning frameworks
+8	Astronomy/101016jascom2024100797	The HERMES calibration pipeline: MESCAL
+9	Astronomy/101016jascom2024100799	A fast inversion method of parameters for contact binaries based on differential evolution
+10	Astronomy/101016jascom2024100817	Single star SCIDAR: Atmospheric parameters profiling using the power spectrum of scintillation
+11	Astronomy/101016jascom2024100832	On the equilibrium points of the collinear restricted 4-body problem with non-spherical bodies
+12	Astronomy/101016jascom2024100835	Learning from the present for the future: The Jülich LOFAR Long-term Archive
+13	Astronomy/101016jascom2024100878	Developing MATLAB graphical user interface for acquiring single star SCIDAR data
+14	Astronomy/101016jascom2024100879	Determining research priorities using machine learning
+15	Astronomy/101016jascom2024100882	Temporal variation of atmospheric electric field in comparison with solar terrestrial activities during the 24th so
+16	Astronomy/101016jascom2024100884	Classifying the clouds of Venus using unsupervised machine learning
+17	Astronomy/101016jasr202312016	GNSS Solar Astronomy in real-time during more than one solar cycle
+18	Astronomy/101016jasr202312034	Response of the mid-latitude ionosphere to the solar eclipse on 25 October 2022: Results of F2-layer vertical sound
+19	Astronomy/101016jasr202408032	Ionospheric signatures from 2 years continuous monitoring of the equatorial ionosphere over Nigeria with HF Doppler
+20	Astronomy/101016jastropartphys2023102892	GRMHD study of accreting massive black hole binaries in astrophysical environment: A review
+21	Astronomy/101016jastropartphys2024103058	PSF calibration of DAMPE for gamma-ray observations
+22	Astronomy/101016jdiamond2024111237	Making the diamond vortex phase masks for the METIS instrument
+23	Astronomy/101016jicarus2023115767	Laboratory measurement of volatile ice vapor pressures with a quartz crystal microbalance
+24	Astronomy/101016jicarus2023115923	Measurement of D/H and <SUP>13</SUP>C/<SUP>12</SUP>C ratios in methane ice on Eris and Makemake: Evidence for inter
+25	Astronomy/101016jicarus2024115977	New, dated small impacts on the South Polar Layered Deposits (SPLD), Mars, and implications for shallow subsurface 
+26	Astronomy/101016jicarus2024116324	Refined 70-cm earth-based lunar radar maps and a new interpretation of the Cruger-Sirsalis cryptomare
+27	Astronomy/101016jicarus2024116352	New astrometric positions for six Jovian irregular satellites using Gaia DR3 in 2016-2021
+28	Astronomy/101016jjastp2024106369	On the low-latitude ionospheric irregularities under geomagnetically active and quiet conditions using NavIC observ
+29	Astronomy/101016jjastp2024106370	Construction of global IGS-3D electron density (N<sub>e</sub>) model by deep learning
+30	Astronomy/101016jjoi2023101485	International mobility characteristics, effects of, and effects on elite scientists
+31	Astronomy/101016jjsse202408005	<i>In</i><i>-situ</i> observations of resident space objects with the CHEOPS space telescope
+32	Astronomy/101016jmeasurement2024115761	Advanced Phase Diversity Method for telescope static aberration compensation
+33	Astronomy/101016jnewast2023102087	Bianchi type-III holographic dark energy cosmological model in f(R, T) theory of gravitation
+34	Astronomy/101016jnewast2023102125	Deep learning-based pulsar candidate identification model using a variational autoencoder
+35	Astronomy/101016jnewast2023102129	Photometric analysis of the dwarf nova SU UMa based on TESS
+36	Astronomy/101016jnewast2023102183	Dark matter supporting traversable wormholes in the Galactic halo
+37	Astronomy/101016jnewast2024102233	The first study of the short period contact binary V415 Gem
+38	Astronomy/101016jnewast2024102312	Study of solar activities associated with a Halo CME on 17 Feb 2023 event
+39	Astronomy/101016jnewast2024102318	Photometric study for the short period contact binary V724 And
+40	Astronomy/101016jnewast2024102319	TESS and AAVSO observations of the eclipsing Z Cam-type cataclysmic variable V416 Dra
+41	Astronomy/101016jnima2023169011	Ionising radiation effects in a soft X-ray CMOS image sensor
+42	Astronomy/101016jnima2023169033	Design study and spectroscopic performance of SOI pixel detector with a pinned depleted diode structure for X-ray a
+43	Astronomy/101016jnima2024169242	High-energy extension of the gamma-ray band observable with an electron-tracking Compton camera
+44	Astronomy/101016jnima2024169329	Development of the sensor head for the StarBurst multimessenger pioneer
+45	Astronomy/101016jnima2024169841	CTC and CT5TEA: An advanced multi-channel digitizer and trigger ASIC for imaging atmospheric Cherenkov telescopes
+46	Astronomy/101016jpss2024105970	A discussion on estimating small bodies taxonomies using phase curves results
+47	Astronomy/101016jpss2024105972	The Visual Monitoring Camera (VMC) on Mars Express: A new science instrument made from an old webcam orbiting Mars
+48	Astronomy/101016jsoftx2024101930	GWAI: Artificial intelligence platform for enhanced gravitational wave data analysis
+49	Astronomy/101038s4155002302091w	Thermal decomposition as the activity driver of near-Earth asteroid (3200) Phaethon
+50	Astronomy/101038s41550023021075	Salts and organics on Ganymede's surface observed by the JIRAM spectrometer onboard Juno
+51	Astronomy/101038s41550023021404	Optical properties of organic haze analogues in water-rich exoplanet atmospheres observable with JWST
+52	Astronomy/101038s4155002302153z	A link between repeating and non-repeating fast radio bursts through their energy distributions
+53	Astronomy/101038s4155002302155x	Spectroscopic sizing of interstellar icy grains with JWST
+54	Astronomy/101038s41550023021600	Detection of HCN and diverse redox chemistry in the plume of Enceladus
+55	Astronomy/101038s4155002302161z	Determination of the equation of state from nuclear experiments and neutron star observations
+56	Astronomy/101038s41550023021784	X-ray eruptions every 22 days from the nucleus of a nearby galaxy
+57	Astronomy/101038s41550023021793	Deciphering Lyman-α emission deep into the epoch of reionization
+58	Astronomy/101038s41550023021837	A radius valley between migrated steam worlds and evaporated rocky cores
+59	Astronomy/101038s4155002402194y	A large-scale magnetic field produced by a solar-like dynamo in binary neutron star mergers
+60	Astronomy/101038s41550024022003	Physical properties of asteroid Dimorphos as derived from the DART impact
+61	Astronomy/101038s4155002402206x	Oxygen production from dissociation of Europa's water-ice surface
+62	Astronomy/101038s41550024022187	A massive interacting galaxy 510 million years after the Big Bang
+63	Astronomy/101038s4155002402230x	Nightside clouds and disequilibrium chemistry on the hot Jupiter WASP-43b
+64	Astronomy/101038s41550024022374	JWST detection of a supernova associated with GRB 221009A without an r-process signature
+65	Astronomy/101038s4155002402292x	A benchmark JWST near-infrared spectrum for the exoplanet WASP-39 b
+66	Astronomy/101038s4158602306787x	A 12.4-day periodicity in a close binary system after a supernova
+67	Astronomy/101038s41586023068436	A shock flash breaking out of a dusty red supergiant
+68	Astronomy/101038s41586023069795	A lanthanide-rich kilonova in the aftermath of a long gamma-ray burst
+69	Astronomy/101038s41586024070409	Sulfur dioxide in the mid-infrared transmission spectrum of WASP-39b
+70	Astronomy/101038s41586024070436	Most of the photons that reionized the Universe came from dwarf galaxies
+71	Astronomy/101038s41586024070525	A small and vigorous black hole in the early Universe
+72	Astronomy/101038s41586024070534	A dynamical measure of the black hole mass in a quasar 11 billion years ago
+73	Astronomy/101038s41586024071166	The complex circumstellar environment of supernova 2023ixf
+74	Astronomy/101038s41586024071273	The Radcliffe Wave is oscillating
+75	Astronomy/101038s41586024071848	A high black-hole-to-host mass ratio in a lensed AGN in the early Universe
+76	Astronomy/101038s41586024072270	A recently quenched galaxy 700 million years after the Big Bang
+77	Astronomy/101038s41586024074121	Star formation shut down by multiphase gas outflow in a galaxy at a redshift of 2.45
+78	Astronomy/101038s4158602407432x	A secondary atmosphere on the rocky exoplanet 55 Cancri e
+79	Astronomy/101038s4158602407514w	A high internal heat flux and large core in a warm Neptune exoplanet
+80	Astronomy/101038s41586024077037	Bound star clusters observed in a lensed galaxy 460 Myr after the Big Bang
+81	Astronomy/101038s41586024078609	Spectroscopic confirmation of two luminous galaxies at a redshift of 14
+82	Biology/101007s1045302209750x	Automatic detection of airborne pollen: an overview
+83	Biology/101007s1227402357703	Recent progress in MOFs-based nanozymes for biosensing
+84	Biology/101007s12598023024417	Progress in research on metal-based materials in stabilized Zn anodes
+85	Biology/101016jaohep2023101133	A multisociety Delphi consensus statement on new fatty liver disease nomenclature
+86	Biology/101016japcatb2023123183	Highly efficient activation of peracetic acid via zero-valent iron-copper bimetallic nanoparticles (nZVIC) for the 
+87	Biology/101016japcatb2023123204	Fe-Mn oxycarbide anchored on N-doped carbon for enhanced Fenton-like catalysis: Importance of high-valent metal-oxo
+88	Biology/101016japcatb2023123557	Built-in electric field boosted exciton dissociation in sulfur doped BiOCl with abundant oxygen vacancies for trans
+89	Biology/101016jcarbpol2024121947	Nanocellulose-mediated conductive hydrogels with NIR photoresponse and fatigue resistance for multifunctional weara
+90	Biology/101016jcell202312026	Immune evasion, infectivity, and fusogenicity of SARS-CoV-2 BA.2.86 and FLip variants
+91	Biology/101016jchom202401014	XBB.1.5 monovalent mRNA vaccine booster elicits robust neutralizing antibodies against XBB subvariants and JN.1
+92	Biology/101016jcjsc2023100194	Fabrication of graphene modified CeO<sub>2</sub>/g-C<sub>3</sub>N<sub>4</sub> heterostructures for photocatalytic d
+93	Biology/101016jcofs2024101134	Food protein-based nanotechnology: from delivery to sensing systems
+94	Biology/101016jdiamond2023110764	Enhanced performance of hydrothermally prepared Ag2Se/rGO nanosheet composite for energy storage applications
+95	Biology/101016jeng202212011	The Fish Microbiota: Research Progress and Potential Applications
+96	Biology/101016jfoodchem2023137099	Effect of polysaccharide addition on food physical properties: A review
+97	Biology/101016jfoodhyd2023109219	An intelligent chitosan/gelatin film via improving the anthocyanin-induced color recognition accuracy for beef sub-
+98	Biology/101016jfoodhyd2023109305	Gel properties of rice proteins-pectin composite and the delivery potential for curcumin: Based on different concen
+99	Biology/101016jijbiomac2023127955	Effect of monosaccharide composition and proportion on the bioactivity of polysaccharides: A review
+100	Biology/101016jijhydene202309033	A review of CdS-based S-scheme for photocatalytic water splitting: Synthetic strategy and identification techniques
+101	Biology/101016jjad202310064	The association between non-high-density lipoprotein cholesterol to high-density lipoprotein cholesterol ratio (NHH
+102	Biology/101016jjare202302012	FUNDC1 interacts with GPx4 to govern hepatic ferroptosis and fibrotic injury through a mitophagy-dependent manner
+103	Biology/101016jjre202307002	Facile synthesis of graphene anchored rare earth doped mixed metal ferrite nanorods: A potential candidate for azo 
+104	Biology/101016jmolcel202311040	The biochemical pathways of apoptotic, necroptotic, pyroptotic, and ferroptotic cell death
+105	Biology/101016jmolstruc2023137400	Biological evaluation, DFT, MEP, HOMO-LUMO analysis and ensemble docking studies of Zn(II) complexes of bidentate a
+106	Biology/101016jprp2023154991	MALAT1: A key regulator in lung cancer pathogenesis and therapeutic targeting
+107	Biology/101016jsaa2023123815	Spectroscopy and molecular simulation on the interaction of Nano-Kaempferol prepared by oil-in-water with two carri
+108	Biology/101016jsoilbio2023109231	Core species impact plant health by enhancing soil microbial cooperation and network complexity during community co
+109	Biology/101016jtcb202306006	The ins-and-outs of exosome biogenesis, secretion, and internalization
+110	Biology/101016jtcb202307009	Disulfidptosis: disulfide stress-induced cell death
+111	Biology/101016jtplants202312014	Plant organellar genomes: much done, much more to do
+112	Biology/101016s0140673624004690	Semaglutide versus placebo in people with obesity-related heart failure with preserved ejection fraction: a pooled 
+113	Biology/101016s1473309923007442	Fast evolution of SARS-CoV-2 BA.2.86 to JN.1 under heavy immune pressure
+114	Biology/101016s2214109x23005399	The burden of bacterial antimicrobial resistance in the WHO African region in 2019: a cross-country systematic anal
+115	Biology/101016s2468125324000347	A biomarker-stratified comparison of top-down versus accelerated step-up treatment strategies for patients with new
+116	Biology/101038s4138602301629w	Ketamine and rapid antidepressant action: new treatments and novel synaptic signaling mechanisms
+117	Biology/101038s4138802302907z	ROS production by mitochondria: function or dysfunction?
+118	Biology/101038s41422023009189	The roles and regulatory mechanisms of TGF-β and BMP signaling in bone and cartilage development, homeostasis and d
+119	Biology/101038s41557023013347	Linkage conversions in single-crystalline covalent organic frameworks
+120	Biology/101038s41560023014216	Multifunctional sulfonium-based treatment for perovskite solar cells with less than 1% efficiency loss over 4,500-h
+121	Biology/101038s41565023015201	Correlated insulator and Chern insulators in pentalayer rhombohedral-stacked graphene
+122	Biology/101038s41566023013515	Bright and stable near-infrared lead-free perovskite light-emitting diodes
+123	Biology/101038s41566024013915	In vivo NIR-II fluorescence imaging for biology and medicine
+124	Biology/101038s41571023008502	Exploring the next generation of antibody-drug conjugates
+125	Biology/101038s41571024008591	Dendritic cells as orchestrators of anticancer immunity and immunotherapy
+126	Biology/101038s41571024008760	Targeting cuproplasia and cuproptosis in cancer
+127	Biology/101038s41573024008966	The present and future of bispecific antibodies for cancer therapy
+128	Biology/101038s4157502300840w	Therapeutic developments in pancreatic cancer
+129	Biology/101038s41575023008464	Recompensation in cirrhosis: unravelling the evolving natural history of nonalcoholic fatty liver disease
+130	Biology/101038s41576023006452	RNA modifications in physiology and disease: towards clinical applications
+131	Biology/101038s41577023009261	A guide to complement biology, pathology and therapeutic opportunity
+132	Biology/101038s41577024010148	Short-chain fatty acids: linking diet, the microbiome and immunity
+133	Biology/101038s41578024006545	High-entropy materials for energy and electronic applications
+134	Biology/101038s4157902300926x	Plasmids, a molecular cornerstone of antimicrobial resistance in the One Health era
+135	Biology/101038s41579023009636	The oral microbiome: diversity, biogeography and human health
+136	Biology/101038s41579023009690	The gut microbiota and its biogeography
+137	Biology/101038s41579023009805	The interplay between microbial communities and soil properties
+138	Biology/101038s41579023009841	Machine learning for microbiologists
+139	Biology/101038s41580023006454	Understanding mechanisms of antioxidant action in health and disease
+140	Biology/101038s41580023006481	Mechanisms controlling cellular and systemic iron homeostasis
+141	Biology/101038s41580023006730	The molecular basis for cellular function of intrinsically disordered protein regions
+142	Biology/101038s4158002300676x	Lysosomes as coordinators of cellular catabolism, metabolic signalling and organ physiology
+143	Biology/101038s41580023006896	A guide to cell death pathways
+144	Biology/101038s4158002300691y	Structure and growth of plant cell walls
+145	Biology/101038s41580024007035	The cell biology of ferroptosis
+146	Biology/101038s41580024007151	Cellular and molecular mechanisms of skin wound healing
+147	Biology/101038s41580024007160	Fibroblast and myofibroblast activation in normal tissue repair and fibrosis
+148	Biology/101038s4158002400727x	The senescence-associated secretory phenotype and its physiological and pathological implications
+149	Biology/101038s41586023060450	A genomic mutational constraint map using variation in 76,156 human genomes
+150	Biology/101038s41586023067733	Pesticide use negatively affects bumble bees across European landscapes
+151	Biology/101038s41586023068169	Dictionary of immune responses to cytokines at single-cell resolution
+152	Biology/101038s41586023068329	Predicting multiple conformations via sequence clustering and AlphaFold2
+153	Biology/101038s41586023069068	Reverse metabolomics for the discovery of chemical structures from humans
+154	Biology/101038s41586023069219	GDF15 linked to maternal risk of nausea and vomiting during pregnancy
+155	Biology/101038s41586023069451	Natural killer cell therapies
+156	Biology/101038s4158602306957x	Genomic data in the All of Us Research Program
+157	Biology/101038s41586023069700	Critical transitions in the Amazon forest system
+158	Biology/101038s41586023069839	7-Dehydrocholesterol dictates ferroptosis sensitivity
+159	Biology/101038s41586023070045	Conformational ensembles of the human intrinsically disordered proteome
+160	Biology/101038s41586024070196	Genetic drivers of heterogeneity in type 2 diabetes pathophysiology
+161	Biology/101038s41586024071326	Multisensory gamma stimulation promotes glymphatic clearance of amyloid
+162	Biology/101038s41586024071611	A three-dimensional liquid diode for soft, integrated permeable electronics
+163	Biology/101038s41586024072056	Concurrent inhibition of oncogenic and wild-type RAS-GTP for cancer therapy
+164	Biology/101038s41586024072154	Automated model building and protein identification in cryo-EM maps
+165	Biology/101038s4158602407237y	CGRP sensory neurons promote tissue healing via neutrophils and macrophages
+166	Biology/101038s41586024072421	FOXO1 enhances CAR T cell stemness, metabolic fitness and efficacy
+167	Biology/101038s41586024073240	Phylogenomics and the rise of the angiosperms
+168	Biology/101038s41586024073735	ROS-dependent <i>S</i>-palmitoylation activates cleaved and intact gasdermin D
+169	Biology/101038s41587023017481	Targeted DNA integration in human cells without double-strand breaks using CRISPR-associated transposases
+170	Biology/101038s41587023017561	Efficient engineering of human and mouse primary cells using peptide-assisted genome editing
+171	Biology/101038s4158702301758z	Efficient prime editing in mouse brain, liver and heart with dual AAVs
+172	Biology/101038s4158702301767y	Dictionary learning for integrative, multimodal and scalable single-cell analysis
+173	Biology/101038s4158702301793w	Pangenome graph construction from genome alignments with Minigraph-Cactus
+174	Biology/101038s41587023019578	Killing tumor-associated bacteria with a liposomal antibiotic generates neoantigens that induce anti-tumor immune r
+175	Biology/101038s41587023020199	Inferring super-resolution tissue architecture by integrating spatial transcriptomics with histology
+176	Biology/101038s41587023020608	IL-10-expressing CAR T cells resist dysfunction and mediate durable clearance of solid tumors and metastases
+177	Biology/101038s4158702302078y	Engineered virus-like particles for transient delivery of prime editor ribonucleoprotein complexes in vivo
+178	Biology/101038s4158702302085z	In vivo human T cell engineering with enveloped delivery vehicles
+179	Biology/101038s41590023016605	The pathophysiology of sepsis and precision-medicine-based immunotherapy
+180	Biology/101038s41590023016878	A second-generation M1-polarized CAR macrophage with antitumor efficacy
+181	Biology/101038s4159102302702z	A deep learning system for predicting time to progression of diabetic retinopathy
+182	Biology/101038s41591024028751	Locoregional delivery of IL-13Rα2-targeting CAR-T cells in recurrent high-grade glioma: a phase 1 trial
+183	Biology/101038s41592024022010	scGPT: toward building a foundation model for single-cell multi-omics using generative AI
+184	Biology/101038s41596024009691	Comprehensive synthesis of Ti<sub>3</sub>C<sub>2</sub>T<sub><i>x</i></sub> from MAX phase to MXene
+185	Biology/101038s41929024011263	A strongly coupled Ru-CrO<sub><i>x</i></sub> cluster-cluster heterostructure for efficient alkaline hydrogen electr
+186	Biology/101038s4225402300676y	Robustness and resilience of complex networks
+187	Biology/101038s44160023004170	Engineered enzymes for the synthesis of pharmaceuticals and other high-value products
+188	Biology/101038s4416002300444x	Synthetic tuning stabilizes a high-valence Ru single site for efficient electrolysis
+189	Business/101007s00146022014150	What about investors? ESG analyses as tools for ethics-based AI auditing
+190	Business/101007s10311023016823	Synthesis of green nanoparticles for energy, biomedical, environmental, agricultural, and food applications: A revi
+191	Business/101007s1031102301689w	Biomaterials technology and policies in the building sector: a review
+192	Business/101007s10479020038124	Big data analytics-enabled sensing capability and organizational outcomes: assessing the mediating effects of busin
+193	Business/101007s1047902003887z	Does data-driven culture impact innovation and performance of a firm? An empirical examination
+194	Business/101007s1047902003888y	Process innovation for green product in a closed loop supply chain with remanufacturing
+195	Business/101007s1047902103956x	Artificial intelligence-driven innovation for enhancing supply chain resilience and performance under the effect of
+196	Business/101007s10479021039749	Supply chain viability: conceptualization, measurement, and nomological validation
+197	Business/101007s10479021040477	Exiting the COVID-19 pandemic: after-shock risks and avoidance of disruption tails in supply chains
+198	Business/101007s1047902104107y	A structured literature review on the interplay between emerging technologies and COVID-19-insights and directions 
+199	Business/101007s10479021041492	An intelligent payment card fraud detection system
+200	Business/101007s10479021043972	How is COVID-19 altering the manufacturing landscape? A literature review of imminent challenges and management int
+201	Business/101007s10479021044073	Adoption of robust business analytics for product innovation and organizational performance: the mediating role of 
+202	Business/101007s1047902204600y	Bank stock performance during the COVID-19 crisis: does efficiency explain why Islamic banks fared relatively bette
+203	Business/101007s10479022047656	Digital Innovation, Data Analytics, and Supply Chain Resiliency: A Bibliometric-based Systematic Literature Review
+204	Business/101007s1055102305334y	Employee Stock Ownership Plans and Corporate Environmental Engagement
+205	Business/101007s10551023054563	A Contribution to Sustainable Human Resource Development in the Era of the COVID-19 Pandemic
+206	Business/101007s10639023120801	The determinants of Gen Z's metaverse adoption decisions in higher education: Integrating UTAUT2 with personal inno
+207	Business/101007s10639023121679	Potential to use metaverse for future teaching and learning
+208	Business/101007s10660022095379	Do digital natives use mobile payment differently than digital immigrants? A comparative study between generation X
+209	Business/101007s10660022095691	Blockchain for sustainable supply chain management: trends and ways forward
+210	Business/101007s10660022095815	Reselling or agency selling? The strategic role of live streaming commerce in distribution contract selection
+211	Business/101007s1066002209587z	Optimal platform sales mode in live streaming commerce supply chains
+212	Business/101007s10660023097340	A comparative analysis between FinTech and traditional stock markets: using Russia and Ukraine war data
+213	Business/101007s10668022027095	The impact of green finance on environmental degradation in BRI region
+214	Business/101007s1066802202780y	Factors driving CO<sub>2</sub> emissions: the role of energy transition and brain drain
+215	Business/101007s10668022028109	A comparison of CO<sub>2</sub> emissions, load capacity factor, and ecological footprint for Thailand's environment
+216	Business/101007s10668022028872	Sustainability trends and gaps in the textile, apparel and fashion industries
+217	Business/101007s1066802302921x	Environmental-, social-, and governance-related factors for business investment and sustainability: a scientometric
+218	Business/101007s10668023030261	Assessing the spillover effects of research and development and renewable energy on CO<sub>2</sub> emissions: inter
+219	Business/101007s10668023031115	A step towards sustainable development: role of green energy and environmental innovation
+220	Business/101007s1066802303546w	Policy uncertainty, renewable energy, corruption and CO<sub>2</sub> emissions nexus in BRICS-1 countries: a panel C
+221	Business/101007s10700023094093	Medical health resources allocation evaluation in public health emergencies by an improved ORESTE method with lingu
+222	Business/101007s10755023096861	Students' Acceptance of ChatGPT in Higher Education: An Extended Unified Theory of Acceptance and Use of Technology
+223	Business/101007s1079602110168y	Cognitive Chatbot for Personalised Contextual Customer Service: Behind the Scene and beyond the Hype
+224	Business/101007s1079602110203y	Enablers and Inhibitors of AI-Powered Voice Assistants: A Dual-Factor Approach by Integrating the Status Quo Bias a
+225	Business/101007s10796021102229	A Confirmation Bias View on Social Media Induced Polarisation During Covid-19
+226	Business/101007s1079602210242z	Fake news on Social Media: the Impact on Society
+227	Business/101007s10796022102585	Can you be Mindful? The Effectiveness of Mindfulness-Driven Interventions in Enhancing the Digital Resilience to Fa
+228	Business/101007s10796022103395	Impact of Digital Assistant Attributes on Millennials' Purchasing Intentions: A Multi-Group Analysis using PLS-SEM,
+229	Business/101007s10845023020748	A novel approach of tool condition monitoring in sustainable machining of Ni alloy with transfer learning models
+230	Business/101007s10961022099782	How do entrepreneurs perform digital marketing across the customer journey? A review and discussion of the main use
+231	Business/101007s11142023097530	Going digital: implications for firm value and performance
+232	Business/101007s1125702309364z	Fairness in recommender systems: research landscape and future directions
+233	Business/101007s11301023003375	A systematic literature review on greenwashing and its relationship to stakeholders: state of art and future resear
+234	Business/101007s1135602325699x	Have carbon emission trading pilot policy improved urban innovation capacity? Evidence from a quasi-natural experim
+235	Business/101007s1136502200800x	Customer relationship management and its impact on entrepreneurial marketing: a literature review
+236	Business/101007s11367022020312	Circular economy paths in the olive oil industry: a Life Cycle Assessment look into environmental performance and b
+237	Business/101007s11846023006389	Digital innovation in entrepreneurial firms: a systematic literature review
+238	Business/101007s11846023006478	The role of digitalization in business and management: a systematic literature review
+239	Business/101007s11846024007291	The burgeoning role of literature review articles in management research: an introduction and outlook
+240	Business/101007s11846024007380	How to design bibliometric research: an overview and a framework proposal
+241	Business/101007s12144022028839	The fear of COVID-19 and job insecurity impact on depression and anxiety: An empirical study in China in the COVID-
+242	Business/101007s1222002301463y	Solutions with Sign Information for Noncoercive Double Phase Equations
+243	Business/101007s1313202201092w	Linking Digital Capacity to Innovation Performance: the Mediating Role of Absorptive Capacity
+244	Business/101007s1313202301214y	Exploring Human Resource Management Digital Transformation in the Digital Age
+245	Business/101007s13132023012200	Revisiting Research and Development Expenditures and Trade Adjusted Emissions: Green Innovation and Renewable Energ
+246	Business/101016japenergy2023122212	Race to carbon neutrality in South Africa: What role does environmental technological innovation play?
+247	Business/101016japsusc2023158639	Stabilized Ti3C2Tx-doped 3D vesicle polypyrrole coating for efficient protection toward copper in artificial seawat
+248	Business/101016jcej2023147863	Simultaneously tuning oxygen reduction pathway and charge transfer dynamics toward sacrificial agent-free photocata
+249	Business/101016jeap202312008	The role of higher education and institutional quality for carbon neutrality: Evidence from emerging economies
+250	Business/101016jeiar2023107335	Does environmental regulation improve energy transition performance in China?
+251	Business/101016jeneco2024107403	Do the benefits outweigh the disadvantages? Exploring the role of artificial intelligence in renewable energy
+252	Business/101016jenergy2023129891	Towards a greener future: How green technology innovation and energy efficiency are transforming sustainability
+253	Business/101016jenergy2024131894	Energy assessment in rural regions of China with various scenarios: Historical-to-futuristic
+254	Business/101016jenvres2023117910	Whether the green credit policy effectively promote green transition of enterprises in China? Empirical analysis an
+255	Business/101016jenvres2024118784	Balancing agricultural production and environmental sustainability: Based on Economic Analysis From North China Pla
+256	Business/101016jesr2024101309	Research on the evolution of China's photovoltaic technology innovation network from the perspective of patents
+257	Business/101016jeswa2023121464	Data-driven interpretable ensemble learning methods for the prediction of wind turbine power incorporating SHAP ana
+258	Business/101016jeswa2023122442	Artificial Intelligence Trust, Risk and Security Management (AI TRiSM): Frameworks, applications, challenges and fu
+259	Business/101016jfoodchem2023137231	Natural antimicrobials from plants: Recent advances and future prospects
+260	Business/101016jfoodchem2023137386	Virtual screening and characteristics of novel umami peptides from porcine type I collagen
+261	Business/101016jfoodchem2023137987	A colorimetric and NIR fluorescent probe for ultrafast detecting bisulfite and organic amines and its applications 
+262	Business/101016jfoodhyd2023109305	Gel properties of rice proteins-pectin composite and the delivery potential for curcumin: Based on different concen
+263	Business/101016jgr202303025	The need for energy efficiency and economic prosperity in a sustainable environment
+264	Business/101016jgr202304003	Modeling the linkage between climate-tech, energy transition, and CO2 emissions: Do environmental regulations matte
+265	Business/101016jgr202305016	Linking trade openness to load capacity factor: The threshold effects of natural resource rent and corruption contr
+266	Business/101016jgr202306009	Economic growth, nuclear energy, renewable energy, and environmental quality: Investigating the environmental Kuzne
+267	Business/101016jgr202308019	Renewable energy, climate policy uncertainty, industrial production, domestic exports/re-exports, and CO2 emissions
+268	Business/101016jgsf2023101646	Do investments in green energy, energy efficiency, and nuclear energy R&D improve the load capacity factor? An augm
+269	Business/101016jgsf2023101669	Adoption of green finance and green innovation for achieving circularity: An exploratory review and future directio
+270	Business/101016jgsf2023101689	The impact of green finance, eco-innovation, renewable energy and carbon taxes on CO2 emissions in BRICS countries:
+271	Business/101016jgsf2023101693	The role of disaggregated renewable energy consumption on income and load capacity factor: A novel inclusive sustai
+272	Business/101016jheliyon2024e24764	Innovative association network of new energy vehicle charging stations in China: Structural evolution and policy im
+273	Business/101016jijhydene202304164	Hydrogen fuel cell commercial vehicles in China: Evaluation of carbon emission reduction and its economic value
+274	Business/101016jijhydene202307032	Understanding innovation of new energy industry: Observing development trend and evolution of hydrogen fuel cell ba
+275	Business/101016jijhydene202308170	The role of electricity-based hydrogen in the emerging power-to-X economy
+276	Business/101016jijinfomgt2023102716	Generative artificial intelligence in marketing: Applications, opportunities, challenges, and research agenda
+277	Business/101016jiref202308010	Environmental regulations and capital investment: Does green innovation allow to grow?
+278	Business/101016jirfa2023102960	Effects of climate policy uncertainty on green innovation in Chinese enterprises
+279	Business/101016jirfa2023102982	Towards sustainable development: How does ESG performance promotes corporate green transformation
+280	Business/101016jirfa2023103003	Media coverage and corporate ESG performance: Evidence from China
+281	Business/101016jjbusres2023114325	The authentic virtual influencer: Authenticity manifestations in the metaverse
+282	Business/101016jjclepro2023140527	Navigating the confluence of artificial intelligence and education for sustainable development in the era of indust
+283	Business/101016jjclepro2023140533	Green drives greenbacks: The impact of sustainable innovation on corporate cash holdings in BRICS nations
+284	Business/101016jjclepro2024140832	Do energy efficiency R&D investments and information and communication technologies promote environmental sustainab
+285	Business/101016jjenvman2023119458	A critical review for the impact of anaerobic digestion on the sustainable development goals
+286	Business/101016jjenvman2023119709	Evaluating the roles of energy innovation, fossil fuel costs and environmental compliance towards energy transition
+287	Business/101016jjenvman2024120027	Advancing eco-excellence: Integrating stakeholders' pressures, environmental awareness, and ethics for green innova
+288	Business/101016jjretconser2023103560	Artificial intelligence-generated virtual influencer: Examining the effects of emotional display on user engagement
+289	Business/101016jjue2022103462	New Evidence on Redlining by Federal Housing Programs in the 1930s
+290	Business/101016jpsep202402030	Hydrogen role in energy transition: A comparative review
+291	Business/101016jtechfore2023123097	Research on the impact of the integration of digital economy and real economy on enterprise green innovation
+292	Business/101016jtechfore2023123153	From riches to digitalization: The role of AMC in overcoming challenges of digital transformation in resource-rich 
+293	Business/101016jtechfore2024123212	Beyond borders: Assessing the transboundary effects of environmental regulation on technological development in Eur
+294	Business/101038s41565023015438	Efficient multicarbon formation in acidic CO<sub>2</sub> reduction via tandem electrocatalysis
+295	Business/101038s41586023068409	A synthesis of evidence for policy from behavioural science during COVID-19
+296	Business/101038s41586023068730	A novel antibiotic class targeting the lipopolysaccharide transporter
+297	Cell Biology/101007s11010023047566	Global trend in exosome isolation and application: an update concept in management of diseases
+298	Cell Biology/101007s13206023001311	Advances in Technical Assessment of Spiral Inertial Microfluidic Devices Toward Bioparticle Separation and Profilin
+299	Cell Biology/101007s1339902202436x	Phyto-mediated synthesis of CuO nanoparticles using aqueous leaf extract of <i>Artemisia deserti</i> and their anti
+300	Cell Biology/101016jbbamcr2023119573	Reactive oxygen species and cell signaling. Review
+301	Cell Biology/101016jbioactmat202310014	Full-thickness osteochondral defect repair using a biodegradable bilayered scaffold of porous zinc and chondroitin 
+302	Cell Biology/101016jccell202401010	Immune heterogeneity in small-cell lung cancer and vulnerability to immune checkpoint blockade
+303	Cell Biology/101016jcell202312026	Immune evasion, infectivity, and fusogenicity of SARS-CoV-2 BA.2.86 and FLip variants
+304	Cell Biology/101016jchom202401014	XBB.1.5 monovalent mRNA vaccine booster elicits robust neutralizing antibodies against XBB subvariants and JN.1
+305	Cell Biology/101016jcmet202401001	Parallel control of cold-triggered adipocyte thermogenesis by UCP1 and CKB
+306	Cell Biology/101016jfoodchem2023137780	Extraction of phenolic compounds from grape pomace using ohmic heating: Chemical composition, bioactivity and bioac
+307	Cell Biology/101016jfoodhyd2023109439	Remodeling the structure of soy protein fibrils to hydrogels for co-encapsulation of (-)-epigallocatechin gallate (
+308	Cell Biology/101016jijbiomac2023129006	An injectable collagen peptide-based hydrogel with desirable antibacterial, self-healing and wound-healing properti
+309	Cell Biology/101016jjbiotec202311005	Production of 1-methylxanthine via the biodegradation of theophylline by an optimized<i> Escherichia</i><i> coli</i
+310	Cell Biology/101016jjconrel202311005	Dacarbazine-primed carbon quantum dots coated with breast cancer cell-derived exosomes for improved breast cancer t
+311	Cell Biology/101016jmolcel202311040	The biochemical pathways of apoptotic, necroptotic, pyroptotic, and ferroptotic cell death
+312	Cell Biology/101016jmolstruc2023137400	Biological evaluation, DFT, MEP, HOMO-LUMO analysis and ensemble docking studies of Zn(II) complexes of bidentate a
+313	Cell Biology/101016jprp2023154991	MALAT1: A key regulator in lung cancer pathogenesis and therapeutic targeting
+314	Cell Biology/101016jredox2023102999	Cysteine and homocysteine can be exploited by GPX4 in ferroptosis inhibition independent of GSH synthesis
+315	Cell Biology/101016jredox2024103066	Hydrogen sulfide protects cardiomyocytes from doxorubicin-induced ferroptosis through the SLC7A11/GSH/GPx4 pathway 
+316	Cell Biology/101016jsaa2023123815	Spectroscopy and molecular simulation on the interaction of Nano-Kaempferol prepared by oil-in-water with two carri
+317	Cell Biology/101016jsnb2023134740	A stable NIR fluorescent probe for imaging lipid droplets in triple-negative breast cancer
+318	Cell Biology/101016jstem202312009	3D bioprinting of human neural tissues with functional connectivity
+319	Cell Biology/101016jstem202312012	SARS-CoV-2 infection causes dopaminergic neuron senescence
+320	Cell Biology/101016jtcb202306001	Pericytes in the disease spotlight
+321	Cell Biology/101016jtcb202306002	Ferroptosis in mitochondrial cardiomyopathy
+322	Cell Biology/101016jtcb202306006	The ins-and-outs of exosome biogenesis, secretion, and internalization
+323	Cell Biology/101016jtcb202307009	Disulfidptosis: disulfide stress-induced cell death
+324	Cell Biology/101016s1474442223003265	Towards a new classification of atrial fibrillation detected after a stroke or a transient ischaemic attack
+325	Cell Biology/101016s2468125324000347	A biomarker-stratified comparison of top-down versus accelerated step-up treatment strategies for patients with new
+326	Cell Biology/101038s4138802302907z	ROS production by mitochondria: function or dysfunction?
+327	Cell Biology/101038s41422023008646	Hypoxia induces mitochondrial protein lactylation to limit oxidative phosphorylation
+328	Cell Biology/101038s41422023009189	The roles and regulatory mechanisms of TGF-β and BMP signaling in bone and cartilage development, homeostasis and d
+329	Cell Biology/101038s41556023013146	Gut microbial metabolite facilitates colorectal cancer development via ferroptosis inhibition
+330	Cell Biology/101038s41556024013608	A guideline on the molecular ecosystem regulating ferroptosis
+331	Cell Biology/101038s41556024013644	Lipid droplets and cellular lipid flux
+332	Cell Biology/101038s41556024013979	A palmitoylation-depalmitoylation relay spatiotemporally controls GSDMD activation in pyroptosis
+333	Cell Biology/101038s4155702301321y	Assembling membraneless organelles from de novo designed proteins
+334	Cell Biology/101038s41560023014216	Multifunctional sulfonium-based treatment for perovskite solar cells with less than 1% efficiency loss over 4,500-h
+335	Cell Biology/101038s41560024014714	Inhibition of halide oxidation and deprotonation of organic cations with dimethylammonium formate for air-processed
+336	Cell Biology/101038s41564023015786	Methane-dependent complete denitrification by a single <i>Methylomirabilis</i> bacterium
+337	Cell Biology/101038s41565023015483	Combinatorial development of nebulized mRNA delivery formulations for the lungs
+338	Cell Biology/101038s41565023015536	Bacteria-derived nanovesicles enhance tumour vaccination by trained immunity
+339	Cell Biology/101038s41566024013915	In vivo NIR-II fluorescence imaging for biology and medicine
+340	Cell Biology/101038s41568023006583	Translating p53-based therapies for cancer into the clinic
+341	Cell Biology/101038s41569023009641	Immune and inflammatory mechanisms in hypertension
+342	Cell Biology/101038s41571023008422	Pharmacological reactivation of p53 in the era of precision anticancer medicine
+343	Cell Biology/101038s41571024008591	Dendritic cells as orchestrators of anticancer immunity and immunotherapy
+344	Cell Biology/101038s41571024008760	Targeting cuproplasia and cuproptosis in cancer
+345	Cell Biology/101038s41573023008486	Targeting hypoxia-inducible factors: therapeutic opportunities and challenges
+346	Cell Biology/101038s41573024008966	The present and future of bispecific antibodies for cancer therapy
+347	Cell Biology/101038s41573024009209	Targeting immunogenic cell stress and death for cancer therapy
+348	Cell Biology/101038s41574023009206	Genomic alterations in thyroid cancer: biological and clinical insights
+349	Cell Biology/101038s4157502300840w	Therapeutic developments in pancreatic cancer
+350	Cell Biology/101038s41575023008713	Neutrophils: from IBD to the gut microbiota
+351	Cell Biology/101038s41576023006265	Genetics of human brain development
+352	Cell Biology/101038s41576023006452	RNA modifications in physiology and disease: towards clinical applications
+353	Cell Biology/101038s4157602400718w	Genome assembly in the telomere-to-telomere era
+354	Cell Biology/101038s41577023009430	The effect of physical exercise on anticancer immunity
+355	Cell Biology/101038s41577023009498	The cancer-immune dialogue in the context of stress
+356	Cell Biology/101038s4157702400995w	Mechanistic insights from inflammasome structures
+357	Cell Biology/101038s41577024010148	Short-chain fatty acids: linking diet, the microbiome and immunity
+358	Cell Biology/101038s41579023009690	The gut microbiota and its biogeography
+359	Cell Biology/101038s41579023009743	Structural and functional diversity of type IV secretion systems
+360	Cell Biology/101038s4157902301003z	SARS-CoV-2 biology and host interactions
+361	Cell Biology/101038s41580023006249	The molecular basis of translation initiation and its regulation in eukaryotes
+362	Cell Biology/101038s41580023006454	Understanding mechanisms of antioxidant action in health and disease
+363	Cell Biology/101038s41580023006481	Mechanisms controlling cellular and systemic iron homeostasis
+364	Cell Biology/101038s41580023006490	FOXO transcription factors as mediators of stress adaptation
+365	Cell Biology/101038s4158002300668x	Mechanisms of SNARE proteins in membrane fusion
+366	Cell Biology/101038s41580023006730	The molecular basis for cellular function of intrinsically disordered protein regions
+367	Cell Biology/101038s4158002300674z	Activation of human endogenous retroviruses and its physiological consequences
+368	Cell Biology/101038s4158002300676x	Lysosomes as coordinators of cellular catabolism, metabolic signalling and organ physiology
+369	Cell Biology/101038s41580023006801	White adipocyte dysfunction and obesity-associated pathologies in humans
+370	Cell Biology/101038s41580023006896	A guide to cell death pathways
+371	Cell Biology/101038s4158002300691y	Structure and growth of plant cell walls
+372	Cell Biology/101038s41580023006949	Transcription regulation by long non-coding RNAs: mechanisms and disease relevance
+373	Cell Biology/101038s41580023006976	CRISPR technologies for genome, epigenome and transcriptome editing
+374	Cell Biology/101038s41580024007035	The cell biology of ferroptosis
+375	Cell Biology/101038s41580024007151	Cellular and molecular mechanisms of skin wound healing
+376	Cell Biology/101038s41580024007160	Fibroblast and myofibroblast activation in normal tissue repair and fibrosis
+377	Cell Biology/101038s4158002400727x	The senescence-associated secretory phenotype and its physiological and pathological implications
+378	Cell Biology/101038s41580024007299	Targeted protein degradation: from mechanisms to clinic
+379	Cell Biology/101038s41580024007302	Fundamentals of redox regulation in biology
+380	Cell Biology/101038s4158102300787w	Mechanisms and consequences of sex differences in immune responses
+381	Cell Biology/101038s4158402301053w	Biological and clinical roles of IL-18 in inflammatory diseases
+382	Cell Biology/101038s41586023067997	A new antibiotic traps lipopolysaccharide in its intermembrane transporter
+383	Cell Biology/101038s41586023068169	Dictionary of immune responses to cytokines at single-cell resolution
+384	Cell Biology/101038s41586023068374	Slide-tags enables single-nucleus barcoding for multimodal spatial genomics
+385	Cell Biology/101038s41586023068552	Structural basis of Gabija anti-phage defence and viral immune evasion
+386	Cell Biology/101038s4158602306866z	A break in mitochondrial endosymbiosis as a basis for inflammatory diseases
+387	Cell Biology/101038s41586023068789	7-Dehydrocholesterol is an endogenous suppressor of ferroptosis
+388	Cell Biology/101038s41586023069362	Cell-type-directed design of synthetic enhancers
+389	Cell Biology/101038s41586023069451	Natural killer cell therapies
+390	Cell Biology/101038s4158602306955z	Functional and evolutionary significance of unknown genes from uncultivated taxa
+391	Cell Biology/101038s41586023069848	An epigenetic barrier sets the timing of human neuronal maturation
+392	Cell Biology/101038s41586024070196	Genetic drivers of heterogeneity in type 2 diabetes pathophysiology
+393	Cell Biology/101038s41586024070985	IL-10 constrains sphingolipid metabolism to limit inflammation
+394	Cell Biology/101038s41586024071353	SOX17 enables immune evasion of early colorectal adenomas and cancers
+395	Cell Biology/101038s41586024071679	Mitochondrial complex I activity in microglia sustains neuroinflammation
+396	Cell Biology/101038s41586024071857	APOE4/4 is linked to damaging lipid droplets in Alzheimer's disease microglia
+397	Cell Biology/101038s41586024072056	Concurrent inhibition of oncogenic and wild-type RAS-GTP for cancer therapy
+398	Cell Biology/101038s41586024072172	Transcription-replication conflicts underlie sensitivity to PARP inhibitors
+399	Cell Biology/101038s4158602407237y	CGRP sensory neurons promote tissue healing via neutrophils and macrophages
+400	Cell Biology/101038s4158602407238x	Depleting myeloid-biased haematopoietic stem cells rejuvenates aged immunity
+401	Cell Biology/101038s41586024072421	FOXO1 enhances CAR T cell stemness, metabolic fitness and efficacy
+402	Cell Biology/101038s41586024073008	FOXO1 is a master regulator of memory programming in CAR T cells
+403	Cell Biology/101038s41586024073142	Brain endothelial GSDMD activation mediates inflammatory BBB breakdown
+404	Cell Biology/101038s4158602407336w	Paternal microbiome perturbations impact offspring fitness
+405	Cell Biology/101038s41586024073735	ROS-dependent <i>S</i>-palmitoylation activates cleaved and intact gasdermin D
+406	Cell Biology/101038s4158602407379z	Tumour-selective activity of RAS-GTP inhibition in pancreatic cancer
+407	Cell Biology/101038s41587023017285	A relay velocity model infers cell-dependent RNA velocity
+408	Cell Biology/101038s41587023017561	Efficient engineering of human and mouse primary cells using peptide-assisted genome editing
+409	Cell Biology/101038s4158702301766z	Stabilized mosaic single-cell data integration using unshared features
+410	Cell Biology/101038s4158702301767y	Dictionary learning for integrative, multimodal and scalable single-cell analysis
+411	Cell Biology/101038s41587023017721	scDesign3 generates realistic in silico data for multimodal single-cell and spatial omics
+412	Cell Biology/101038s4158702301783y	A prime editor mouse to model a broad spectrum of somatic mutations in vivo
+413	Cell Biology/101038s41587023018157	High-throughput RNA isoform sequencing using programmed cDNA concatenation
+414	Cell Biology/101038s41587023018219	Adenine transversion editors enable precise, efficient A•T-to-C•G base editing in mammalian cells and embryos
+415	Cell Biology/101038s41587023018406	Design of a mucin-selective protease for targeted degradation of cancer-associated mucins
+416	Cell Biology/101038s4158702301857x	Evolutionary mining and functional characterization of TnpB nucleases identify efficient miniature genome editors
+417	Cell Biology/101038s4158702301863z	De novo detection of somatic mutations in high-throughput single-cell profiling data sets
+418	Cell Biology/101038s41587023019578	Killing tumor-associated bacteria with a liposomal antibiotic generates neoantigens that induce anti-tumor immune r
+419	Cell Biology/101038s41587023020199	Inferring super-resolution tissue architecture by integrating spatial transcriptomics with histology
+420	Cell Biology/101038s41587023020608	IL-10-expressing CAR T cells resist dysfunction and mediate durable clearance of solid tumors and metastases
+421	Cell Biology/101038s4158702302078y	Engineered virus-like particles for transient delivery of prime editor ribonucleoprotein complexes in vivo
+422	Cell Biology/101038s4158702302085z	In vivo human T cell engineering with enveloped delivery vehicles
+423	Cell Biology/101038s41587023020997	Ultra-fast label-free quantification and comprehensive proteome coverage with narrow-window data-independent acquis
+424	Cell Biology/101038s41588024016643	BANKSY unifies cell typing and tissue domain segmentation for scalable spatial omics data analysis
+425	Cell Biology/101038s41589023015385	Complete biosynthesis of the potent vaccine adjuvant QS-21
+426	Cell Biology/101038s41590023016605	The pathophysiology of sepsis and precision-medicine-based immunotherapy
+427	Cell Biology/101038s41590023016878	A second-generation M1-polarized CAR macrophage with antitumor efficacy
+428	Cell Biology/101038s41590023017000	BCG vaccination stimulates integrated organ immunity by feedback of the adaptive immune response to imprint prolong
+429	Cell Biology/101038s41590024017922	Human lung cancer harbors spatially organized stem-immunity hubs associated with response to immunotherapy
+430	Cell Biology/101038s41590024018830	High-dimensional single-cell analysis of human natural killer cell heterogeneity
+431	Cell Biology/101038s41591023027612	Differential peripheral immune signatures elicited by vegan versus ketogenic diets in humans
+432	Cell Biology/101038s41591023027858	Safety, efficacy and determinants of response of allogeneic CD19-specific CAR-NK cells in CD19<SUP>+</SUP> B cell t
+433	Cell Biology/101038s41591023027867	Adjuvant sintilimab in resected high-risk hepatocellular carcinoma: a randomized, controlled, phase 2 trial
+434	Cell Biology/101038s41591024028751	Locoregional delivery of IL-13Rα2-targeting CAR-T cells in recurrent high-grade glioma: a phase 1 trial
+435	Cell Biology/101038s41592023019879	Community-developed checklists for publishing images and image analyses
+436	Cell Biology/101038s41592023020856	StayGold variants for molecular fusion and membrane-targeting applications
+437	Cell Biology/101038s41592023021135	Serial Lift-Out: sampling the molecular anatomy of whole organisms
+438	Cell Biology/101038s41592024022010	scGPT: toward building a foundation model for single-cell multi-omics using generative AI
+439	Cell Biology/101038s41592024023057	Large-scale foundation model on single-cell transcriptomics
+440	Cell Biology/101038s41893024012661	Fast-charge high-voltage layered cathodes for sodium-ion batteries
+441	Cell Biology/101038s41928023011077	Biomimetic olfactory chips based on large-scale monolithically integrated nanotube sensor arrays
+442	Cell Biology/101038s41929024011263	A strongly coupled Ru-CrO<sub><i>x</i></sub> cluster-cluster heterostructure for efficient alkaline hydrogen electr
+443	Cell Biology/101038s4225402300676y	Robustness and resilience of complex networks
+444	Cell Biology/101038s43018023006473	Targeting pancreatic cancer metabolic dependencies through glutamine antagonism
+445	Cell Biology/101038s43018024007389	The pleiotropic functions of reactive oxygen species in cancer
+446	Cell Biology/101038s43587023005605	Prophylactic and long-lasting efficacy of senolytic CAR T cells against age-related metabolic dysfunction
+447	Chemistry/101007s10924023030048	Preparation of Polyacrylamide Titanium Dioxide Hybrid Nanocomposite by Direct Polymerization and Its Applicability 
+448	Chemistry/101007s1227402357004	Atomically dispersed materials: Ideal catalysts in atomic era
+449	Chemistry/101007s1227402360378	The reformation of catalyst: From a trial-and-error synthesis to rational design
+450	Chemistry/101007s1339902202362y	Zero-valent iron supported-lemon derived biochar for ultra-fast adsorption of methylene blue
+451	Chemistry/101007s13399022029071	Plant-based synthesis of Ag-doped ZnO/MgO nanocomposites using <i>Caccinia macranthera</i> extract and evaluation o
+452	Chemistry/101007s13399022036049	Regeneration and reusability of non-conventional low-cost adsorbents to remove dyes from wastewaters in multiple co
+453	Chemistry/101007s13399023052649	Green synthesis of CuFe<sub>2</sub>O<sub>4</sub> nanoparticles from bioresource extracts and their applications in 
+454	Chemistry/101007s42765024003976	Electrospun trilayer eccentric Janus nanofibers for a combined treatment of periodontitis
+455	Chemistry/101016japcatb2023123236	Electrocatalytic upcycling of polyethylene terephthalate plastic to formic acid coupled with energy-saving hydrogen
+456	Chemistry/101016japcatb2023123238	Defective Bi@BiOBr/C microrods derived from Bi-MOF for efficient photocatalytic NO abatement: Directional regulatio
+457	Chemistry/101016japcatb2023123275	Hydrogen spillover in MoO<sub>X</sub>Rh hierarchical nanosheets boosts alkaline HER catalytic activity
+458	Chemistry/101016japcatb2023123289	Elucidation of the mechanistic origin of spin-state-dependent P-doped Fe single-atom catalysts for the oxidation of
+459	Chemistry/101016japcatb2023123346	Adding Fe/dicyandiamide to Co-MOF to greatly improve its ORR/OER bifunctional electrocatalytic activity
+460	Chemistry/101016japmate2023100140	Chemically bonded BiVO4/Bi19Cl3S27 heterojunction with fast hole extraction dynamics for continuous CO2 photoreduct
+461	Chemistry/101016japmate2024100183	Chemically bonded Mn0.5Cd0.5S/BiOBr S-scheme photocatalyst with rich oxygen vacancies for improved photocatalytic d
+462	Chemistry/101016jcarbon2024118884	Vertically implanting MoSe2 nanosheets on superior thin C-doped g-C3N4 nanosheets towards interface-enhanced electr
+463	Chemistry/101016jcarbon2024118925	Perspectives of nitrogen-doped carbons for electromagnetic wave absorption
+464	Chemistry/101016jcarbon2024119233	Constructing multiple heterogeneous interfaces in one-dimensional carbon fiber materials for superior electromagnet
+465	Chemistry/101016jcclet2023108977	Recent advances in visible light-me diate d chemical transformations of enaminones
+466	Chemistry/101016jcej2024149264	Accelerating the generation of NiOOH by in-situ surface phosphating nickel sulfide for promoting the proton-coupled
+467	Chemistry/101016jcej2024152041	Surface engineering strategy for MXene to tailor electromagnetic wave absorption performance
+468	Chemistry/101016jceramint202312042	Fabrication of MnSe/WSe2 nanohybrid electrode prepared through hydrothermal method for supercapacitor applications
+469	Chemistry/101016jceramint202404085	Structural color tunable intelligent mid-infrared thermal control emitter
+470	Chemistry/101016jcjsc2023100198	Facilitating efficient photocatalytic hydrogen evolution via enhanced carrier migration at MOF-on-MOF S-scheme hete
+471	Chemistry/101016jcompositesb2023111159	Color adjustable, mechanically robust, flame-retardant and weather-resistant TiO<sub>2</sub>/MMT/CNF hierarchical n
+472	Chemistry/101016jdiamond2023110764	Enhanced performance of hydrothermally prepared Ag2Se/rGO nanosheet composite for energy storage applications
+473	Chemistry/101016jdiamond2024110843	A wide-band solar absorber based on tungsten nano-strip resonator group and graphene for near-ultraviolet to near-i
+474	Chemistry/101016jensm2023103124	High-safety lithium metal pouch cells for extreme abuse conditions by implementing flame-retardant perfluorinated g
+475	Chemistry/101016jesci2023100208	A plasmonic S-scheme Au/MIL-101(Fe)/BiOBr photocatalyst for efficient synchronous decontamination of Cr(VI) and nor
+476	Chemistry/101016jest2023109859	Vanadium oxide/carbonized chestnut needle composites as cathode materials for advanced aqueous zinc-ion batteries
+477	Chemistry/101016jest2023110289	Hydrothermal synthesis of the NiS@g-C3N4 nanohybrid electrode material for supercapacitor applications
+478	Chemistry/101016jfochx2023101061	Ultra-high pressure improved gelation and digestive properties of Tai Lake whitebait myofibrillar protein
+479	Chemistry/101016jfoodchem2023137099	Effect of polysaccharide addition on food physical properties: A review
+480	Chemistry/101016jfoodchem2023137215	Carrageenan-based multifunctional packaging films containing Zn-carbon dots/anthocyanin derived from Kohlrabi peel 
+481	Chemistry/101016jfoodchem2023137933	Molecularly imprinted polymers-aptamer electrochemical sensor based on dual recognition strategy for high sensitivi
+482	Chemistry/101016jfoodchem2024139238	Dynamic simulation and experimental studies of molecularly imprinted label-free sensor for determination of milk qu
+483	Chemistry/101016jheliyon2024e24467	Green synthesis of<i> Eucalyptus</i><i> globulus</i> zinc nanoparticles and its use in antimicrobial insect repelle
+484	Chemistry/101016jicheatmasstransfer2024107527	Improving battery safety by utilizing composite phase change material to delay the occurrence of thermal runaway ev
+485	Chemistry/101016jijhydene202301344	Recent advancements in hydrogen storage - Comparative review on methods, operating conditions and challenges
+486	Chemistry/101016jijhydene202305048	Synergistic effect of Cu/Ni cocatalysts on CdS for sun-light driven hydrogen generation from water splitting
+487	Chemistry/101016jijhydene202309021	Large scale of green hydrogen storage: Opportunities and challenges
+488	Chemistry/101016jisci2023108736	Fabrication of a hierarchical NiTe@NiFe-LDH core-shell array for high-efficiency alkaline seawater oxidation
+489	Chemistry/101016jjcis202311008	In situ selective selenization of ZIF-derived CoSe<sub>2</sub> nanoparticles on NiMn-layered double hydroxide@CuBr<
+490	Chemistry/101016jjcis202401012	Defects materials of Institut Lavoisier-125(Ti) materials enhanced photocatalytic activity for toluene and chlorobe
+491	Chemistry/101016jjcis202401051	Mechanism of electrocatalytic CO2 reduction reaction by borophene supported bimetallic catalysts
+492	Chemistry/101016jjcis202401154	Methanol-induced assembly and pyrolysis preparation of three-dimensional N-doped interconnected open carbon cages s
+493	Chemistry/101016jjechem202310032	Challenges and opportunities for battery hea- lth estimation: Bridging laboratory research and real-world applicati
+494	Chemistry/101016jjelechem2024118072	CuCo<sub>2</sub>O<sub>4</sub>/CF cathode with bifunctional and dual reaction centers exhibits high RhB degradation 
+495	Chemistry/101016jjmst202306024	Unique electromagnetic wave absorber for three-dimensional framework engineering with copious heterostructures
+496	Chemistry/101016jjmst202309023	Heterostructure design of hydrangea-like Co 2 P/Ni 2 P@C multilayered hollow microspheres for high-efficiency micro
+497	Chemistry/101016jjpcs2024111919	Synthesis of high-performance supercapacitor electrode materials by hydrothermal route based on ZnSe/MnSe composite
+498	Chemistry/101016jmaterresbull2023112635	Multifunctional terahertz device with active switching between bimodal perfect absorption and plasmon-induced trans
+499	Chemistry/101016jmcat2023113738	Decorating CdS with cobaltous hydroxide and graphene dual cocatalyst for photocatalytic hydrogen production coupled
+500	Chemistry/101016jmcat2024113858	Photoredox-catalyzed coupling of CO2 reduction and amines oxidation by Cu doped CdS quantum dots
+501	Chemistry/101016jmolliq2024124117	Pyracantha fortuneana alcohol extracts as biodegradable corrosion inhibitors for copper in H2SO4 media
+502	Chemistry/101016jmolliq2024124392	Effect of metal organic framework alginate aerogel composite sponge on adsorption of tartrazine from aqueous soluti
+503	Chemistry/101016jmolstruc2023136729	Exploring the effects of counterions and solvents on binuclear and tetranuclear Cu(II) oligo(N,O-donor) salamo-base
+504	Chemistry/101016jmolstruc2023137148	Crystal structure and luminescent mechanochromism of a quinoline-appended acylhydrazone ligand and its Zn(II) compl
+505	Chemistry/101016jmolstruc2023137199	Study on solvent effect and coordination characteristics of two different types of Cu(II) salamo-salen-salamo-hybri
+506	Chemistry/101016jmolstruc2023137341	Differently structural Cu(II) and Ni(II) complexes of a nonsymmetrical tetradentate half-salamo like N3O-donor liga
+507	Chemistry/101016jmolstruc2024137878	An efficient copper(II) salamo-based complex fluorescence chemosensor for detecting sulfide ions: Structure explora
+508	Chemistry/101016jmtsust2024100732	Efficient fabrication of a composite sponge for Cr(VI) removal via citric acid cross-linking of metal-organic frame
+509	Chemistry/101016jnanoen2023109160	W<sub>18</sub>O<sub>49</sub>/crystalline g-C<sub>3</sub>N<sub>4</sub> layered heterostructures with full solar ener
+510	Chemistry/101016joptlaseng2024108368	Tunable metamaterial absorption device based on Fabry -Perot resonance as temperature and refractive index sensing
+511	Chemistry/101016jpsep202403026	Benign separation, adsorption, and recovery of rare-earth Yb(III) ions with specific ligand-based composite adsorbe
+512	Chemistry/101016jsaa2023123450	New 1,8-naphthalimide-based colorimetric fluorescent probe for specific detection of hydrazine and its multi-functi
+513	Chemistry/101016jsaa2023123585	A bifunctional luminescence sensor for biomarkers detection in serum and urine based on chemorobust Nickel(II) meta
+514	Chemistry/101016jsaa2023123815	Spectroscopy and molecular simulation on the interaction of Nano-Kaempferol prepared by oil-in-water with two carri
+515	Chemistry/101016jscib202312003	Wear-resistant CoCrNi multi-principal element alloy at cryogenic temperature
+516	Chemistry/101016jscib202401029	Low-current-density stability of vanadium-based cathodes for aqueous zinc-ion batteries
+517	Chemistry/101016jscitotenv2023169509	Effect of electron acceptors on product selectivity and carbon flux in carbon chain elongation with <i>Megasphaera 
+518	Chemistry/101016jscp2024101449	Insight into the anti-corrosion mechanism of crop waste<i> Arachis</i> L. leaf extract for in sulfuric acid medium
+519	Chemistry/101016jseppur2023125873	Enhanced photocatalytic CO<sub>2</sub> reduction by integrating an iron based metal-organic framework and a photose
+520	Chemistry/101016jseppur2023125891	Unlocking the potential of N-doped porous Carbon: Facile synthesis and superior CO2 adsorption performance
+521	Chemistry/101016s1473309923007442	Fast evolution of SARS-CoV-2 BA.2.86 to JN.1 under heavy immune pressure
+522	Chemistry/101038s41431023013473	Dutch Pharmacogenetics Working Group (DPWG) guideline for the gene-drug interaction between <i>CYP2D6</i>, <i>CYP3A
+523	Chemistry/101038s41556024013608	A guideline on the molecular ecosystem regulating ferroptosis
+524	Chemistry/101038s41560023014056	Borate-pyran lean electrolyte-based Li-metal batteries with minimal Li corrosion
+525	Chemistry/101038s41560023014252	Achieving a high-performance sodium-ion pouch cell by regulating intergrowth structures in a layered oxide cathode 
+526	Chemistry/101038s41563023017021	Calcium-mediated nitrogen reduction for electrochemical ammonia synthesis
+527	Chemistry/101038s4156502301498w	Breaking through the basement membrane barrier to improve nanotherapeutic delivery to tumours
+528	Chemistry/101038s41565023015438	Efficient multicarbon formation in acidic CO<sub>2</sub> reduction via tandem electrocatalysis
+529	Chemistry/101038s41566024013915	In vivo NIR-II fluorescence imaging for biology and medicine
+530	Chemistry/101038s41571023008502	Exploring the next generation of antibody-drug conjugates
+531	Chemistry/101038s41578023006181	Advantages, challenges and molecular design of different material types used in organic solar cells
+532	Chemistry/101038s41578023006234	Fluorination in advanced battery design
+533	Chemistry/101038s41578023006332	Co-catalytic metal-support interactions in single-atom electrocatalysts
+534	Chemistry/101038s41578024006545	High-entropy materials for energy and electronic applications
+535	Chemistry/101038s41578024006723	Design principles for strong and tough hydrogels
+536	Chemistry/101038s41586023060450	A genomic mutational constraint map using variation in 76,156 human genomes
+537	Chemistry/101038s41586023069175	Durable CO<sub>2</sub> conversion in the proton-exchange membrane system
+538	Chemistry/101038s41586023069839	7-Dehydrocholesterol dictates ferroptosis sensitivity
+539	Chemistry/101038s41586024070967	High-speed and large-scale intrinsically stretchable integrated circuits
+540	Chemistry/101038s41586024071611	A three-dimensional liquid diode for soft, integrated permeable electronics
+541	Chemistry/101038s41586024071893	Double-side 2D/3D heterojunctions for inverted perovskite solar cells
+542	Chemistry/101038s41587023017632	Efficient evolution of human antibodies from general protein language models
+543	Chemistry/101038s4158702301774z	A microneedle vaccine printer for thermostable COVID-19 mRNA vaccines
+544	Chemistry/101038s41587023018000	A fully integrated wearable ultrasound system to monitor deep tissues in moving subjects
+545	Chemistry/101038s41587023018219	Adenine transversion editors enable precise, efficient A•T-to-C•G base editing in mammalian cells and embryos
+546	Chemistry/101038s4159102302702z	A deep learning system for predicting time to progression of diabetic retinopathy
+547	Chemistry/101038s41592023020218	Unambiguous discrimination of all 20 proteinogenic amino acids and their modifications by nanopore
+548	Chemistry/101038s41893024012750	Safe electrolyte for long-cycling alkali-ion batteries
+549	Chemistry/101038s41928023011166	A physicochemical-sensing electronic skin for stress response monitoring
+550	Chemistry/101038s41929023011023	Linkage-engineered donor-acceptor covalent organic frameworks for optimal photosynthesis of hydrogen peroxide from 
+551	Chemistry/101038s4192902301106z	Revisiting the universal principle for the rational design of single-atom electrocatalysts
+552	Chemistry/101038s41929024011263	A strongly coupled Ru-CrO<sub><i>x</i></sub> cluster-cluster heterostructure for efficient alkaline hydrogen electr
+553	Chemistry/101038s44160023004170	Engineered enzymes for the synthesis of pharmaceuticals and other high-value products
+554	Chemistry/101038s44160024005228	H<sub>2</sub>O<sub>2</sub>-mediated electrosynthesis of nitrate from air
+555	Earth Science/101007s0012602301203w	Formation of magnetite-(apatite) systems by crystallizing ultrabasic iron-rich melts and slag separation
+556	Earth Science/101007s1034602402215x	Mapping landslides from space: A review
+557	Earth Science/101007s1045302209750x	Automatic detection of airborne pollen: an overview
+558	Earth Science/101007s10668023033079	Does climate-smart agriculture improve household income and food security? Evidence from Southern Ethiopia
+559	Earth Science/101007s1142602319089	Roadmap for rechargeable batteries: present and beyond
+560	Earth Science/101007s11600023010963	The evolving roles of geophysical test sites in engineering, science and technology
+561	Earth Science/101007s12403023005749	Long-Term and Multipoint Observations of Atmospheric Heavy Metal (Cu and Cd) Deposition and Accumulation in Soil-Cr
+562	Earth Science/101007s12665023113477	Study of the spatial distribution and the temporal trend of landslide disasters that occurred in the Nepal Himalaya
+563	Earth Science/101007s12665024114838	Wetting-drying effects on the mechanical performance of xanthan gum biopolymer-stabilized soil
+564	Earth Science/101007s1266502411619w	Numerical simulation of wedge failure of rock slopes using three-dimensional discontinuous deformation analysis
+565	Earth Science/101007s4072502300208y	Enhancing Tree Performance Through Species Mixing: Review of a Quarter-Century of TreeDivNet Experiments Reveals Re
+566	Earth Science/101016jagrformet2023109799	Impacts of record-breaking compound heatwave and drought events in 2022 China on vegetation growth
+567	Earth Science/101016jagrformet2023109834	High spatial variability in water use efficiency of terrestrial ecosystems throughout China is predominated by biol
+568	Earth Science/101016japsusc2023158835	Manganese oxide on activated carbon with peroxymonosulfate activation for enhanced ciprofloxacin degradation: Activ
+569	Earth Science/101016jarabjc2023105484	Enhanced mechanical strength of micro-porous ceramics through the removal of alkaline earth carbonates from Morocca
+570	Earth Science/101016jcej2024148983	Adsorptive and photocatalytic degradation of imidacloprid pesticide from wastewater via the fabrication of ZIF-CdS/
+571	Earth Science/101016jcej2024150740	Investigating the electron-scale adsorption mechanisms using DFT calculations and experimental studies in self-asse
+572	Earth Science/101016jcell202402016	Metabolic trade-offs constrain the cell size ratio in a nitrogen-fixing symbiosis
+573	Earth Science/101016jceramint202403108	Structural and cryogenic magnetic properties of the<i> RE</i> OCl (RE<i> RE</i> = Ho, Dy, Tb, and Gd) compounds
+574	Earth Science/101016jcj202310005	Remote sensing of quality traits in cereal and arable production systems: A review
+575	Earth Science/101016jecoinf2023102421	Hybrid machine learning models for aboveground biomass estimations
+576	Earth Science/101016jecolind2023111447	Spatial-temporal variation, driving mechanism and management zoning of ecological resilience based on RSEI in a coa
+577	Earth Science/101016jecolind2023111529	Quantitative analysis of fractional vegetation cover in southern Sichuan urban agglomeration using optimal paramete
+578	Earth Science/101016jecolind2024111658	Ecological vulnerability assessment and its driving force based on ecological zoning in the Loess Plateau, China
+579	Earth Science/101016jengstruct2024117787	Reinforcement for earthquake-damaged glued-laminated timber knee-braced frames with self-tapping screws and CFRP fa
+580	Earth Science/101016jenvpol2023122877	Exploring a chemical input free advanced oxidation process based on nanobubble technology to treat organic micropol
+581	Earth Science/101016jenvsoft2023105902	HydroShare retrospective: Science and technology advances of a comprehensive data and model publication environment
+582	Earth Science/101016jepsl2024118598	Formation of lithium-rich pegmatites via rapid crystallization and shearing - case study from the South Tibetan Det
+583	Earth Science/101016jese2023100295	Overlooked CO<sub>2</sub> emissions induced by air pollution control devices in coal-fired power plants
+584	Earth Science/101016jese2023100337	Re-estimating China's lake CO<sub>2</sub> flux considering spatiotemporal variability
+585	Earth Science/101016jfmre202210005	The coordinated impact of forest internal structural complexity and tree species diversity on forest productivity a
+586	Earth Science/101016jgr202401013	Habitable planet to sustainable civilization: Global climate change with related clean energy transition reliant on
+587	Earth Science/101016jgsf2023101653	Evolution of the rare earth trade network: A perspective of dependency and competition
+588	Earth Science/101016jicarus2023115821	The Mars Science Laboratory record of optical depth measurements via solar imaging
+589	Earth Science/101016jijbiomac2023127794	Bacterial cellulose microfiber reinforced hollow chitosan beads decorated with cross-linked melamine plates for the
+590	Earth Science/101016jijbiomac2023128792	Enhancing cationic dye removal via biocomposite formation between chitosan and food grade algae: Optimization of al
+591	Earth Science/101016jijhydene202312029	Trapping, hysteresis and Ostwald ripening in hydrogen storage: A pore-scale imaging study
+592	Earth Science/101016jijrmms2024105642	Mechanisms of stress- and fluid-pressure-driven fault reactivation in Gonghe granite: Implications for injection-in
+593	Earth Science/101016jijrmms2024105724	True triaxial energy evolution characteristics and failure mechanism of deep rock subjected to mining-induced stres
+594	Earth Science/101016jjafrearsci2024105229	Machine learning models for gully erosion susceptibility assessment in the Tensift catchment, Haouz Plain, Morocco 
+595	Earth Science/101016jjafrearsci2024105230	Integrating 3D subsurface imaging, seismic attributes, and wireline logging analyses: Implications for a high resol
+596	Earth Science/101016jjclepro2023140026	Integrating climate change adaptation into water-energy-food-environment nexus for sustainable development in East 
+597	Earth Science/101016jjechem202401041	Photocatalytic seawater splitting by 2D heterostructure of ZnIn2S4/WO3 decorated with plasmonic Au for hydrogen evo
+598	Earth Science/101016jjenvman2023119419	Land use significantly improved grassland degradation and desertification states in China over the last two decades
+599	Earth Science/101016jjes202302045	Catalytic co-combustion of biomass and brown coal in a fluidized bed: Economic and environmental benefits
+600	Earth Science/101016jjes202305023	Health risks and sources of trace elements and black carbon in PM<sub>2.5</sub> from 2019 to 2021 in Beijing
+601	Earth Science/101016jjes202305034	Chemical characteristics and water stability evaluation of groundwater in the CKDu Zone of Sri Lanka
+602	Earth Science/101016jjhazmat2023132927	Trophic transfer and their impact of microplastics on estuarine food chain model
+603	Earth Science/101016jjre202303019	Enhancing leaching efficiency of ion adsorption rare earths by ameliorating mass transfer effect of rare earth ions
+604	Earth Science/101016jjre202304008	Adsorption of yttrium (Y<SUP>3</SUP>+) and concentration of rare earth elements from phosphogypsum using chitin and
+605	Earth Science/101016jjrmge202304004	Thermo-hydro-poro-mechanical responses of a reservoir-induced landslide tracked by high-resolution fi ber optic sen
+606	Earth Science/101016jjrmge202304013	Tensile strength and failure behavior of rock-mortar interfaces: Direct and indirect measurements
+607	Earth Science/101016jjrmge202305001	Anisotropic time-dependent behaviors of shale under direct shearing and associated empirical creep models
+608	Earth Science/101016jjrmge202309025	Centrifuge modeling of unreinforced and multi-row stabilizing piles reinforced landslides subjected to reservoir wa
+609	Earth Science/101016jjrmge202311005	Lateral earth pressure of granular backfills on retaining walls with expanded polystyrene geofoam inclusions under 
+610	Earth Science/101016jjrmge202311040	Time series prediction of reservoir bank landslide failure probability considering the spatial variability of soil 
+611	Earth Science/101016jjseaes2023105880	Depositional and diagenetic controls on the reservoir quality of Early Miocene <i>syn</i>-rift deep-marine sandston
+612	Earth Science/101016jlandusepol2024107070	Spatial pattern of cultivated land fragmentation in mainland China: Characteristics, dominant factors, and counterm
+613	Earth Science/101016jlssr202308005	Recycling nutrients from organic waste for growing higher plants in the Micro Ecological Life Support System Altern
+614	Earth Science/101016jpalaeo2024112063	Impact of early Eocene (Ypresian) warming events on ichnological assemblage of the Naredi Formation, western Kutch 
+615	Earth Science/101016jpalwor202302001	A reappraisal of the lost suids from the Late Miocene of Gravitelli (Sicily, Italy) and paleobiogeographical implic
+616	Earth Science/101016jresconrec2024107457	Spatiotemporal dynamics of carbon sinks in China's terrestrial ecosystems from 2010 to 2060
+617	Earth Science/101016jrse2023113932	An AI approach to operationalise global daily PlanetScope satellite imagery for river water masking
+618	Earth Science/101016jrse2024114104	Nighttime light in China's coastal zone: The type classification approach using SDGSAT-1 Glimmer Imager
+619	Earth Science/101016jscib202311016	The carbon budget of China: 1980-2021
+620	Earth Science/101016jscib202312009	Why chorus waves are the dominant driver for diffuse auroral precipitation
+621	Earth Science/101016jscitotenv2023167898	Quantifying a mass mortality event in freshwater wildlife within the Lower Odra River: Insights from a large Europe
+622	Earth Science/101016jscitotenv2023168398	Exploration of microplastic concentration in indoor and outdoor air samples: Morphological, polymeric, and elementa
+623	Earth Science/101016jscitotenv2023168778	Drought limits vegetation carbon sequestration by affecting photosynthetic capacity of semi-arid ecosystems on the 
+624	Earth Science/101016jscitotenv2023169102	Analyzing spatial patterns and driving factors of cropland change in China's National Protected Areas for sustainab
+625	Earth Science/101016jscitotenv2023169647	Geospatial prediction of total soil carbon in European agricultural land based on deep learning
+626	Earth Science/101016jscitotenv2024170574	Nitrate dynamics in the streamwater-groundwater interaction system: Sources, fate, and controls
+627	Earth Science/101016jscitotenv2024174595	Unexpected response of terrestrial carbon sink to rural depopulation in China
+628	Earth Science/101016jscs2023105095	Urbanization influenced SUHI Of 41 megacities of the world using big geospatial data assisted with google earth eng
+629	Earth Science/101016jscs2024105311	Spatial correlation network characteristics and influencing factors of water environmental efficiency in three majo
+630	Earth Science/101016jseppur2023125207	Homogeneous dispersion of amorphous nanoscale zero-valent iron supported on chlorella-derived biochar: In-situ synt
+631	Earth Science/101016jseppur2024127263	Highly hydrophilic H<sub>2</sub>TiO<sub>3</sub> ion sieve with neodymium (Nd) doping enables fast and high-efficien
+632	Earth Science/101016jstill2023105903	Estimating the permeability of soils under different tillage practices and cropping systems: Roles of the three per
+633	Earth Science/101016jtim202306002	Structural diversity and modularity of photosynthetic RC-LH1 complexes
+634	Earth Science/101016jtim202306006	Microbial regulation of feedbacks to ecosystem change
+635	Earth Science/101016jtree202310010	Towards richer knowledge partnerships between ecology and ethnoecology
+636	Earth Science/101016jxinn2023100545	Cold and humid climates enrich soil carbon stock in the Third Pole grasslands
+637	Earth Science/101038s41370023005862	Contribution of arsenic and uranium in private wells and community water systems to urinary biomarkers in US adults
+638	Earth Science/101038s4155002402292x	A benchmark JWST near-infrared spectrum for the exoplanet WASP-39 b
+639	Earth Science/101038s41558024019333	Boreal-Arctic wetland methane emissions modulated by warming and vegetation activity
+640	Earth Science/101038s41558024019600	Expert review of the science underlying nature-based climate solutions
+641	Earth Science/101038s41559023022944	Initial Upper Palaeolithic material culture by 45,000 years ago at Shiyu in northern China
+642	Earth Science/101038s4155902302299z	Hagfish genome elucidates vertebrate whole-genome duplication events and their evolutionary consequences
+643	Earth Science/101038s41559023023054	Multi-decadal improvements in the ecological quality of European rivers are not consistently reflected in biodivers
+644	Earth Science/101038s41559024023276	Meta-analysis shows that wild large herbivores shape ecosystem properties and promote spatial heterogeneity
+645	Earth Science/101038s41559024023632	Mammal responses to global changes in human activity vary by trophic group and landscape
+646	Earth Science/101038s41559024024611	The nature of the last universal common ancestor and its impact on the early Earth system
+647	Earth Science/101038s41560023013759	In situ formed partially disordered phases as earth-abundant Mn-rich cathode materials
+648	Earth Science/101038s41561023013456	Relative increases in CH<sub>4</sub> and CO<sub>2</sub> emissions from wetlands under global warming dependent on s
+649	Earth Science/101038s41561023013509	Regional rare-earth element supply and demand balanced with circular economy strategies
+650	Earth Science/101038s41561024013945	Detections of ultralow velocity zones in high-velocity lowermost mantle linked to subducted slabs
+651	Earth Science/101038s41561024014055	Anthropogenic impacts on mud and organic carbon cycling
+652	Earth Science/101038s41564024015999	Inactive hydrothermal vent microbial communities are important contributors to deep ocean primary productivity
+653	Earth Science/101038s41565023015349	Microplastic fragmentation by rotifers in aquatic ecosystems contributes to global nanoplastic pollution
+654	Earth Science/101038s4158602407020z	Fertilizer management for global ammonia emission reduction
+655	Earth Science/101038s41586024073240	Phylogenomics and the rise of the angiosperms
+656	Earth Science/101038s41586024073397	Growth of diamond in liquid metal at 1 atm pressure
+657	Earth Science/101038s41586024075319	Fabrication of red-emitting perovskite LEDs by stabilizing their octahedral structure
+658	Earth Science/101038s41589023014628	Volatile methyl jasmonate from roots triggers host-beneficial soil microbiome biofilms
+659	Earth Science/101038s41893024013417	Escalating arsenic contamination throughout Chinese soils
+660	Earth Science/101038s4301602300901y	Stakeholder-driven transformative adaptation is needed for climate-smart nutrition security in sub-Saharan Africa
+661	Earth Science/101038s43017024005162	Assessing and addressing the global state of food production data scarcity
+662	Earth Science/101038s4301702400519z	Arsenic and other geogenic contaminants in global groundwater
+663	Energy Science/101007s00170022107672	Nanofluids application in machining: a comprehensive review
+664	Energy Science/101007s1066802202780y	Factors driving CO<sub>2</sub> emissions: the role of energy transition and brain drain
+665	Energy Science/101007s10668022028881	Renewable energy, fiscal policy and load capacity factor in BRICS countries: novel findings from panel nonlinear AR
+666	Energy Science/101007s10668023029257	E-waste recycled materials as efficient catalysts for renewable energy technologies and better environmental sustai
+667	Energy Science/101007s10668023030854	Paving the ways toward sustainable development: the asymmetric effect of economic complexity, renewable electricity
+668	Energy Science/101007s1104202008769x	Detection of myocardial infarction based on novel deep transfer learning methods for urban healthcare in smart citi
+669	Energy Science/101007s11276020023851	End-edge-cloud collaborative computation offloading for multiple mobile users in heterogeneous edge-server environm
+670	Energy Science/101007s1142602319089	Roadmap for rechargeable batteries: present and beyond
+671	Energy Science/101007s12011023036459	Applications of Green Synthesized Metal Nanoparticles - a Review
+672	Energy Science/101007s1227402360378	The reformation of catalyst: From a trial-and-error synthesis to rational design
+673	Energy Science/101007s1227402361201	Three-dimensional macroscopic absorbents: From synergistic effects to advanced multifunctionalities
+674	Energy Science/101007s13399020012436	A review of the traditional pulping methods and the recent improvements in the pulping processes
+675	Energy Science/101007s1339902102279y	Synthesis of activated carbon from Lemna minor plant and magnetized with iron (III) oxide magnetic nanoparticles an
+676	Energy Science/101007s13399022027433	In vitro antioxidant activities of copper mixed oxide (CuO/Cu<sub>2</sub>O) nanoparticles produced from the leaves 
+677	Energy Science/101007s13399023052649	Green synthesis of CuFe<sub>2</sub>O<sub>4</sub> nanoparticles from bioresource extracts and their applications in 
+678	Energy Science/101007s42114023008132	Heterodimensional hybrids assembled with multiple-dimensional copper selenide hollow microspheres and graphene oxid
+679	Energy Science/101007s4276502300337w	Spatially Confined MXene/PVDF Nanofiber Piezoelectric Electronics
+680	Energy Science/101016japcatb2023123204	Fe-Mn oxycarbide anchored on N-doped carbon for enhanced Fenton-like catalysis: Importance of high-valent metal-oxo
+681	Energy Science/101016japcatb2023123218	Single-atom co sites confined in layered double hydroxide for selective generation of surface-bound radicals via pe
+682	Energy Science/101016japcatb2023123224	Cu-doped CoOOH activates peroxymonosulfate to generate high-valent cobalt-oxo species to degrade organic pollutants
+683	Energy Science/101016japcatb2023123225	Magnetic field facilitated electrocatalytic degradation of tetracycline in wastewater by magnetic porous carbonized
+684	Energy Science/101016japcatb2023123236	Electrocatalytic upcycling of polyethylene terephthalate plastic to formic acid coupled with energy-saving hydrogen
+685	Energy Science/101016japcatb2023123238	Defective Bi@BiOBr/C microrods derived from Bi-MOF for efficient photocatalytic NO abatement: Directional regulatio
+686	Energy Science/101016japcatb2023123275	Hydrogen spillover in MoO<sub>X</sub>Rh hierarchical nanosheets boosts alkaline HER catalytic activity
+687	Energy Science/101016japcatb2023123284	Constructing fast charge separation of ZnIn2S4 @CuCo2S4 p-n heterojunction for efficient photocatalytic hydrogen en
+688	Energy Science/101016japcatb2023123289	Elucidation of the mechanistic origin of spin-state-dependent P-doped Fe single-atom catalysts for the oxidation of
+689	Energy Science/101016japcatb2023123346	Adding Fe/dicyandiamide to Co-MOF to greatly improve its ORR/OER bifunctional electrocatalytic activity
+690	Energy Science/101016japcatb2023123669	Facile synthesis of direct Z-scheme PPy/NH<sub>2</sub>-UiO-66 heterojunction for enhanced photocatalytic Cr(VI) red
+691	Energy Science/101016japenergy2023122095	Production of hierarchical porous bio-carbon based on deep eutectic solvent fractionated lignin nanoparticles for h
+692	Energy Science/101016japenergy2023122212	Race to carbon neutrality in South Africa: What role does environmental technological innovation play?
+693	Energy Science/101016japmate2023100140	Chemically bonded BiVO4/Bi19Cl3S27 heterojunction with fast hole extraction dynamics for continuous CO2 photoreduct
+694	Energy Science/101016japplthermaleng2023121578	An air-cooled system with a control strategy for efficient battery thermal management
+695	Energy Science/101016jbios2023115805	A transcription factor-based bacterial biosensor system and its application for on-site detection of explosives
+696	Energy Science/101016jcarbon2024119215	Metal organic frameworks derived Ni x Se y @NC hollow microspheres with modifiable composition and broadband microw
+697	Energy Science/101016jccr2023215468	A review of carbon dots in synthesis strategy
+698	Energy Science/101016jcej2023147980	A low-cost separator enables a highly stable zinc anode by accelerating the de-solvation effect
+699	Energy Science/101016jcej2024149776	Mn-based catalysts derived from the non-thermal treatment of Mn-MIL-100 to enhance its water-resistance for toluene
+700	Energy Science/101016jceramint202310050	Constructing flake-like ternary rare earth Pr3Si2C2 ceramic on SiC whiskers to enhance electromagnetic wave absorpt
+701	Energy Science/101016jceramint202404085	Structural color tunable intelligent mid-infrared thermal control emitter
+702	Energy Science/101016jces2023119429	Three-in-one polymer nanocomposite coating via constructing tannic acid functionalized MXene/BP hybrids with superi
+703	Energy Science/101016jcompositesb2023111075	Construction of an epoxidized, phosphorus-based poly(styrene butadiene styrene) and its application in high-perform
+704	Energy Science/101016jconbuildmat2024136836	Mechanical behavior and impact resistance of rubberized concrete enhanced by basalt fiber-epoxy resin composite
+705	Energy Science/101016jdiamond2023110713	Ultra wideband tunable terahertz metamaterial absorber based on single-layer graphene strip
+706	Energy Science/101016jdiamond2023110764	Enhanced performance of hydrothermally prepared Ag2Se/rGO nanosheet composite for energy storage applications
+707	Energy Science/101016jdiamond2024110843	A wide-band solar absorber based on tungsten nano-strip resonator group and graphene for near-ultraviolet to near-i
+708	Energy Science/101016jenergy2024130474	Utilization of hydrogen-diesel blends for the improvements of a dual-fuel engine based on the improved Taguchi meth
+709	Energy Science/101016jeng202206005	An AuNPs/Mesoporous NiO/Nickel Foam Nanocomposite as a Miniaturized Electrode for Heavy Metal Detection in Groundwa
+710	Energy Science/101016jensm2023103124	High-safety lithium metal pouch cells for extreme abuse conditions by implementing flame-retardant perfluorinated g
+711	Energy Science/101016jest2023109432	Hybrid energy storage system and management strategy for motor drive with high torque overload
+712	Energy Science/101016jest2023109859	Vanadium oxide/carbonized chestnut needle composites as cathode materials for advanced aqueous zinc-ion batteries
+713	Energy Science/101016jest2023110289	Hydrothermal synthesis of the NiS@g-C3N4 nanohybrid electrode material for supercapacitor applications
+714	Energy Science/101016jfuel2023129688	Facile synthesis of CuAl2O4/rGO nanocomposite via the hydrothermal method for supercapacitor applications
+715	Energy Science/101016jgeothermics2024102974	Experimental study of mechanical properties of hot dry granite under thermal-mechanical couplings
+716	Energy Science/101016jgr202305016	Linking trade openness to load capacity factor: The threshold effects of natural resource rent and corruption contr
+717	Energy Science/101016jgr202308019	Renewable energy, climate policy uncertainty, industrial production, domestic exports/re-exports, and CO2 emissions
+718	Energy Science/101016jgsf2023101669	Adoption of green finance and green innovation for achieving circularity: An exploratory review and future directio
+719	Energy Science/101016jgsf2023101693	The role of disaggregated renewable energy consumption on income and load capacity factor: A novel inclusive sustai
+720	Energy Science/101016jijhydene202306254	First-principles investigation for the hydrogen storage properties of XTiH3 (X1/4K, Rb, Cs) perovskite type hydride
+721	Energy Science/101016jijhydene202308127	Superior catalytic action of high-entropy alloy on hydrogen sorption properties of MgH<sub>2</sub>
+722	Energy Science/101016jijhydene202308321	Green hydrogen: A pathway to a sustainable energy future
+723	Energy Science/101016jijhydene202309033	A review of CdS-based S-scheme for photocatalytic water splitting: Synthetic strategy and identification techniques
+724	Energy Science/101016jijhydene202311136	Preliminary assessment of the potential for rapid combustion of pure ammonia in engine cylinders using the multiple
+725	Energy Science/101016jijhydene202403113	Engineering of bimetallic Au -Pd alloyed particles on nitrogen defects riched g-C<sub>3</sub>N<sub>4</sub> for effi
+726	Energy Science/101016jijmecsci2023108657	Experimental and numerical studies on mechanical properties of TPMS structures
+727	Energy Science/101016jjallcom2024173417	Design high performance field-effect, strain/gas sensors of novel 2D penta-like Pd<sub>2</sub>P<sub>2</sub>SeX (X= 
+728	Energy Science/101016jjcis202309179	One stone for four birds: A "chemical blowing" strategy to synthesis wood-derived carbon monoliths for high-mass lo
+729	Energy Science/101016jjcis202311159	Synthesize magnetic ZnFe<sub>2</sub>O<sub>4</sub>@C/Cd<sub>0.9</sub>Zn<sub>0.1</sub>S catalysts with S-scheme heter
+730	Energy Science/101016jjcis202401012	Defects materials of Institut Lavoisier-125(Ti) materials enhanced photocatalytic activity for toluene and chlorobe
+731	Energy Science/101016jjcis202401051	Mechanism of electrocatalytic CO2 reduction reaction by borophene supported bimetallic catalysts
+732	Energy Science/101016jjcis202402044	Noble metal-free FeCoNiMnV high entropy alloy anchored on <i>N</i>-doped carbon nanotubes with prominent activity a
+733	Energy Science/101016jjece2024112047	First-principles design of noble metal (Rh and Pd) dispersed Janus WSTe monolayer for toxic gas sensing application
+734	Energy Science/101016jjechem202310032	Challenges and opportunities for battery hea- lth estimation: Bridging laboratory research and real-world applicati
+735	Energy Science/101016jjenvman2023119545	Novel rod-like [Cu(phen)2(OAc)]•PF6 complex for high-performance visible-light-driven photocatalytic degradation of
+736	Energy Science/101016jjes202301021	A review of low-carbon technologies and projects for the global cement industry
+737	Energy Science/101016jjes202305028	S-scheme heterojunction of crystalline carbon nitride nanosheets and ultrafine WO3 nanoparticles for photocatalytic
+738	Energy Science/101016jjmst202306024	Unique electromagnetic wave absorber for three-dimensional framework engineering with copious heterostructures
+739	Energy Science/101016jjoule202312009	Achieving 19.4% organic solar cell via an<i> in</i><i> situ</i> formation of p-i-n structure with built-in interpen
+740	Energy Science/101016jjoule202402019	Highly efficient and stable perovskite solar cells via a multifunctional hole transporting material
+741	Energy Science/101016jjpcs2024111919	Synthesis of high-performance supercapacitor electrode materials by hydrothermal route based on ZnSe/MnSe composite
+742	Energy Science/101016jmaterresbull2023112635	Multifunctional terahertz device with active switching between bimodal perfect absorption and plasmon-induced trans
+743	Energy Science/101016jmcat2023113738	Decorating CdS with cobaltous hydroxide and graphene dual cocatalyst for photocatalytic hydrogen production coupled
+744	Energy Science/101016jmolliq2024124392	Effect of metal organic framework alginate aerogel composite sponge on adsorption of tartrazine from aqueous soluti
+745	Energy Science/101016jmolstruc2023137341	Differently structural Cu(II) and Ni(II) complexes of a nonsymmetrical tetradentate half-salamo like N3O-donor liga
+746	Energy Science/101016jmtphys2023101317	MoSe2 and WSSe heterojunction with exceptional power conversion efficiency and photogalvanic effect
+747	Energy Science/101016jmtsust2024100732	Efficient fabrication of a composite sponge for Cr(VI) removal via citric acid cross-linking of metal-organic frame
+748	Energy Science/101016jnanoen2023109160	W<sub>18</sub>O<sub>49</sub>/crystalline g-C<sub>3</sub>N<sub>4</sub> layered heterostructures with full solar ener
+749	Energy Science/101016jnanoen2024109291	Ternary ordered assembled piezoelectric composite for self-powered ammonia detection
+750	Energy Science/101016joptlastec2023110186	Six-band rotationally symmetric tunable absorption film based on AlCuFe quasicrystals
+751	Energy Science/101016jpsep202402030	Hydrogen role in energy transition: A comparative review
+752	Energy Science/101016jresourpol2024104996	Life cycle cost analysis of power generation from underground coal gasification with carbon capture and storage (CC
+753	Energy Science/101016jrinp2024107509	Ultra-broadband and wide-angle plasmonic light absorber based on all-dielectric gallium arsenide (GaAs) metasurface
+754	Energy Science/101016jscib202401029	Low-current-density stability of vanadium-based cathodes for aqueous zinc-ion batteries
+755	Energy Science/101016jscp2024101449	Insight into the anti-corrosion mechanism of crop waste<i> Arachis</i> L. leaf extract for in sulfuric acid medium
+756	Energy Science/101016jseppur2023125873	Enhanced photocatalytic CO<sub>2</sub> reduction by integrating an iron based metal-organic framework and a photose
+757	Energy Science/101016jsna2023114972	Design and analysis of an electromagnetic energy conversion device
+758	Energy Science/101016jsolidstatesciences2024107483	PbBi2Se4 monolayer: A new 2D material with outstanding electronic, photocatalytic, and optical properties
+759	Energy Science/101016jsurfin2024103955	Embedding In2.77S4 into NCDs-(g-C3N5) hybrid materials to enhance photocatalytic hydrogen production and rhodamine 
+760	Energy Science/101016jymssp2023110908	Loading condition monitoring of high-strength bolt connections based on physics-guided deep learning of acoustic em
+761	Energy Science/101038s41557023013347	Linkage conversions in single-crystalline covalent organic frameworks
+762	Energy Science/101038s41560023013777	Inverted perovskite solar cells with over 2,000 h operational stability at 85 degree celsius using fixed charge pas
+763	Energy Science/101038s41560023014252	Achieving a high-performance sodium-ion pouch cell by regulating intergrowth structures in a layered oxide cathode 
+764	Energy Science/101038s4156002301436z	Donor-acceptor mutually diluted heterojunctions for layer-by-layer fabrication of high-performance organic solar ce
+765	Energy Science/101038s41563023017021	Calcium-mediated nitrogen reduction for electrochemical ammonia synthesis
+766	Energy Science/101038s4156502301541w	Polymer nanocomposite dielectrics for capacitive energy storage
+767	Energy Science/101038s41578023006234	Fluorination in advanced battery design
+768	Energy Science/101038s41586023068258	Satellite mapping reveals extensive industrial activity at sea
+769	Energy Science/101038s41586023068949	Negative mixing enthalpy solid solutions deliver high strength and ductility
+770	Energy Science/101038s41586023069175	Durable CO<sub>2</sub> conversion in the proton-exchange membrane system
+771	Energy Science/101038s41586023069273	Logical quantum processor based on reconfigurable atom arrays
+772	Energy Science/101038s41586024071893	Double-side 2D/3D heterojunctions for inverted perovskite solar cells
+773	Energy Science/101038s4158702301953y	Identification of mobile genetic elements with geNomad
+774	Energy Science/101038s41929024011263	A strongly coupled Ru-CrO<sub><i>x</i></sub> cluster-cluster heterostructure for efficient alkaline hydrogen electr
+775	Energy Science/101038s44160024005228	H<sub>2</sub>O<sub>2</sub>-mediated electrosynthesis of nitrate from air
+776	Energy Science/105004dwt202228397	Efficient adsorptive removal of industrial dye from aqueous solution by synthesized zeolitic imidazolate framework-
+777	Environmental Science/101007s00181023024604	Ecological footprint, electricity consumption, and economic growth in China: geopolitical risk and natural resource
+778	Environmental Science/101007s1055102305334y	Employee Stock Ownership Plans and Corporate Environmental Engagement
+779	Environmental Science/101007s10551023054563	A Contribution to Sustainable Human Resource Development in the Era of the COVID-19 Pandemic
+780	Environmental Science/101007s10668022028881	Renewable energy, fiscal policy and load capacity factor in BRICS countries: novel findings from panel nonlinear AR
+781	Environmental Science/101007s1066802302921x	Environmental-, social-, and governance-related factors for business investment and sustainability: a scientometric
+782	Environmental Science/101007s10668023030854	Paving the ways toward sustainable development: the asymmetric effect of economic complexity, renewable electricity
+783	Environmental Science/101007s10924023030048	Preparation of Polyacrylamide Titanium Dioxide Hybrid Nanocomposite by Direct Polymerization and Its Applicability 
+784	Environmental Science/101007s10973024131829	Simulation and comprehensive study of a new trigeneration process combined with a gas turbine cycle, involving tran
+785	Environmental Science/101007s11104022058182	Transpiration response to soil drying and vapor pressure deficit is soil texture specific
+786	Environmental Science/101007s11356022231925	Can green bonds empower green technology innovation of enterprises?
+787	Environmental Science/101007s1135602325699x	Have carbon emission trading pilot policy improved urban innovation capacity? Evidence from a quasi-natural experim
+788	Environmental Science/101007s12011023036459	Applications of Green Synthesized Metal Nanoparticles - a Review
+789	Environmental Science/101007s1227402360378	The reformation of catalyst: From a trial-and-error synthesis to rational design
+790	Environmental Science/101007s1339902102279y	Synthesis of activated carbon from Lemna minor plant and magnetized with iron (III) oxide magnetic nanoparticles an
+791	Environmental Science/101007s13399022036049	Regeneration and reusability of non-conventional low-cost adsorbents to remove dyes from wastewaters in multiple co
+792	Environmental Science/101007s13399023052649	Green synthesis of CuFe<sub>2</sub>O<sub>4</sub> nanoparticles from bioresource extracts and their applications in 
+793	Environmental Science/101007s13762020027385	An overview of global energy scenarios by 2040: identifying the driving forces using cross-impact analysis method
+794	Environmental Science/101016japcatb2023123218	Single-atom co sites confined in layered double hydroxide for selective generation of surface-bound radicals via pe
+795	Environmental Science/101016japcatb2023123225	Magnetic field facilitated electrocatalytic degradation of tetracycline in wastewater by magnetic porous carbonized
+796	Environmental Science/101016japcatb2023123284	Constructing fast charge separation of ZnIn2S4 @CuCo2S4 p-n heterojunction for efficient photocatalytic hydrogen en
+797	Environmental Science/101016japcatb2023123289	Elucidation of the mechanistic origin of spin-state-dependent P-doped Fe single-atom catalysts for the oxidation of
+798	Environmental Science/101016japcatb2023123347	Utilizing Er-doped ZnIn<sub>2</sub>S<sub>4</sub> for efficient photocatalytic CO<sub>2</sub> conversion
+799	Environmental Science/101016japenergy2023122212	Race to carbon neutrality in South Africa: What role does environmental technological innovation play?
+800	Environmental Science/101016jasej2023102293	Landfill leachate: Sources, nature, organic composition, and treatment: An environmental overview
+801	Environmental Science/101016jbios2023115805	A transcription factor-based bacterial biosensor system and its application for on-site detection of explosives
+802	Environmental Science/101016jcarbon2023118528	Facile fabrication of biomass chitosan-derived magnetic carbon aerogels as multifunctional and high-efficiency elec
+803	Environmental Science/101016jcarbon2024119215	Metal organic frameworks derived Ni x Se y @NC hollow microspheres with modifiable composition and broadband microw
+804	Environmental Science/101016jcarbon2024119233	Constructing multiple heterogeneous interfaces in one-dimensional carbon fiber materials for superior electromagnet
+805	Environmental Science/101016jcej2024149776	Mn-based catalysts derived from the non-thermal treatment of Mn-MIL-100 to enhance its water-resistance for toluene
+806	Environmental Science/101016jcej2024152245	Magnetic media synergistic carbon fiber@Ni/NiO composites for high-efficiency electromagnetic wave absorption
+807	Environmental Science/101016jceramint202310050	Constructing flake-like ternary rare earth Pr3Si2C2 ceramic on SiC whiskers to enhance electromagnetic wave absorpt
+808	Environmental Science/101016jceramint202404085	Structural color tunable intelligent mid-infrared thermal control emitter
+809	Environmental Science/101016jcjsc2023100194	Fabrication of graphene modified CeO<sub>2</sub>/g-C<sub>3</sub>N<sub>4</sub> heterostructures for photocatalytic d
+810	Environmental Science/101016jcolsurfa2023132775	Facile preparation of high-performance hydrochar/TiO<sub>2</sub> heterojunction visible light photocatalyst for tre
+811	Environmental Science/101016jconbuildmat2024136836	Mechanical behavior and impact resistance of rubberized concrete enhanced by basalt fiber-epoxy resin composite
+812	Environmental Science/101016jdiamond2023110713	Ultra wideband tunable terahertz metamaterial absorber based on single-layer graphene strip
+813	Environmental Science/101016jeiar2023107324	How does climate change affect food security? Evidence from China
+814	Environmental Science/101016jenbuild2024113921	Whether rural rooftop photovoltaics can effectively fight the power consumption conflicts at the regional scale - A
+815	Environmental Science/101016jeng202206005	An AuNPs/Mesoporous NiO/Nickel Foam Nanocomposite as a Miniaturized Electrode for Heavy Metal Detection in Groundwa
+816	Environmental Science/101016jengappai2023107447	A novel parsimonious spherical fuzzy analytic hierarchy process for sustainable urban transport solutions
+817	Environmental Science/101016jengappai2023107536	Forecasting global climate drivers using Gaussian processes and convolutional autoencoders
+818	Environmental Science/101016jengstruct2023117193	Ultra-High-Strength Engineered Cementitious Composites (UHS-ECC) panel reinforced with FRP bar/grid: Development an
+819	Environmental Science/101016jenpol2023113863	Harnessing the synergistic impacts of environmental innovations, financial development, green growth, and ecologica
+820	Environmental Science/101016jenvpol2023122815	Trophic transfer and biomagnification potential of environmental contaminants (heavy metals) in aquatic ecosystems
+821	Environmental Science/101016jenvpol2023122887	Phosphoric acid activation of cow dung biochar for adsorbing enrofloxacin in water: Icing on the cake
+822	Environmental Science/101016jest2023109859	Vanadium oxide/carbonized chestnut needle composites as cathode materials for advanced aqueous zinc-ion batteries
+823	Environmental Science/101016jeti2023103485	Corrosion effect of acid/alkali on cementitious red mud-fly ash materials containing heavy metal residues
+824	Environmental Science/101016jfochx2023101061	Ultra-high pressure improved gelation and digestive properties of Tai Lake whitebait myofibrillar protein
+825	Environmental Science/101016jfuel2023129688	Facile synthesis of CuAl2O4/rGO nanocomposite via the hydrothermal method for supercapacitor applications
+826	Environmental Science/101016jfuel2023129833	Boosting toluene deep oxidation by tuning metal-support interaction in MOF-derived Pd@ZrO2 catalysts: The role of i
+827	Environmental Science/101016jgr202304008	Do natural resource dependence, economic growth and transport energy consumption accelerate ecological footprint in
+828	Environmental Science/101016jgr202305016	Linking trade openness to load capacity factor: The threshold effects of natural resource rent and corruption contr
+829	Environmental Science/101016jgr202308019	Renewable energy, climate policy uncertainty, industrial production, domestic exports/re-exports, and CO2 emissions
+830	Environmental Science/101016jgsf2023101644	Digital economy and carbon dioxide emissions: Examining the role of threshold variables
+831	Environmental Science/101016jgsf2023101646	Do investments in green energy, energy efficiency, and nuclear energy R&D improve the load capacity factor? An augm
+832	Environmental Science/101016jgsf2023101693	The role of disaggregated renewable energy consumption on income and load capacity factor: A novel inclusive sustai
+833	Environmental Science/101016jijhydene202309033	A review of CdS-based S-scheme for photocatalytic water splitting: Synthetic strategy and identification techniques
+834	Environmental Science/101016jijhydene202310256	Modulation of the electronic structure of CoP by surface and interface codoping boosts electrocatalytic oxygen evol
+835	Environmental Science/101016jijhydene202403113	Engineering of bimetallic Au -Pd alloyed particles on nitrogen defects riched g-C<sub>3</sub>N<sub>4</sub> for effi
+836	Environmental Science/101016jijinfomgt2023102700	The ethics of ChatGPT - Exploring the ethical issues of an emerging technology
+837	Environmental Science/101016jirfa2023103003	Media coverage and corporate ESG performance: Evidence from China
+838	Environmental Science/101016jjcis202401012	Defects materials of Institut Lavoisier-125(Ti) materials enhanced photocatalytic activity for toluene and chlorobe
+839	Environmental Science/101016jjcis202402044	Noble metal-free FeCoNiMnV high entropy alloy anchored on <i>N</i>-doped carbon nanotubes with prominent activity a
+840	Environmental Science/101016jjece2024112047	First-principles design of noble metal (Rh and Pd) dispersed Janus WSTe monolayer for toxic gas sensing application
+841	Environmental Science/101016jjenvman2023119709	Evaluating the roles of energy innovation, fossil fuel costs and environmental compliance towards energy transition
+842	Environmental Science/101016jjhazmat2023132518	Plasma-catalyzed combined dynamic wave scrubbing: A novel method for highly efficient removal of multiple pollutant
+843	Environmental Science/101016jjiec202310062	Ligand imprinted composite adsorbent for effective Ni(II) ion monitoring and removal from contaminated water
+844	Environmental Science/101016jjmst202307061	MXene@Co hollow spheres structure boosts interfacial polarization for broadband electromagnetic wave absorption
+845	Environmental Science/101016jmaterresbull2023112572	A four-narrowband terahertz tunable absorber with perfect absorption and high sensitivity
+846	Environmental Science/101016jmaterresbull2023112635	Multifunctional terahertz device with active switching between bimodal perfect absorption and plasmon-induced trans
+847	Environmental Science/101016jmcat2024113858	Photoredox-catalyzed coupling of CO2 reduction and amines oxidation by Cu doped CdS quantum dots
+848	Environmental Science/101016jmolliq2024124117	Pyracantha fortuneana alcohol extracts as biodegradable corrosion inhibitors for copper in H2SO4 media
+849	Environmental Science/101016jmolstruc2023136792	A more flexible long-chain bis(salamo)-like fluorescent probe based on FRET and ICT effects for the identification 
+850	Environmental Science/101016jmolstruc2023137188	A rare salamo-salophen type "on-off-on" fluorescent probe for relay recognition of Hg2+and phosphate ions and its a
+851	Environmental Science/101016jmolstruc2023137199	Study on solvent effect and coordination characteristics of two different types of Cu(II) salamo-salen-salamo-hybri
+852	Environmental Science/101016jmolstruc2023137341	Differently structural Cu(II) and Ni(II) complexes of a nonsymmetrical tetradentate half-salamo like N3O-donor liga
+853	Environmental Science/101016jmtcomm2024108684	Durability evaluation of a high-performance red mud-based composite material
+854	Environmental Science/101016jnanoen2024109291	Ternary ordered assembled piezoelectric composite for self-powered ammonia detection
+855	Environmental Science/101016jpnsc202312020	PVP-modified spindle-shaped MIL-88B(Fe) to enhance the degradation of tetracycline by activated peroxodisulfate: A 
+856	Environmental Science/101016jpowtec2024119480	Hydrothermal preparation of Nb<SUP>5+</SUP>-doped α-Fe<sub>2</sub>O<sub>3</sub> nanorods for efficient visible ligh
+857	Environmental Science/101016jpsep202403026	Benign separation, adsorption, and recovery of rare-earth Yb(III) ions with specific ligand-based composite adsorbe
+858	Environmental Science/101016jresourpol2024104996	Life cycle cost analysis of power generation from underground coal gasification with carbon capture and storage (CC
+859	Environmental Science/101016jribaf2023102124	The impact of government environmental attention on firms' ESG performance: Evidence from China
+860	Environmental Science/101016jscp2024101449	Insight into the anti-corrosion mechanism of crop waste<i> Arachis</i> L. leaf extract for in sulfuric acid medium
+861	Environmental Science/101016jscriptamat2023115763	Integration of hardness and toughness in (CuNiTiNbCr)Nx high entropy films through nitrogen-induced nanocomposite s
+862	Environmental Science/101016jseppur2023125399	High-performance carbon@ metal oxide nanocomposites derived metal-organic framework-perovskite hybrid boosted micro
+863	Environmental Science/101016jseppur2023125873	Enhanced photocatalytic CO<sub>2</sub> reduction by integrating an iron based metal-organic framework and a photose
+864	Environmental Science/101016jseppur2024126644	Photocatalytic fuel cell with cathodic P-BiVO4/CQDs and anodic WO3 for efficient Cr(VI) reduction and stable electr
+865	Environmental Science/101016jsnr2024100186	Laser-Induced graphene-based Fabry-P<acute accent>erot cavity label-free immunosensors for the quantification of co
+866	Environmental Science/101016jtafmec2023104219	Influence of lithology and bedding orientation on failure behavior of "D" shaped tunnel
+867	Environmental Science/101016jwatres2024121120	Combined transcriptomic and metabolomic analyses of temperature response of microalgae using waste activated sludge
+868	Environmental Science/101016jwatres2024121134	New insights into rare earth element-induced microalgae lipid accumulation: Implication for biodiesel production an
+869	Environmental Science/101016s0140673623014198	The epidemiology of Parkinson's disease
+870	Environmental Science/101038s4138802302907z	ROS production by mitochondria: function or dysfunction?
+871	Environmental Science/101038s41556024013608	A guideline on the molecular ecosystem regulating ferroptosis
+872	Environmental Science/101038s41557023013347	Linkage conversions in single-crystalline covalent organic frameworks
+873	Environmental Science/101038s41560023014216	Multifunctional sulfonium-based treatment for perovskite solar cells with less than 1% efficiency loss over 4,500-h
+874	Environmental Science/101038s41560023014252	Achieving a high-performance sodium-ion pouch cell by regulating intergrowth structures in a layered oxide cathode 
+875	Environmental Science/101038s41565023015349	Microplastic fragmentation by rotifers in aquatic ecosystems contributes to global nanoplastic pollution
+876	Environmental Science/101038s41566023013444	Dipole-dipole-interaction-assisted self-assembly of quantum dots for highly efficient light-emitting diodes
+877	Environmental Science/101038s41566024013826	Efficient blue electroluminescence from reduced-dimensional perovskites
+878	Environmental Science/101038s41577024010148	Short-chain fatty acids: linking diet, the microbiome and immunity
+879	Environmental Science/101038s41578023006234	Fluorination in advanced battery design
+880	Environmental Science/101038s41578024006723	Design principles for strong and tough hydrogels
+881	Environmental Science/101038s4157902300926x	Plasmids, a molecular cornerstone of antimicrobial resistance in the One Health era
+882	Environmental Science/101038s41579023009672	The soil plastisphere
+883	Environmental Science/101038s41579023009805	The interplay between microbial communities and soil properties
+884	Environmental Science/101038s41586023068798	Rapid groundwater decline and some cases of recovery in aquifers globally
+885	Environmental Science/101038s4158702301953y	Identification of mobile genetic elements with geNomad
+886	Environmental Science/101038s41929024011263	A strongly coupled Ru-CrO<sub><i>x</i></sub> cluster-cluster heterostructure for efficient alkaline hydrogen electr
+887	Environmental Science/101038s4358602300278z	Electrospinning of nanofibres
+888	Law/101007s00787022020775	Contextual determinants associated with children's and adolescents' mental health care utilization: a systematic re
+889	Law/101007s1038902201795z	Privacy in electronic health records: a systematic mapping study
+890	Law/101007s1040902423663x	Progress in physical modeling of compressible wall-bounded turbulent flows
+891	Law/101007s10479020038124	Big data analytics-enabled sensing capability and organizational outcomes: assessing the mediating effects of busin
+892	Law/101007s10479021040477	Exiting the COVID-19 pandemic: after-shock risks and avoidance of disruption tails in supply chains
+893	Law/101007s10479022047656	Digital Innovation, Data Analytics, and Supply Chain Resiliency: A Bibliometric-based Systematic Literature Review
+894	Law/101007s1049002309871y	Reporting reliability, convergent and discriminant validity with structural equation modeling: A review and best-pr
+895	Law/101007s10506022093436	Algorithms in the court: does it matter which part of the judicial decision-making is automated
+896	Law/101007s1050602309361y	Mining legal arguments in court decisions
+897	Law/101007s1055102305334y	Employee Stock Ownership Plans and Corporate Environmental Engagement
+898	Law/101007s10551023053539	Relaxed Financial Constraints and Corporate Social Responsibility
+899	Law/101007s10639023120098	AI in Medical Education: Global situation, effects and challenges
+900	Law/101007s10668023034245	A step toward sustainable development: the nexus of environmental sustainability, technological advancement and gre
+901	Law/101007s1066802303641y	Are research and development on energy efficiency and energy sources effective in the level of CO<sub>2</sub> emiss
+902	Law/101007s10668023039333	Does environmental regulation promote corporate green investment? Evidence from China's new environmental protectio
+903	Law/101007s1081102303103y	The Kelp Forest Challenge: A collaborative global movement to protect and restore 4 million hectares of kelp forest
+904	Law/101007s1094002309576x	Investigating the Dynamics of Outlaw Motorcycle Gang Co-Offending Networks: The Utility of Relational Hyper Event M
+905	Law/101007s1108202406367x	Soliton solutions of nonlinear Schrödinger dynamical equation with exotic law nonlinearity by variational principle
+906	Law/101007s11097021097738	On the psychologism of neurophenomenology
+907	Law/101007s11127022010041	Military societies: self-governance and criminal justice in Indian country
+908	Law/101007s11276020023851	End-edge-cloud collaborative computation offloading for multiple mobile users in heterogeneous edge-server environm
+909	Law/101007s11356024321066	Unlocking sustainable growth: exploring the catalytic role of green finance in firms' green total factor productivi
+910	Law/101007s11558023094917	The comparative constitutional compliance database
+911	Law/101007s11604023014743	Fairness of artificial intelligence in healthcare: review and recommendations
+912	Law/101007s11846023006312	Family ownership and control as drivers for environmental, social, and governance in family firms
+913	Law/101007s11846024007291	The burgeoning role of literature review articles in management research: an introduction and outlook
+914	Law/101007s12144023051383	From high-performance work systems and resilience to employee well-being during crises: exploring the moderating ro
+915	Law/101007s12553023008067	The underuse of AI in the health sector: Opportunity costs, success stories, risks and recommendations
+916	Law/101007s12665023113477	Study of the spatial distribution and the temporal trend of landslide disasters that occurred in the Nepal Himalaya
+917	Law/101007s13132023011850	Corporate Social Responsibility (CSR): The Role of Government in promoting CSR
+918	Law/101007s13132023014333	Artificial Intelligence (AI) and Automation in Administrative Procedures: Potentials, Limitations, and Framework Co
+919	Law/101007s13178024009414	Strangulation During Sex Among Undergraduate Students in Australia: Toward Understanding Participation, Harms, and 
+920	Law/101016jaanat2023152195	The legal and ethical framework governing body donation in Europe-2nd update on current practice
+921	Law/101016jartmed2023102698	Understanding the factors influencing acceptability of AI in medical imaging domains among healthcare professionals
+922	Law/101016jartmed2024102861	Challenges and strategies for wide-scale artificial intelligence (AI) deployment in healthcare practices: A perspec
+923	Law/101016jcell202311011	Atlas of fetal metabolism during mid-to-late gestation and diabetic pregnancy
+924	Law/101016jclsr2023105899	Licensing high-risk artificial intelligence: Toward ex ante justification for a disruptive technology
+925	Law/101016jcompgeo2023105977	Horizontal bearing characteristic and seismic fragility analysis of CFRP composite pipe piles subject to chloride c
+926	Law/101016jcompgeo2024106174	A PINN-based modelling approach for hydromechanical behaviour of unsaturated expansive soils
+927	Law/101016jcsite2023103827	Flow and heat transfer analysis over a pair of heated bluff bodies in a channel: Characteristics of non-linear rheo
+928	Law/101016jcsite2023103834	Nanofluid flow in presence of disturber for solar application utilizing numerical method
+929	Law/101016jecolecon2024108188	Institutional quality and bioeconomy performance in European countries: Unveiling the evidence
+930	Law/101016jenergy2024130236	Critical penetrating vibration evolution behaviors of the gas-liquid coupled vortex flow
+931	Law/101016jenergy2024131034	Unleashing digital empowerment: Pioneering low-carbon development through the broadband China strategy
+932	Law/101016jengfailanal2023107801	Effects of cyclic fatigue loads on surface topography evolution and hydro-mechanical properties in natural and arti
+933	Law/101016jenvres2023117668	How does central-local interaction affect local environmental governance? Insights from the transformation of centr
+934	Law/101016jerss2023103393	Lithium nexus: Energy, geopolitics, and socio-environmental impacts in Mexico's Sonora project
+935	Law/101016jfoodchem2023136990	Natural deep eutectic solvents for the extraction of lentinan from shiitake mushroom: COSMO-RS screening and ANN-GA
+936	Law/101016jfrl2024105130	Green innovation and shareholder litigation rights
+937	Law/101016jfuel2023129699	Numerical and experimental investigation of 3D flow field bipolar plates for PEMFCs by metal 3D printing
+938	Law/101016jfuel2023130205	Effect of dimensionless vent ratio on the flame-shock wave evolution dynamics of blended LPG/DME gas explosion vent
+939	Law/101016jgeothermics2024102974	Experimental study of mechanical properties of hot dry granite under thermal-mechanical couplings
+940	Law/101016jgsf2023101669	Adoption of green finance and green innovation for achieving circularity: An exploratory review and future directio
+941	Law/101016jgsf2023101689	The impact of green finance, eco-innovation, renewable energy and carbon taxes on CO2 emissions in BRICS countries:
+942	Law/101016jheliyon2024e28601	Utilizing data platform management to implement " 5W " analysis framework for preventing and controlling corruption
+943	Law/101016jibusrev2022102075	The demands of populism on business and the creation of "corporate political obligations"
+944	Law/101016jijbiomac2024129753	Lignin - A green material for antibacterial application - A review
+945	Law/101016jijchp2023100415	Relationship between physical activity and coping with stress in people with multiple sclerosis: A moderated mediat
+946	Law/101016jijhm2023103631	Augmented and virtual reality in hotels: Impact on tourist satisfaction and intention to stay and return
+947	Law/101016jijhydene202310280	Quantitative investigation of explosion behavior and spectral radiant characteristics of free radicals for syngas/a
+948	Law/101016jijhydene202402038	Renewable hydrogen standards, certifications, and labels: A state-of-the-art review from a sustainability systems g
+949	Law/101016jijmecsci2023108824	Droplet impact dynamics on superhydrophobic surfaces with convex hemispherical shapes
+950	Law/101016jjaac202306014	Association Between Marijuana Laws and Suicide Among 12-to 25-Year-Olds in the United States From 2000 to 2019
+951	Law/101016jjacc202312023	Food Is Medicine Strategies for Nutrition Security and Cardiometabolic Health Equity
+952	Law/101016jjclepro2023140079	How does the digital economy impact sustainable development? -An empirical study from China
+953	Law/101016jjdmm2023100850	Attracting digital nomads: Smart destination strategies, innovation and competitiveness
+954	Law/101016jjenvman2023119369	Is digital economy an answer to energy trilemma eradication? The case of China
+955	Law/101016jjenvman2023119546	Renewable energy and natural resource protection: Unveiling the nexus in developing economies
+956	Law/101016jjenvman2023119662	Marine ecological security shelter in China: Concept, policy framework, mechanism and implementation obstacles
+957	Law/101016jjenvman2024120275	When do climate change legislation and clean energy policies matter for net-zero emissions?
+958	Law/101016jjmapro202310030	Determination of gradient residual stress for elastoplastic materials by nanoindentation
+959	Law/101016jjmrt202401279	Size effect of nickel-based single crystal superalloy revealed by nanoindentation with low strain rates
+960	Law/101016jlanepe2024100892	Consensus recommendation for prenatal, neonatal and postnatal management of congenital cytomegalovirus infection fr
+961	Law/101016jmarpol2023105897	Gone with the wind? Wind farm-induced wakes and regulatory gaps
+962	Law/101016jmarpol2024106017	The hidden costs of multi-use at sea
+963	Law/101016jpolgeo2021102547	The deep border
+964	Law/101016jrbmo2023103421	Direct-to-consumer genetic testing and the changing landscape of gamete donor conception: key issues for practition
+965	Law/101016jrbmo2023103764	The future of surrogacy: a review of current global trends and national landscapes
+966	Law/101016jress2023109877	PiracyAnalyzer: Spatial temporal patterns analysis of global piracy incidents
+967	Law/101016jribaf2023102118	Can digitalization facilitate cross-border M&A? Evidence from Chinese A-share listed companies
+968	Law/101016jribaf2023102131	Market response to environmental social and governance performance: A global analysis
+969	Law/101016jtechfore2024123347	Climate policies and legislation for renewable energy transition: The roles of financial sector and political insti
+970	Law/101016jtra2023103887	Public perception of autonomous vehicle capability determines judgment of blame and trust in road traffic accidents
+971	Law/101016jtree202309014	Afforestation and climate mitigation: lessons from Chile
+972	Law/101016jtrf202312007	Analysis of factors influencing aberrant riding behavior of food delivery riders: A perspective on safety attitude 
+973	Law/101016jwatres2023120861	Is there public desire for a federal takeover of water resource management in Australia?
+974	Law/101016jxcrm2023101356	Artificial intelligence, ChatGPT, and other large language models for social determinants of health: Current state 
+975	Law/101016jymssp2023111040	Dynamic analysis of magnetorheological damper incorporating elastic ring in coupled multi-physical fields
+976	Law/101016s2213858723003546	Screening type 1 diabetes and coeliac disease by law
+977	Law/101038s4155802301906y	Supply, demand and polarization challenges facing US climate policies
+978	Law/101038s4158602306939z	Designing a circular carbon and plastics economy for a sustainable future
+979	Law/101038s41586024070187	Naturally occurring T cell mutations enhance engineered T cell therapies
+980	Law/101038s41586024071848	A high black-hole-to-host mass ratio in a lensed AGN in the early Universe
+981	Law/101038s4225402400719y	Physical insights into non-fullerene organic photovoltaics
+982	Law/103758s13428023021242	The Misinformation Susceptibility Test (MIST): A psychometrically validated measure of news veracity discernment
+983	Material Science/101007s10924023030048	Preparation of Polyacrylamide Titanium Dioxide Hybrid Nanocomposite by Direct Polymerization and Its Applicability 
+984	Material Science/101007s1142602319089	Roadmap for rechargeable batteries: present and beyond
+985	Material Science/101007s1227402357004	Atomically dispersed materials: Ideal catalysts in atomic era
+986	Material Science/101007s1227402360378	The reformation of catalyst: From a trial-and-error synthesis to rational design
+987	Material Science/101007s13399020012436	A review of the traditional pulping methods and the recent improvements in the pulping processes
+988	Material Science/101007s1339902102279y	Synthesis of activated carbon from Lemna minor plant and magnetized with iron (III) oxide magnetic nanoparticles an
+989	Material Science/101007s1339902202362y	Zero-valent iron supported-lemon derived biochar for ultra-fast adsorption of methylene blue
+990	Material Science/101007s1339902202623w	Natural antimicrobial and antioxidant compounds for active food packaging applications
+991	Material Science/101007s13399022027433	In vitro antioxidant activities of copper mixed oxide (CuO/Cu<sub>2</sub>O) nanoparticles produced from the leaves 
+992	Material Science/101007s13399022032412	Bio-based materials for barrier coatings on paper packaging
+993	Material Science/101007s13399023052649	Green synthesis of CuFe<sub>2</sub>O<sub>4</sub> nanoparticles from bioresource extracts and their applications in 
+994	Material Science/101007s42114023008132	Heterodimensional hybrids assembled with multiple-dimensional copper selenide hollow microspheres and graphene oxid
+995	Material Science/101007s4211402300816z	Highly thermoconductive and mechanically robust boron nitride/aramid composite dielectric films from non-covalent i
+996	Material Science/101007s4276502300337w	Spatially Confined MXene/PVDF Nanofiber Piezoelectric Electronics
+997	Material Science/101007s42765024003976	Electrospun trilayer eccentric Janus nanofibers for a combined treatment of periodontitis
+998	Material Science/101016japcatb2023123225	Magnetic field facilitated electrocatalytic degradation of tetracycline in wastewater by magnetic porous carbonized
+999	Material Science/101016japcatb2023123346	Adding Fe/dicyandiamide to Co-MOF to greatly improve its ORR/OER bifunctional electrocatalytic activity
+1000	Material Science/101016japcatb2023123669	Facile synthesis of direct Z-scheme PPy/NH<sub>2</sub>-UiO-66 heterojunction for enhanced photocatalytic Cr(VI) red
+1001	Material Science/101016japenergy2023122095	Production of hierarchical porous bio-carbon based on deep eutectic solvent fractionated lignin nanoparticles for h
+1002	Material Science/101016japmate2024100183	Chemically bonded Mn0.5Cd0.5S/BiOBr S-scheme photocatalyst with rich oxygen vacancies for improved photocatalytic d
+1003	Material Science/101016jcarbon2023118528	Facile fabrication of biomass chitosan-derived magnetic carbon aerogels as multifunctional and high-efficiency elec
+1004	Material Science/101016jcarbon2024119233	Constructing multiple heterogeneous interfaces in one-dimensional carbon fiber materials for superior electromagnet
+1005	Material Science/101016jcej2023146545	Electrostatically robust CoFeOF nanosheet against chloride for green-H<sub>2</sub> production in alkaline seawater 
+1006	Material Science/101016jcej2023147609	Carbon layer derived carrier transport in Co/g-C<sub>3</sub>N<sub>4</sub> nanosheet junctions for efficient H<sub>2
+1007	Material Science/101016jcej2023147667	Sulfur-Doped porous carbon Adsorbent: A promising solution for effective and selective CO2 capture
+1008	Material Science/101016jcej2023148374	CoFe2O4 nanoparticles modified amidation of N-doped carbon nanofibers hybrid catalysts to accelerate electrochemica
+1009	Material Science/101016jcej2024149776	Mn-based catalysts derived from the non-thermal treatment of Mn-MIL-100 to enhance its water-resistance for toluene
+1010	Material Science/101016jcej2024152041	Surface engineering strategy for MXene to tailor electromagnetic wave absorption performance
+1011	Material Science/101016jceramint202312042	Fabrication of MnSe/WSe2 nanohybrid electrode prepared through hydrothermal method for supercapacitor applications
+1012	Material Science/101016jcjsc2023100194	Fabrication of graphene modified CeO<sub>2</sub>/g-C<sub>3</sub>N<sub>4</sub> heterostructures for photocatalytic d
+1013	Material Science/101016jcolsurfa2023132775	Facile preparation of high-performance hydrochar/TiO<sub>2</sub> heterojunction visible light photocatalyst for tre
+1014	Material Science/101016jcolsurfa2024134160	Polyetheretherketone fiber-supported polyethylene glycols for phase-transfer catalysis in its surface layer
+1015	Material Science/101016jcompositesb2023111075	Construction of an epoxidized, phosphorus-based poly(styrene butadiene styrene) and its application in high-perform
+1016	Material Science/101016jconbuildmat2023134334	Exploring green and efficient zero-dimensional carbon-based inhibitors for carbon steel: From performance to mechan
+1017	Material Science/101016jconbuildmat2024136836	Mechanical behavior and impact resistance of rubberized concrete enhanced by basalt fiber-epoxy resin composite
+1018	Material Science/101016jcorcom202105004	Self-healing corrosion protective coatings based on micro/nanocarriers: A review
+1019	Material Science/101016jdiamond2023110713	Ultra wideband tunable terahertz metamaterial absorber based on single-layer graphene strip
+1020	Material Science/101016jenganabound2024105802	A gradient-enhanced physics-informed neural networks method for the wave equation
+1021	Material Science/101016jengstruct2023117193	Ultra-High-Strength Engineered Cementitious Composites (UHS-ECC) panel reinforced with FRP bar/grid: Development an
+1022	Material Science/101016jest2023109859	Vanadium oxide/carbonized chestnut needle composites as cathode materials for advanced aqueous zinc-ion batteries
+1023	Material Science/101016jest2023110289	Hydrothermal synthesis of the NiS@g-C3N4 nanohybrid electrode material for supercapacitor applications
+1024	Material Science/101016jest2024110535	Advanced hybrid supercapacitors assembled with CoNi LDH nanoflowers and nanosheets as high-performance cathode mate
+1025	Material Science/101016jeswa2023123111	MICU: Image super-resolution via multi-level information compensation and U-net
+1026	Material Science/101016jeti2023103485	Corrosion effect of acid/alkali on cementitious red mud-fly ash materials containing heavy metal residues
+1027	Material Science/101016jfochx2023101061	Ultra-high pressure improved gelation and digestive properties of Tai Lake whitebait myofibrillar protein
+1028	Material Science/101016jfuel2023129688	Facile synthesis of CuAl2O4/rGO nanocomposite via the hydrothermal method for supercapacitor applications
+1029	Material Science/101016jijhydene202306254	First-principles investigation for the hydrogen storage properties of XTiH3 (X1/4K, Rb, Cs) perovskite type hydride
+1030	Material Science/101016jijhydene202309033	A review of CdS-based S-scheme for photocatalytic water splitting: Synthetic strategy and identification techniques
+1031	Material Science/101016jijinfomgt2023102716	Generative artificial intelligence in marketing: Applications, opportunities, challenges, and research agenda
+1032	Material Science/101016jijmachtools2023104099	Ni-Ti multicell interlacing Gyroid lattice structures with ultra-high hyperelastic response fabricated by laser pow
+1033	Material Science/101016jjallcom2024173417	Design high performance field-effect, strain/gas sensors of novel 2D penta-like Pd<sub>2</sub>P<sub>2</sub>SeX (X= 
+1034	Material Science/101016jjcis202309179	One stone for four birds: A "chemical blowing" strategy to synthesis wood-derived carbon monoliths for high-mass lo
+1035	Material Science/101016jjcis202311159	Synthesize magnetic ZnFe<sub>2</sub>O<sub>4</sub>@C/Cd<sub>0.9</sub>Zn<sub>0.1</sub>S catalysts with S-scheme heter
+1036	Material Science/101016jjcis202401012	Defects materials of Institut Lavoisier-125(Ti) materials enhanced photocatalytic activity for toluene and chlorobe
+1037	Material Science/101016jjcis202402044	Noble metal-free FeCoNiMnV high entropy alloy anchored on <i>N</i>-doped carbon nanotubes with prominent activity a
+1038	Material Science/101016jjclepro2023139834	Performance investigation and design optimization of a battery thermal management system with thermoelectric cooler
+1039	Material Science/101016jjece2024112047	First-principles design of noble metal (Rh and Pd) dispersed Janus WSTe monolayer for toxic gas sensing application
+1040	Material Science/101016jjechem202310017	An intrinsically self-healing and anti-freezing molecular chains induced polyacrylamide-based hydrogel electrolytes
+1041	Material Science/101016jjes202301021	A review of low-carbon technologies and projects for the global cement industry
+1042	Material Science/101016jjhazmat2023132803	Robust PVA/GO@MOF membrane with fast photothermal self-cleaning property for oily wastewater purification
+1043	Material Science/101016jjiec202310062	Ligand imprinted composite adsorbent for effective Ni(II) ion monitoring and removal from contaminated water
+1044	Material Science/101016jjmapro202310030	Determination of gradient residual stress for elastoplastic materials by nanoindentation
+1045	Material Science/101016jjmrt202402094	Microstructure and mechanical properties of Mg-Li alloys fabricated by wire arc additive manufacturing
+1046	Material Science/101016jjmst202306042	CuInS2 quantum-dot-modified g-C3N4 S-scheme heterojunction photocatalyst for hydrogen production and tetracycline d
+1047	Material Science/101016jjmst202307061	MXene@Co hollow spheres structure boosts interfacial polarization for broadband electromagnetic wave absorption
+1048	Material Science/101016jjmst202308020	Hollow engineering of sandwich NC@Co/NC@MnO 2 composites toward strong wideband electromagnetic wave attenuation
+1049	Material Science/101016jjmst202403046	FeNi alloys incorporated N-doped carbon nanotubes as efficient bifunctional electrocatalyst with phase-dependent ac
+1050	Material Science/101016jjoule202402019	Highly efficient and stable perovskite solar cells via a multifunctional hole transporting material
+1051	Material Science/101016jjpcs2024111919	Synthesis of high-performance supercapacitor electrode materials by hydrothermal route based on ZnSe/MnSe composite
+1052	Material Science/101016jmaterresbull2023112635	Multifunctional terahertz device with active switching between bimodal perfect absorption and plasmon-induced trans
+1053	Material Science/101016jmcat2023113738	Decorating CdS with cobaltous hydroxide and graphene dual cocatalyst for photocatalytic hydrogen production coupled
+1054	Material Science/101016jmemsci2023122247	High permeability PEG/MXene@MOF membrane with stable interlayer spacing and efficient fouling resistance for contin
+1055	Material Science/101016jmolliq2024124117	Pyracantha fortuneana alcohol extracts as biodegradable corrosion inhibitors for copper in H2SO4 media
+1056	Material Science/101016jmolstruc2023136929	Metal-/carboxylate-directed four d10 piperazine-amide-based coordination polymers for the fluorescent detection of 
+1057	Material Science/101016jmolstruc2024138501	A new type Co(II)-based photocatalyst for the nitrofurantoin antibiotic degradation
+1058	Material Science/101016jmtcomm2024108684	Durability evaluation of a high-performance red mud-based composite material
+1059	Material Science/101016joptlaseng2024108368	Tunable metamaterial absorption device based on Fabry -Perot resonance as temperature and refractive index sensing
+1060	Material Science/101016joptlastec2023110186	Six-band rotationally symmetric tunable absorption film based on AlCuFe quasicrystals
+1061	Material Science/101016jpowtec2024119480	Hydrothermal preparation of Nb<SUP>5+</SUP>-doped α-Fe<sub>2</sub>O<sub>3</sub> nanorods for efficient visible ligh
+1062	Material Science/101016jscib202312003	Wear-resistant CoCrNi multi-principal element alloy at cryogenic temperature
+1063	Material Science/101016jscib202401029	Low-current-density stability of vanadium-based cathodes for aqueous zinc-ion batteries
+1064	Material Science/101016jscriptamat2023115763	Integration of hardness and toughness in (CuNiTiNbCr)Nx high entropy films through nitrogen-induced nanocomposite s
+1065	Material Science/101016jsnr2024100186	Laser-Induced graphene-based Fabry-P<acute accent>erot cavity label-free immunosensors for the quantification of co
+1066	Material Science/101016jsolidstatesciences2024107483	PbBi2Se4 monolayer: A new 2D material with outstanding electronic, photocatalytic, and optical properties
+1067	Material Science/101016jsurfin2024103955	Embedding In2.77S4 into NCDs-(g-C3N5) hybrid materials to enhance photocatalytic hydrogen production and rhodamine 
+1068	Material Science/101016jsurfin2024104248	The tunable absorber films of grating structure of AlCuFe quasicrystal with high Q and refractive index sensitivity
+1069	Material Science/101038s41557023013347	Linkage conversions in single-crystalline covalent organic frameworks
+1070	Material Science/101038s41560023014145	Origin of fast charging in hard carbon anodes
+1071	Material Science/101038s41560023014252	Achieving a high-performance sodium-ion pouch cell by regulating intergrowth structures in a layered oxide cathode 
+1072	Material Science/101038s41560023014430	Single-phase local-high-concentration solid polymer electrolytes for lithium-metal batteries
+1073	Material Science/101038s41560024014723	High-concentration silver alloying and steep back-contact gallium grading enabling copper indium gallium selenide s
+1074	Material Science/101038s41565023015349	Microplastic fragmentation by rotifers in aquatic ecosystems contributes to global nanoplastic pollution
+1075	Material Science/101038s4156502301541w	Polymer nanocomposite dielectrics for capacitive energy storage
+1076	Material Science/101038s41565023015438	Efficient multicarbon formation in acidic CO<sub>2</sub> reduction via tandem electrocatalysis
+1077	Material Science/101038s41565024016180	Photothermal therapy of tuberculosis using targeting pre-activated macrophage membrane-coated nanoparticles
+1078	Material Science/101038s41566023013444	Dipole-dipole-interaction-assisted self-assembly of quantum dots for highly efficient light-emitting diodes
+1079	Material Science/101038s41566024013826	Efficient blue electroluminescence from reduced-dimensional perovskites
+1080	Material Science/101038s41578023006234	Fluorination in advanced battery design
+1081	Material Science/101038s4158602306786y	Disordered enthalpy-entropy descriptor for high-entropy ceramics discovery
+1082	Material Science/101038s41586023068605	Three-dimensional integration of two-dimensional field-effect transistors
+1083	Material Science/101038s41586023068949	Negative mixing enthalpy solid solutions deliver high strength and ductility
+1084	Material Science/101038s41586023069175	Durable CO<sub>2</sub> conversion in the proton-exchange membrane system
+1085	Material Science/101038s41586023069839	7-Dehydrocholesterol dictates ferroptosis sensitivity
+1086	Material Science/101038s41586024070967	High-speed and large-scale intrinsically stretchable integrated circuits
+1087	Material Science/101038s41586024071611	A three-dimensional liquid diode for soft, integrated permeable electronics
+1088	Material Science/101038s41586024077233	Buried interface molecular hybrid for inverted perovskite solar cells
+1089	Material Science/101038s41587023018000	A fully integrated wearable ultrasound system to monitor deep tissues in moving subjects
+1090	Material Science/101038s41893024012750	Safe electrolyte for long-cycling alkali-ion batteries
+1091	Material Science/101038s41928023011166	A physicochemical-sensing electronic skin for stress response monitoring
+1092	Material Science/101038s41929024011263	A strongly coupled Ru-CrO<sub><i>x</i></sub> cluster-cluster heterostructure for efficient alkaline hydrogen electr
+1093	Material Science/101038s4225402300676y	Robustness and resilience of complex networks
+1094	Material Science/101038s4358602300278z	Electrospinning of nanofibres
+1095	Material Science/105004dwt202228397	Efficient adsorptive removal of industrial dye from aqueous solution by synthesized zeolitic imidazolate framework-
+1096	Math/101007s00208022025127	Gradient regularity in mixed local and nonlocal problems
+1097	Math/101007s10208022095953	Sharp Bounds on the Approximation Rates, Metric Entropy, and <i>n</i>-Widths of Shallow Neural Networks
+1098	Math/101007s1047902204575w	Comprehensive review on twin support vector machines
+1099	Math/101007s1058602203956x	BERT-based ensemble learning for multi-aspect hate speech detection
+1100	Math/101007s10639023119904	Artificial Intelligence in K-12 Education: eliciting and reflecting on Swedish teachers' understanding of AI and it
+1101	Math/101007s10668022027875	Suitable site selection by using full consistency method (FUCOM): a case study for maize cultivation in northwest T
+1102	Math/101007s10915023024121	Discontinuity Computing Using Physics-Informed Neural Networks
+1103	Math/101007s10973023127509	Scrutinization of marangoni convective flow of dusty hybrid nanofluid with gyrotactic microorganisms and thermophor
+1104	Math/101007s1104202008769x	Detection of myocardial infarction based on novel deep transfer learning methods for urban healthcare in smart citi
+1105	Math/101007s11071023090835	Data-driven solitons and parameter discovery to the (2+1)-dimensional NLSE in optical fiber communications
+1106	Math/101007s11071023091574	Periodic transmission and vaccination effects in epidemic dynamics: a study using the SIVIS model
+1107	Math/101007s11071024096531	Modeling and analysis of the fractional-order epidemic model to investigate mutual influence in HIV/HCV co-infectio
+1108	Math/101007s11082023056994	Formation of optical soliton wave profiles of Shynaray-IIA equation via two improved techniques: a comparative stud
+1109	Math/101007s1108202406367x	Soliton solutions of nonlinear Schrödinger dynamical equation with exotic law nonlinearity by variational principle
+1110	Math/101007s11082024063702	Exploring soliton solutions in nonlinear spatiotemporal fractional quantum mechanics equations: an analytical study
+1111	Math/101007s11242023019777	The FluidFlower Validation Benchmark Study for the Storage of CO<sub>2</sub>
+1112	Math/101007s12033022005821	A Comprehensive Study to Unleash the Putative Inhibitors of Serotype2 of Dengue Virus: Insights from an In Silico S
+1113	Math/101007s12065023008404	Numerical solution of a new mathematical model for intravenous drug administration
+1114	Math/101007s1222002301463y	Solutions with Sign Information for Noncoercive Double Phase Equations
+1115	Math/101007s12591021005757	Impact of Fear Effect in a Two Prey-One Predator System with Switching Behaviour in Predation
+1116	Math/101007s1304202201681w	A descriptive human visual cognitive strategy using graph neural network for facial expression recognition
+1117	Math/101007s1316302200453y	Multiple solutions for nonlinear boundary value problems of Kirchhoff type on a double phase setting
+1118	Math/101007s13369024089453	Recent Advancements in Fluid Dynamics: Drag Reduction, Lift Generation, Computational Fluid Dynamics, Turbulence Mo
+1119	Math/101007s13399022023271	The use of biochar-NH<sub>2</sub> produced from watermelon peels as a natural adsorbent for the removal of Cu(II) i
+1120	Math/101007s13399022026641	Biosorption of acid brown 14 dye to mandarin-CO-TETA derived from mandarin peels
+1121	Math/101007s1339902202918y	Copper(II) ion removal by chemically and physically modified sawdust biochar
+1122	Math/101007s13399022029619	Dynamic pathways for the bioconvection in thermally activated rotating system
+1123	Math/101007s1339902203015w	Adsorption of methylene blue (MB) dye on ozone, purified and sonicated sawdust biochars
+1124	Math/101007s1339902203319x	Modeling and optimization of the adsorptive removal of crystal violet dye by durian (<i>Durio zibethinus</i>) seeds
+1125	Math/101007s13399022037340	Non-competitive and competitive detoxification of As(III) ions from single and binary biosorption systems and bioso
+1126	Math/101007s40815023016641	Improved Event-Triggered-Based Output Tracking for a Class of Delayed Networked T-S Fuzzy Systems
+1127	Math/101016jaml2023108845	Semirational rogue waves of the three coupled higher-order nonlinear Schrodinger equations
+1128	Math/101016jaml2023108868	A hybrid numerical method for non-linear transient heat conduction problems with temperature-dependent thermal cond
+1129	Math/101016japcatb2023123347	Utilizing Er-doped ZnIn<sub>2</sub>S<sub>4</sub> for efficient photocatalytic CO<sub>2</sub> conversion
+1130	Math/101016japcatb2023123580	Iron phthalocyanine hollow architecture enabled ammonia production via nitrate reduction to achieve 100 % Faradaic 
+1131	Math/101016japm202404012	Optical image encryption and authentication scheme with computational ghost imaging
+1132	Math/101016jasej2023102509	Applications of internet of things (IoT) and sensors technology to increase food security and agricultural Sustaina
+1133	Math/101016jbspc2024106024	Hybrid convolutional neural network and Flexible Dwarf Mongoose Optimization Algorithm for strong kidney stone diag
+1134	Math/101016jcarbon2024118935	A perspective on impedance matching and resonance absorption mechanism for electromagnetic wave absorbing
+1135	Math/101016jces2023119390	Constructing heterostructured CoSe2-SnSe nanoparticles incorporated carbon nanofibers for robust sodium storage
+1136	Math/101016jcjph202211024	An entropy analysis in a slip condition flow over a linear stretching sheet
+1137	Math/101016jcompedu2024105031	ChatGPT improves creative problem-solving performance in university students: An experimental study
+1138	Math/101016jcompeleceng2023109059	An ensemble neural network model for predicting the energy utility in individual houses
+1139	Math/101016jcsite2023103834	Nanofluid flow in presence of disturber for solar application utilizing numerical method
+1140	Math/101016jcsite2023103928	Management of period of solidification with loading nanoparticles simulating unsteady heat transfer
+1141	Math/101016jcsite2024104372	A numerical modeling of battery thermal management system using nano-enhanced phase change material in hot climate 
+1142	Math/101016jcsite2024104585	A novel thermal management system for a cylindrical battery based on tubular thermoelectric generator
+1143	Math/101016jdcan202205020	A blockchain based privacy-preserving federated learning scheme for Internet of Vehicles
+1144	Math/101016jdcan202303008	IDS-INT: Intrusion detection system using transformer-based transfer learning for imbalanced network traffic
+1145	Math/101016jengappai2023107536	Forecasting global climate drivers using Gaussian processes and convolutional autoencoders
+1146	Math/101016jengfracmech2023109833	Visualization study on stress evolution and crack propagation of jointed rock mass under blasting load
+1147	Math/101016jeswa2023121180	Secure hierarchical fog computing-based architecture for industry 5.0 using an attribute-based encryption scheme
+1148	Math/101016jeswa2023121581	Fuzzy logic type-2 intelligent moisture control system
+1149	Math/101016jfrl2023104832	Higher-order moment risk spillovers across various financial and commodity markets: Insights from the Israeli-Pales
+1150	Math/101016jfuel2023130275	Hydrothermal synthesis of ZnO@MoTe<sub>2</sub> nanocomposite as excellent electrocatalyst for hydrogen evolution re
+1151	Math/101016jgr202304008	Do natural resource dependence, economic growth and transport energy consumption accelerate ecological footprint in
+1152	Math/101016jijhydene202306238	Development of SnCo<sub>2</sub>O<sub>4</sub> spinel supported on the rGO nanosheet with the improved electrochemica
+1153	Math/101016jijhydene202307306	Self-supported Se-doped Na2Ti3O7 arrays for high performance sodium ion batteries
+1154	Math/101016jijhydene202402148	First-principles study on hydrogen storage properties of the new hydride perovskite XAlH3 (X=Na, K)
+1155	Math/101016jijthermalsci2024109172	Analysis of solar absorption and thermal radiation properties of a multi-layer structure
+1156	Math/101016jjallcom2023173412	A comprehensive study on structural, optical, electrical, and dielectric properties of PVA-PVP/Ag-TiO2 nanocomposit
+1157	Math/101016jjenvman2024120045	The key to sustainability: In-depth investigation of environmental quality in G20 countries through the lens of ren
+1158	Math/101016jjobe2024109035	Sustainable off-grid residential heating and desalination: Integration of biomass boiler and solar energy with envi
+1159	Math/101016jjpcs2023111801	A DFT study of structural, electronic, mechanical, phonon, thermodynamic, and H2 storage properties of lead-free pe
+1160	Math/101016jjrras2023100760	Gamma attenuation characteristics of silicon-rich glasses in Na2O-SiO2-Al2O3-CaO-ZnO system for radiation applicati
+1161	Math/101016jnanoen2024109289	Controllable and large-scale synthesis of carbon quantum dots for efficient solid-state optical devices
+1162	Math/101016jnanoen2024109299	Enhanced alkaline hydrogen evolution reaction of MoO2/Ni3S2 nanorod arrays by interface engineering
+1163	Math/101016jnanoms202311007	Experimental and computational study of annealed nickel sulfide quantum dots for catalytic and antibacterial activi
+1164	Math/101016jradphyschem2023111301	Gamma shielding performance of B2O3/BaO-based glassy system: Synthesis and simulation study
+1165	Math/101016jrinp2023107304	Qualitative analysis and optical solitons for the (1+1)-dimensional Biswas-Milovic equation with parabolic law and 
+1166	Math/101016jsna2024115664	Piezoelectric Biosensor based on ultrasensitive MEMS system
+1167	Math/101016jtriboint2023109231	A decreasing failure rate model with a novel approach to enhance the artificial neural network's structure for engi
+1168	Math/101016jvacuum2024113007	First-principles investigation for the hydrogen storage, mechanical, electronic, optical, dynamic, and thermodynami
+1169	Math/101038s41550024022187	A massive interacting galaxy 510 million years after the Big Bang
+1170	Math/101038s4155002402230x	Nightside clouds and disequilibrium chemistry on the hot Jupiter WASP-43b
+1171	Math/101038s41559023022600	Monitoring of species' genetic diversity in Europe varies greatly and overlooks potential climate change impacts
+1172	Math/101038s41560023014216	Multifunctional sulfonium-based treatment for perovskite solar cells with less than 1% efficiency loss over 4,500-h
+1173	Math/101038s41561023013358	Recent human-induced atmospheric drying across Europe unprecedented in the last 400 years
+1174	Math/101038s41566023013257	Optical skyrmions and other topological quasiparticles of light
+1175	Math/101038s41566023013515	Bright and stable near-infrared lead-free perovskite light-emitting diodes
+1176	Math/101038s41578023006332	Co-catalytic metal-support interactions in single-atom electrocatalysts
+1177	Math/101038s4157802400669y	External-pressure-electrochemistry coupling in solid-state lithium metal batteries
+1178	Math/101038s4158602306618z	Elevated genetic risk for multiple sclerosis emerged in steppe pastoralist populations
+1179	Math/101038s41586023068650	Population genomics of post-glacial western Eurasia
+1180	Math/101038s41586023069246	Mathematical discoveries from program search with large language models
+1181	Math/101038s41586024070196	Genetic drivers of heterogeneity in type 2 diabetes pathophysiology
+1182	Math/101038s4158602407020z	Fertilizer management for global ammonia emission reduction
+1183	Math/101038s41586024070525	A small and vigorous black hole in the early Universe
+1184	Math/101038s41586024071166	The complex circumstellar environment of supernova 2023ixf
+1185	Math/101038s41586024071326	Multisensory gamma stimulation promotes glymphatic clearance of amyloid
+1186	Math/101038s41586024071848	A high black-hole-to-host mass ratio in a lensed AGN in the early Universe
+1187	Math/101038s41586024072270	A recently quenched galaxy 700 million years after the Big Bang
+1188	Math/101038s4158702301767y	Dictionary learning for integrative, multimodal and scalable single-cell analysis
+1189	Math/101038s41587023019172	Protein remote homology detection and structural alignment using deep learning
+1190	Math/101038s41588024017079	Genome-wide association analyses identify 95 risk loci and provide insights into the neurobiology of post-traumatic
+1191	Math/101038s41592023021500	Understanding metric-related pitfalls in image analysis validation
+1192	Math/101038s4159202302151z	Metrics reloaded: recommendations for image analysis validation
+1193	Math/101038s41592024022327	Spike sorting with Kilosort4
+1194	Math/101038s41928023010730	Ferroelectric transistors based on shear-transformation-mediated rhombohedral-stacked molybdenum disulfide
+1195	Math/101038s41929023011023	Linkage-engineered donor-acceptor covalent organic frameworks for optimal photosynthesis of hydrogen peroxide from 
+1196	Math/101038s4225402300676y	Robustness and resilience of complex networks
+1197	Math/101067jcpradiol202304001	Ability of ChatGPT to generate competent radiology reports for distal radius fracture by use of RSNA template items
+1198	Physics/101007s00382022063555	Evaluation of CMIP6 models toward dynamical downscaling over 14 CORDEX domains
+1199	Physics/101007s10924023030048	Preparation of Polyacrylamide Titanium Dioxide Hybrid Nanocomposite by Direct Polymerization and Its Applicability 
+1200	Physics/101007s1097102306273w	Characterization of Zn<sub>1-x</sub>La<sub>x</sub>S thin films; compositional, surface, optical, and photoluminesce
+1201	Physics/101007s11071023090835	Data-driven solitons and parameter discovery to the (2+1)-dimensional NLSE in optical fiber communications
+1202	Physics/101007s11104022058182	Transpiration response to soil drying and vapor pressure deficit is soil texture specific
+1203	Physics/101007s1142602319089	Roadmap for rechargeable batteries: present and beyond
+1204	Physics/101007s12559020098127	An Early Warning Tool for Predicting Mortality Risk of COVID-19 Patients Using Machine Learning
+1205	Physics/101007s12598023024417	Progress in research on metal-based materials in stabilized Zn anodes
+1206	Physics/101007s1259802302510x	Universal paradigm of ternary metacomposites with tunable epsilon-negative and epsilon-near-zero response for perfe
+1207	Physics/101007s1339902203319x	Modeling and optimization of the adsorptive removal of crystal violet dye by durian (<i>Durio zibethinus</i>) seeds
+1208	Physics/101007s13399022036049	Regeneration and reusability of non-conventional low-cost adsorbents to remove dyes from wastewaters in multiple co
+1209	Physics/101016jactamat2023119413	Delineating dislocation structures and residual stresses in additively manufactured alloys
+1210	Physics/101016jactamat2024119946	Geometrically frustrated Gd 2 Ti 2 O 7 oxide: A comprehensive exploration of structural, magnetic, and magnetocalor
+1211	Physics/101016japcatb2023123196	Ultrafast electron transfer from CdS quantum dots to atomically-dispersed Pt for enhanced H<sub>2</sub> evolution a
+1212	Physics/101016japcatb2023123580	Iron phthalocyanine hollow architecture enabled ammonia production via nitrate reduction to achieve 100 % Faradaic 
+1213	Physics/101016japsusc2023158766	Electroless deposited NiP-fabric electrodes for efficient water and urea electrolysis for hydrogen production at in
+1214	Physics/101016jcarbon2024118925	Perspectives of nitrogen-doped carbons for electromagnetic wave absorption
+1215	Physics/101016jcarbon2024119040	Robust wear performance of graphene-reinforced high entropy alloy composites
+1216	Physics/101016jcej2023146545	Electrostatically robust CoFeOF nanosheet against chloride for green-H<sub>2</sub> production in alkaline seawater 
+1217	Physics/101016jcej2023148250	Induced S-scheme CoMn-LDH/C-MgO for advanced oxidation of amoxicillin under visible light
+1218	Physics/101016jcej2024148982	Adsorption of food dyes from aqueous solution on a sweet potato residue-derived carbonaceous adsorbent: Analytical 
+1219	Physics/101016jceramint202312075	Fabrication of niobium selenide-based rGO hybrid nanoparticles by hydrothermal method for supercapacitor applicatio
+1220	Physics/101016jceramint202401359	Fabrication of MnAl<sub>2</sub>O<sub>4</sub>/g-CN nanohybrid as an advantageous electrode for supercapacitor applic
+1221	Physics/101016jceramint202401429	Hydrothermal fabrication of highly effective g-C 3 N 4 /NiIn 2 S 4 composite as supercapacitor electrode material
+1222	Physics/101016jceramint202404085	Structural color tunable intelligent mid-infrared thermal control emitter
+1223	Physics/101016jceramint202404149	Development of Mn doped ZnAl<sub>2</sub>O<sub>4</sub> via hydrothermal method as photocatalyst for Cr(VI) reduction
+1224	Physics/101016jchom202401014	XBB.1.5 monovalent mRNA vaccine booster elicits robust neutralizing antibodies against XBB subvariants and JN.1
+1225	Physics/101016jcompositesa2023107907	Facile fabrication of low-content surface-assembled MXene in silicone rubber foam materials with lightweight, wide-
+1226	Physics/101016jcplett2023141024	Exploring the electronic, mechanical, anisotropic and optical properties of the Sc-Al-C MAX phases from a first pri
+1227	Physics/101016jdiamond2023110764	Enhanced performance of hydrothermally prepared Ag2Se/rGO nanosheet composite for energy storage applications
+1228	Physics/101016jdiamond2024110793	Polarization independent tunable bandwidth absorber based on single-layer graphene
+1229	Physics/101016jensm2024103328	Enabling fast diffusion/conversion kinetics by thiourea-induced wrinkled N, S co-doped functional MXene for lithium
+1230	Physics/101016jest2023109725	Solar energy storage to chemical: Photocatalytic CO2 reduction over pristine metal-organic frameworks with mechanis
+1231	Physics/101016jest2023110289	Hydrothermal synthesis of the NiS@g-C3N4 nanohybrid electrode material for supercapacitor applications
+1232	Physics/101016jest2024110666	Synergistic growth of cobalt hydroxide on reduced graphene oxide/nickel foam for supercapacitor application
+1233	Physics/101016jest2024110721	Facile fabrication of SrAl2O4/rGO nanohybrid via hydrothermal route for electrochemical energy storage devices
+1234	Physics/101016jfuel2023129688	Facile synthesis of CuAl2O4/rGO nanocomposite via the hydrothermal method for supercapacitor applications
+1235	Physics/101016jgr202304008	Do natural resource dependence, economic growth and transport energy consumption accelerate ecological footprint in
+1236	Physics/101016jijhydene202305048	Synergistic effect of Cu/Ni cocatalysts on CdS for sun-light driven hydrogen generation from water splitting
+1237	Physics/101016jijhydene202306238	Development of SnCo<sub>2</sub>O<sub>4</sub> spinel supported on the rGO nanosheet with the improved electrochemica
+1238	Physics/101016jijhydene202306254	First-principles investigation for the hydrogen storage properties of XTiH3 (X1/4K, Rb, Cs) perovskite type hydride
+1239	Physics/101016jijhydene202307072	Ab-initio calculations for the study of the hydrogen storage properties of CsXH3 (X1/4 Co, Zn) perovskite- type hyd
+1240	Physics/101016jijhydene202308127	Superior catalytic action of high-entropy alloy on hydrogen sorption properties of MgH<sub>2</sub>
+1241	Physics/101016jijhydene202308145	A first-principles study to investigate the physical properties of Sn-based hydride perovskites XSnH<sub>3</sub> (X
+1242	Physics/101016jijhydene202309286	First-principles investigation for the hydrogen storage properties of AeSiH3 (Ae 1/4 Li, K, Na, Mg) perovskite-type
+1243	Physics/101016jijhydene202401116	First-principles to explore the hydrogen storage properties of XPtH3 (X=Li, Na, K, Rb) perovskite type hydrides
+1244	Physics/101016jinfrared2024105263	The infrared thermal effect of coal failure with different impact types and its relationship with bursting liabilit
+1245	Physics/101016jjallcom2024174048	Evolution of the structural parameters and magnetic characteristics in "ferrite/polymer" nanocomposites
+1246	Physics/101016jjallcom2024174187	Preparation and characterization of AgVO3/Ag4V2O7/BiOI double S-scheme heterojunctions for the photocatalytic degra
+1247	Physics/101016jjcis202309124	Cobalt phosphide/nickel-cobalt phosphide heterostructured hollow nanoflowers for high-performance supercapacitor an
+1248	Physics/101016jjcis202309137	Construction of 2D/1D Cu7S4 nanosheets/Mn0.3Cd0.7S nanorods heterojunction for highly efficient photocatalytic hydr
+1249	Physics/101016jjcis202311159	Synthesize magnetic ZnFe<sub>2</sub>O<sub>4</sub>@C/Cd<sub>0.9</sub>Zn<sub>0.1</sub>S catalysts with S-scheme heter
+1250	Physics/101016jjclepro2023139834	Performance investigation and design optimization of a battery thermal management system with thermoelectric cooler
+1251	Physics/101016jjechem202401052	A high Li-ion diffusion kinetics in multidimensional and compact-structured electrodes via vacuum filtration castin
+1252	Physics/101016jjelechem2023118018	CuTe supported on graphitic carbon nitride nanocomposite as an effective electrocatalyst for oxidation of water in 
+1253	Physics/101016jjenvman2023119545	Novel rod-like [Cu(phen)2(OAc)]•PF6 complex for high-performance visible-light-driven photocatalytic degradation of
+1254	Physics/101016jjoule202312009	Achieving 19.4% organic solar cell via an<i> in</i><i> situ</i> formation of p-i-n structure with built-in interpen
+1255	Physics/101016jjoule202402019	Highly efficient and stable perovskite solar cells via a multifunctional hole transporting material
+1256	Physics/101016jjpcs2024111919	Synthesis of high-performance supercapacitor electrode materials by hydrothermal route based on ZnSe/MnSe composite
+1257	Physics/101016jjtice2024105419	Oxygen vacancy enriched SrTiO<sub>3</sub> and NiO-based S-scheme heterojunction moored on activated carbon from exh
+1258	Physics/101016jmatchemphys2023128787	Structural characterization of marine macroalgae derived silver nanoparticles and their colorimetric sensing of hyd
+1259	Physics/101016jmaterresbull2023112635	Multifunctional terahertz device with active switching between bimodal perfect absorption and plasmon-induced trans
+1260	Physics/101016jmolstruc2023137011	Enhancing the optical, electrical, dielectric properties and antimicrobial activity of chitosan/gelatin incorporate
+1261	Physics/101016jmssp2023107910	First principles insight on mechanical stability, optical and thermoelectric response of novel lead-free Rb2ScCuBr6
+1262	Physics/101016jmtsust2024100732	Efficient fabrication of a composite sponge for Cr(VI) removal via citric acid cross-linking of metal-organic frame
+1263	Physics/101016jnanoen2023109106	Atomically engineered, high-speed non-volatile flash memory device exhibiting multibit data storage operations
+1264	Physics/101016jnanoen2024109289	Controllable and large-scale synthesis of carbon quantum dots for efficient solid-state optical devices
+1265	Physics/101016joptlastec2023109833	Processing polymer film nanocomposites of polyvinyl chloride-Polyvinylpyrrolidone and MoO<sub>3</sub> for optoelect
+1266	Physics/101016joptlastec2023110186	Six-band rotationally symmetric tunable absorption film based on AlCuFe quasicrystals
+1267	Physics/101016joptlastec2023110355	Innovative optical pH sensors for the aquaculture sector: Comprehensive characterization of a cost-effective soluti
+1268	Physics/101016joptlastec2023110357	WaveFlex Biosensor: MXene-Immobilized W-shaped Fiber-Based LSPR sensor for highly selective tyramine detection
+1269	Physics/101016jradphyschem2024111640	Experimental investigation of structural and radiation shielding features of Li2O-BaO-ZnO-B2O3-Bi2O3 glass systems
+1270	Physics/101016jrinp2023107279	Terahertz spin-selective metasurface for multichannel switching of OAM
+1271	Physics/101016jrinp2024107509	Ultra-broadband and wide-angle plasmonic light absorber based on all-dielectric gallium arsenide (GaAs) metasurface
+1272	Physics/101016jscib202312003	Wear-resistant CoCrNi multi-principal element alloy at cryogenic temperature
+1273	Physics/101016jscib202401029	Low-current-density stability of vanadium-based cathodes for aqueous zinc-ion batteries
+1274	Physics/101016jscriptamat2023115763	Integration of hardness and toughness in (CuNiTiNbCr)Nx high entropy films through nitrogen-induced nanocomposite s
+1275	Physics/101016jseppur2023125244	Shorten migration distance of ROS and accelerate electron transfer by engineering dual Lewis acid sites for synergi
+1276	Physics/101016jsnr2024100186	Laser-Induced graphene-based Fabry-P<acute accent>erot cavity label-free immunosensors for the quantification of co
+1277	Physics/101016jsolidstatesciences2024107483	PbBi2Se4 monolayer: A new 2D material with outstanding electronic, photocatalytic, and optical properties
+1278	Physics/101016jsurfin2024103955	Embedding In2.77S4 into NCDs-(g-C3N5) hybrid materials to enhance photocatalytic hydrogen production and rhodamine 
+1279	Physics/101016jsurfin2024104248	The tunable absorber films of grating structure of AlCuFe quasicrystal with high Q and refractive index sensitivity
+1280	Physics/101016jsurfin2024104403	Transmission/reflection mode switchable ultra-broadband terahertz vanadium dioxide (VO 2 ) metasurface filter for e
+1281	Physics/101016jvacuum2023112919	Unraveling the formation of L12 nano-precipitates within the FCC-phase in AlCoCrFeNi2.1 eutectic high entropy alloy
+1282	Physics/101038s41560023013777	Inverted perovskite solar cells with over 2,000 h operational stability at 85 degree celsius using fixed charge pas
+1283	Physics/101038s41560023014145	Origin of fast charging in hard carbon anodes
+1284	Physics/101038s41560023014163	Roll-to-roll fabricated polymer composites filled with subnanosheets exhibiting high energy density and cyclic stab
+1285	Physics/101038s41560024014652	Suppressing strain propagation in ultrahigh-Ni cathodes during fast charging via epitaxial entropy-assisted coating
+1286	Physics/101038s41560024014910	Suppression of phase segregation in wide-bandgap perovskites with thiocyanate ions for perovskite/organic tandems w
+1287	Physics/101038s4156002401557z	Non-fullerene acceptor with asymmetric structure and phenyl-substituted alkyl side chain for 20.2% efficiency organ
+1288	Physics/101038s4156502301497x	Low Ohmic contact resistance and high on/off ratio in transition metal dichalcogenides field-effect transistors via
+1289	Physics/101038s41565023015201	Correlated insulator and Chern insulators in pentalayer rhombohedral-stacked graphene
+1290	Physics/101038s41565023015438	Efficient multicarbon formation in acidic CO<sub>2</sub> reduction via tandem electrocatalysis
+1291	Physics/101038s41566023013257	Optical skyrmions and other topological quasiparticles of light
+1292	Physics/101038s41566023013444	Dipole-dipole-interaction-assisted self-assembly of quantum dots for highly efficient light-emitting diodes
+1293	Physics/101038s41566023013515	Bright and stable near-infrared lead-free perovskite light-emitting diodes
+1294	Physics/101038s41566024013826	Efficient blue electroluminescence from reduced-dimensional perovskites
+1295	Physics/101038s41578023006225	Organic mixed conductors for bioinspired electronics
+1296	Physics/101038s41578023006332	Co-catalytic metal-support interactions in single-atom electrocatalysts
+1297	Physics/101038s41579023009805	The interplay between microbial communities and soil properties
+1298	Physics/101038s4158002300691y	Structure and growth of plant cell walls
+1299	Physics/101038s41586023067733	Pesticide use negatively affects bumble bees across European landscapes
+1300	Physics/101038s4158602306786y	Disordered enthalpy-entropy descriptor for high-entropy ceramics discovery
+1301	Physics/101038s41586023068110	Ultrahigh-mobility semiconducting epitaxial graphene on silicon carbide
+1302	Physics/101038s41586023068789	7-Dehydrocholesterol is an endogenous suppressor of ferroptosis
+1303	Physics/101038s4158602306885w	Giant magnetocaloric effect in spin supersolid candidate Na<sub>2</sub>BaCo(PO<sub>4</sub>)<sub>2</sub>
+1304	Physics/101038s41586023068949	Negative mixing enthalpy solid solutions deliver high strength and ductility
+1305	Physics/101038s41586023069273	Logical quantum processor based on reconfigurable atom arrays
+1306	Physics/101038s41586023069700	Critical transitions in the Amazon forest system
+1307	Physics/101038s41586023069795	A lanthanide-rich kilonova in the aftermath of a long gamma-ray burst
+1308	Physics/101038s4158602407023w	Observation of plaid-like spin splitting in a noncoplanar antiferromagnet
+1309	Physics/101038s41586024070436	Most of the photons that reionized the Universe came from dwarf galaxies
+1310	Physics/101038s41586024071893	Double-side 2D/3D heterojunctions for inverted perovskite solar cells
+1311	Physics/101038s4158602407228z	Dopant-additive synergism enhances perovskite solar modules
+1312	Physics/101038s4158602407238x	Depleting myeloid-biased haematopoietic stem cells rejuvenates aged immunity
+1313	Physics/101038s41586024072765	Long-term continuous ammonia electrosynthesis
+1314	Physics/101038s41586024073240	Phylogenomics and the rise of the angiosperms
+1315	Physics/101038s41592023020218	Unambiguous discrimination of all 20 proteinogenic amino acids and their modifications by nanopore
+1316	Physics/101038s4159202302151z	Metrics reloaded: recommendations for image analysis validation
+1317	Physics/101038s41893024012750	Safe electrolyte for long-cycling alkali-ion batteries
+1318	Physics/101038s41929023010691	Electrolyte-assisted polarization leading to enhanced charge separation and solar-to-hydrogen conversion efficiency
+1319	Physics/101038s41929023011023	Linkage-engineered donor-acceptor covalent organic frameworks for optimal photosynthesis of hydrogen peroxide from 
+1320	Physics/101038s4225402300676y	Robustness and resilience of complex networks
+1321	Physics/101038s4416002300444x	Synthetic tuning stabilizes a high-valence Ru single site for efficient electrolysis
+1322	Physics/105004dwt202228397	Efficient adsorptive removal of industrial dye from aqueous solution by synthesized zeolitic imidazolate framework-
