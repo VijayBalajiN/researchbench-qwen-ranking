@@ -1,43 +1,43 @@
 {
   "summary": {
-    "overall_accuracy": 0.6923076923076923,
+    "overall_accuracy": 0.65625,
     "order_accuracy": {
-      "res": 0.6538461538461539,
-      "fan_1_res": 0.7307692307692307
+      "res": 0.625,
+      "fan_1_res": 0.6875
     },
     "readable_order_accuracy": {
-      "gold_first_accuracy": 0.6538461538461539,
-      "negative_first_accuracy": 0.7307692307692307
+      "gold_first_accuracy": 0.625,
+      "negative_first_accuracy": 0.6875
     },
     "sum_ratios": {
-      "2": 0.5961538461538461,
-      "1": 0.19230769230769232,
-      "0": 0.21153846153846154
+      "2": 0.5625,
+      "1": 0.1875,
+      "0": 0.25
     },
     "sum_counts": {
-      "2": 31,
-      "1": 10,
-      "0": 11
+      "2": 36,
+      "1": 12,
+      "0": 16
     },
     "sample_outcome_ratios": {
-      "gold_wins_neither_order": 0.21153846153846154,
-      "gold_wins_exactly_one_order": 0.19230769230769232,
-      "gold_wins_both_orders": 0.5961538461538461
+      "gold_wins_neither_order": 0.25,
+      "gold_wins_exactly_one_order": 0.1875,
+      "gold_wins_both_orders": 0.5625
     },
     "pair_ratios": {
-      "both_correct": 0.5602564102564103,
-      "both_wrong": 0.27564102564102566,
-      "self_contradictory": 0.1641025641025641
+      "both_correct": 0.5239583333333333,
+      "both_wrong": 0.30833333333333335,
+      "self_contradictory": 0.16770833333333332
     },
     "pair_counts": {
-      "both_correct": 437,
-      "both_wrong": 215,
-      "self_contradictory": 128
+      "both_correct": 503,
+      "both_wrong": 296,
+      "self_contradictory": 161
     },
     "pair_consistency_ratios": {
-      "both_orders_choose_gold": 0.5602564102564103,
-      "orders_disagree": 0.1641025641025641,
-      "both_orders_choose_negative": 0.27564102564102566
+      "both_orders_choose_gold": 0.5239583333333333,
+      "orders_disagree": 0.16770833333333332,
+      "both_orders_choose_negative": 0.30833333333333335
     }
   },
   "per_sample": [
@@ -315,10 +315,24 @@
       }
     },
     {
+      "sample_id": "Law/101007s10639023120098",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Law/101007s11604023014743",
       "orders": {
         "res": 0,
         "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Law/101007s12553023008067",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
       }
     },
     {
@@ -336,10 +350,24 @@
       }
     },
     {
+      "sample_id": "Law/101016jartmed2024102861",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 0
+      }
+    },
+    {
       "sample_id": "Law/101016jclsr2023105899",
       "orders": {
         "res": 1,
         "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Law/101016jxcrm2023101356",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
       }
     },
     {
@@ -371,6 +399,13 @@
       }
     },
     {
+      "sample_id": "Math/101007s10639023119904",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Math/101007s10915023024121",
       "orders": {
         "res": 1,
@@ -392,7 +427,56 @@
       }
     },
     {
+      "sample_id": "Math/101016jbspc2024106024",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Math/101016jcompedu2024105031",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Math/101016jcompeleceng2023109059",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Math/101016jdcan202205020",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Math/101016jdcan202303008",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Math/101016jtriboint2023109231",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
+      }
+    },
+    {
       "sample_id": "Math/101038s41586023069246",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Math/101038s41587023019172",
       "orders": {
         "res": 1,
         "fan_1_res": 1

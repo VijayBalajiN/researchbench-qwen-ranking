@@ -41,21 +41,33 @@
 | Environmental Science/101016jijinfomgt2023102700 | Environmental Science | rank 7 (loss) | rank 9 (win) | 30 | 0.0811 | 412 |
 | Law/101007s10506022093436 | Law | rank 14 (win) | rank 16 (win) | 30 | 0.0903 | 305 |
 | Law/101007s1050602309361y | Law | rank 16 (win) | rank 16 (win) | 30 | 0.0995 | 605 |
+| Law/101007s10639023120098 | Law | rank 16 (win) | rank 16 (win) | 30 | 0.0887 | 472 |
 | Law/101007s11604023014743 | Law | rank 8 (loss) | rank 11 (win) | 30 | 0.0991 | 706 |
+| Law/101007s12553023008067 | Law | rank 1 (loss) | rank 3 (loss) | 30 | 0.0911 | 992 |
 | Law/101007s13132023014333 | Law | rank 12 (win) | rank 13 (win) | 30 | 0.1029 | 592 |
 | Law/101016jartmed2023102698 | Law | rank 16 (win) | rank 16 (win) | 30 | 0.0935 | 390 |
+| Law/101016jartmed2024102861 | Law | rank 9 (win) | rank 8 (loss) | 30 | 0.1090 | 728 |
 | Law/101016jclsr2023105899 | Law | rank 15 (win) | rank 15 (win) | 30 | 0.0863 | 557 |
+| Law/101016jxcrm2023101356 | Law | rank 3 (loss) | rank 6 (loss) | 30 | 0.0857 | 489 |
 | Material Science/101016jenganabound2024105802 | Material Science | rank 14 (win) | rank 15 (win) | 30 | 0.0921 | 505 |
 | Material Science/101016jeswa2023123111 | Material Science | rank 3 (loss) | rank 2 (loss) | 30 | 0.0780 | 436 |
 | Math/101007s10208022095953 | Math | rank 16 (win) | rank 16 (win) | 30 | 0.0920 | 283 |
 | Math/101007s1058602203956x | Math | rank 9 (win) | rank 9 (win) | 30 | 0.1088 | 616 |
+| Math/101007s10639023119904 | Math | rank 14 (win) | rank 16 (win) | 30 | 0.0948 | 306 |
 | Math/101007s10915023024121 | Math | rank 11 (win) | rank 9 (win) | 30 | 0.1091 | 755 |
 | Math/101007s11071023090835 | Math | rank 5 (loss) | rank 6 (loss) | 30 | 0.1057 | 376 |
 | Math/101007s1304202201681w | Math | rank 9 (win) | rank 10 (win) | 30 | 0.1149 | 523 |
+| Math/101016jbspc2024106024 | Math | rank 2 (loss) | rank 1 (loss) | 30 | 0.0676 | 370 |
+| Math/101016jcompedu2024105031 | Math | rank 12 (win) | rank 11 (win) | 30 | 0.1046 | 514 |
+| Math/101016jcompeleceng2023109059 | Math | rank 9 (win) | rank 9 (win) | 30 | 0.0838 | 700 |
+| Math/101016jdcan202205020 | Math | rank 8 (loss) | rank 4 (loss) | 30 | 0.1072 | 421 |
+| Math/101016jdcan202303008 | Math | rank 3 (loss) | rank 9 (win) | 30 | 0.0833 | 521 |
+| Math/101016jtriboint2023109231 | Math | rank 3 (loss) | rank 2 (loss) | 30 | 0.0712 | 364 |
 | Math/101038s41586023069246 | Math | rank 16 (win) | rank 15 (win) | 30 | 0.1144 | 515 |
+| Math/101038s41587023019172 | Math | rank 14 (win) | rank 10 (win) | 30 | 0.0913 | 615 |
 | Physics/101007s12559020098127 | Physics | rank 13 (win) | rank 12 (win) | 30 | 0.0809 | 415 |
-| **total (52 items)** | | | | 1561 | 5.1729 | |
+| **total (64 items)** | | | | 1921 | 6.2512 | |
 
-Tokens: prompt 740454, completion 2476475 (of which reasoning 1896462). Retried attempts: 1. Empty replies: 1.
+Tokens: prompt 908434, completion 3032435 (of which reasoning 2322568). Retried attempts: 1. Empty replies: 1.
 
 Scores from ResearchBench's own `score-rank` over all items: `ALL_ranking.score.json`.

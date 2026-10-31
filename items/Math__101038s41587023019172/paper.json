@@ -1,0 +1,6 @@
+{
+ "sample_id": "Math/101038s41587023019172",
+ "doi": "10.1038/s41587-023-01917-2",
+ "title": "Protein remote homology detection and structural alignment using deep learning",
+ "abstract": "Exploiting sequence-structure-function relationships in biotechnology requires improved methods for aligning proteins that have low sequence similarity to previously annotated proteins. We develop two deep learning methods to address this gap, TM-Vec and DeepBLAST. TM-Vec allows searching for structure-structure similarities in large sequence databases. It is trained to accurately predict TM-scores as a metric of structural similarity directly from sequence pairs without the need for intermediate computation or solution of structures. Once structurally similar proteins have been identified, DeepBLAST can structurally align proteins using only sequence information by identifying structurally homologous regions between proteins. It outperforms traditional sequence alignment methods and performs similarly to structure-based alignment methods. We show the merits of TM-Vec and DeepBLAST on a variety of datasets, including better identification of remotely homologous proteins compared with state-of-the-art sequence alignment and structure prediction methods. Protein sequence and structural similarities in large databases are rapidly identified using machine learning."
+}

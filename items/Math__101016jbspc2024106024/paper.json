@@ -1,0 +1,6 @@
+{
+ "sample_id": "Math/101016jbspc2024106024",
+ "doi": "10.1016/j.bspc.2024.106024",
+ "title": "Hybrid convolutional neural network and Flexible Dwarf Mongoose Optimization Algorithm for strong kidney stone diagnosis",
+ "abstract": "This study presents a novel approach to kidney stone diagnosis using convolutional neural networks (CNN), applied to computed tomography (CT) images. The research addresses the challenge of data imbalance and protocol variation in medical imaging, which often leads to poor generalization of deep learning models. The model first uses three preprocessing techniques to enhance the quality of raw images and increase their quantity for effective CNN training. The main idea is to optimize the main arrangement of the convolutional neural network based on the proposed flexible version of dwarf mongoose optimization (FDMO) algorithm to provide a good detector model in kidney stone diagnosis. The model is then trained and tested on images from \"CT Kidney Dataset\", and its comparison results with some other published works demonstrates its robustness and ability to generalize. The results indicate a significant improvement in diagnostic accuracy, potentially minimizing physician-induced errors and enhancing patient care."
+}

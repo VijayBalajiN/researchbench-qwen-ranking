@@ -1,0 +1,36 @@
+{
+ "sample_id": "Math/101016jcompedu2024105031",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 12684,
+ "completion_tokens": 46821,
+ "reasoning_tokens": 34834,
+ "cost_usd": 0.104577,
+ "wall_seconds": 514,
+ "sum_request_seconds": 514,
+ "providers": [
+  "AkashML",
+  "CoreWeave",
+  "Darkbloom",
+  "DekaLLM",
+  "Ionstream",
+  "ModelRun",
+  "Near AI",
+  "Tenstorrent",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 11,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 12,
+   "gold_wins": true
+  }
+ }
+}

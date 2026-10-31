@@ -1,0 +1,35 @@
+{
+ "sample_id": "Law/101007s10639023120098",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 13368,
+ "completion_tokens": 41644,
+ "reasoning_tokens": 30416,
+ "cost_usd": 0.088667,
+ "wall_seconds": 472,
+ "sum_request_seconds": 472,
+ "providers": [
+  "AkashML",
+  "DekaLLM",
+  "Ionstream",
+  "ModelRun",
+  "Near AI",
+  "Parasail",
+  "Tenstorrent",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 16,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 16,
+   "gold_wins": true
+  }
+ }
+}
