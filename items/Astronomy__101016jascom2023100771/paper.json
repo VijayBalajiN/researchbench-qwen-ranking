@@ -1,0 +1,6 @@
+{
+ "sample_id": "Astronomy/101016jascom2023100771",
+ "doi": "10.1016/j.ascom.2023.100771",
+ "title": "Search for the edge-on galaxies using an artificial neural network",
+ "abstract": "We present an application of an artificial neural network methodology to a modern wide-field sky survey Pan-STARRS1 in order to build a high-quality sample of disk galaxies visible in edge-on orientation. Such galaxies play an important role in the study of the vertical distribution of stars, gas and dust, which is usually not available to study in other galaxies outside the Milky Way. We give a detailed description of the network architecture and the learning process. The method demonstrates good effectiveness with detection rate about 97% and it works equally well for galaxies over a wide range of brightnesses and sizes, which resulted in a creation of a catalogue of edge-on galaxies with 105 of objects. The catalogue is published on-line with an open access."
+}

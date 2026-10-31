@@ -1,0 +1,47 @@
+n,sample_id,title,decision,why
+0,Astronomy/101016jascom2023100782,Data-driven satellite orbit prediction using two-line elements,tier2_ml_as_tool_not_run,"data-driven orbit model, ML unclear"
+1,Astronomy/101016jascom2024100799,A fast inversion method of parameters for contact binaries based on differential evolution,selected_extra,AI method: NN parameter inversion
+2,Astronomy/101016jasr202408032,Ionospheric signatures from 2 years continuous monitoring of the equatorial ionosphere over Nigeria with HF Do,rejected_after_reading,AI/ML term only incidental
+3,Biology/101038s41577023009261,"A guide to complement biology, pathology and therapeutic opportunity",rejected_after_reading,AI/ML term only incidental
+4,Biology/101038s41586023069839,7-Dehydrocholesterol dictates ferroptosis sensitivity,rejected_after_reading,AI/ML term only incidental
+5,Biology/101038s4158602407237y,CGRP sensory neurons promote tissue healing via neutrophils and macrophages,rejected_after_reading,AI/ML term only incidental
+6,Biology/101038s4225402300676y,Robustness and resilience of complex networks,rejected_after_reading,AI/ML term only incidental
+7,Business/101007s00146022014150,What about investors? ESG analyses as tools for ethics-based AI auditing,selected_extra,AI governance: AI auditing
+8,Business/101007s1047902003887z,Does data-driven culture impact innovation and performance of a firm? An empirical examination,rejected_after_reading,AI/ML term only incidental
+9,Business/101007s1047902104107y,A structured literature review on the interplay between emerging technologies and COVID-19-insights and direct,rejected_after_reading,AI/ML term only incidental
+10,Business/101007s10479021044073,Adoption of robust business analytics for product innovation and organizational performance: the mediating rol,rejected_after_reading,AI/ML term only incidental
+11,Business/101007s10796022103395,Impact of Digital Assistant Attributes on Millennials' Purchasing Intentions: A Multi-Group Analysis using PLS,selected_extra,AI adoption: digital assistants
+12,Business/101007s11846024007291,The burgeoning role of literature review articles in management research: an introduction and outlook,rejected_after_reading,AI/ML term only incidental
+13,Cell Biology/101016jstem202312009,3D bioprinting of human neural tissues with functional connectivity,rejected_after_reading,AI/ML term only incidental
+14,Cell Biology/101016jtcb202306001,Pericytes in the disease spotlight,rejected_after_reading,AI/ML term only incidental
+15,Cell Biology/101038s41556024013608,A guideline on the molecular ecosystem regulating ferroptosis,rejected_after_reading,AI/ML term only incidental
+16,Cell Biology/101038s41580024007302,Fundamentals of redox regulation in biology,rejected_after_reading,AI/ML term only incidental
+17,Cell Biology/101038s41586023069362,Cell-type-directed design of synthetic enhancers,selected_extra,AI method: deep-learning enhancer design
+18,Cell Biology/101038s41587023017285,A relay velocity model infers cell-dependent RNA velocity,selected_extra,AI method: neural-network RNA velocity
+19,Cell Biology/101038s41928023011077,Biomimetic olfactory chips based on large-scale monolithically integrated nanotube sensor arrays,tier2_ml_as_tool_not_run,AI-assisted sensor chip
+20,Chemistry/101038s41587023018000,A fully integrated wearable ultrasound system to monitor deep tissues in moving subjects,tier2_ml_as_tool_not_run,ML used inside wearable device paper
+21,Chemistry/101038s41592023020218,Unambiguous discrimination of all 20 proteinogenic amino acids and their modifications by nanopore,tier2_ml_as_tool_not_run,ML used inside nanopore paper
+22,Chemistry/101038s41928023011166,A physicochemical-sensing electronic skin for stress response monitoring,tier2_ml_as_tool_not_run,ML used inside e-skin paper
+23,Earth Science/101007s1034602402215x,Mapping landslides from space: A review,tier2_ml_as_tool_not_run,review that mentions AI as a trend
+24,Earth Science/101016jjrmge202311040,Time series prediction of reservoir bank landslide failure probability considering the spatial variability of ,selected_extra,AI applied: ML landslide reliability
+25,Earth Science/101016jlandusepol2024107070,"Spatial pattern of cultivated land fragmentation in mainland China: Characteristics, dominant factors, and cou",tier2_ml_as_tool_not_run,random forest as analysis tool
+26,Earth Science/101016jlssr202308005,Recycling nutrients from organic waste for growing higher plants in the Micro Ecological Life Support System A,rejected_after_reading,AI/ML term only incidental
+27,Earth Science/101016jresconrec2024107457,Spatiotemporal dynamics of carbon sinks in China's terrestrial ecosystems from 2010 to 2060,tier2_ml_as_tool_not_run,random forest as analysis tool
+28,Earth Science/101038s41558024019333,Boreal-Arctic wetland methane emissions modulated by warming and vegetation activity,tier2_ml_as_tool_not_run,ML used to upscale observations
+29,Earth Science/101038s4158602407020z,Fertilizer management for global ammonia emission reduction,selected_extra,AI applied: ML emission model
+30,Energy Science/101016jjoule202312009,Achieving 19.4% organic solar cell via an<i> in</i><i> situ</i> formation of p-i-n structure with built-in int,rejected_after_reading,AI/ML term only incidental
+31,Energy Science/101038s4158702301953y,Identification of mobile genetic elements with geNomad,selected_extra,AI method: deep neural network classifier
+32,Environmental Science/101016s0140673623014198,The epidemiology of Parkinson's disease,rejected_after_reading,AI/ML term only incidental
+33,Law/101007s10479022047656,"Digital Innovation, Data Analytics, and Supply Chain Resiliency: A Bibliometric-based Systematic Literature Re",rejected_after_reading,AI/ML term only incidental
+34,Law/101007s11097021097738,On the psychologism of neurophenomenology,rejected_after_reading,AI/ML term only incidental
+35,Law/101007s11356024321066,Unlocking sustainable growth: exploring the catalytic role of green finance in firms' green total factor produ,rejected_after_reading,AI/ML term only incidental
+36,Law/101016jcompgeo2024106174,A PINN-based modelling approach for hydromechanical behaviour of unsaturated expansive soils,selected_extra,AI method: PINN
+37,Law/101016jfoodchem2023136990,Natural deep eutectic solvents for the extraction of lentinan from shiitake mushroom: COSMO-RS screening and A,tier2_ml_as_tool_not_run,ANN-GA optimisation inside a chemistry study
+38,Law/101016jpolgeo2021102547,The deep border,selected_extra,AI & society: deep neural networks at borders
+39,Law/103758s13428023021242,The Misinformation Susceptibility Test (MIST): A psychometrically validated measure of news veracity discernme,tier2_ml_as_tool_not_run,neural LM used to generate test items
+40,Material Science/101038s4158602306786y,Disordered enthalpy-entropy descriptor for high-entropy ceramics discovery,rejected_after_reading,AI/ML term only incidental
+41,Math/101007s1047902204575w,Comprehensive review on twin support vector machines,selected_extra,AI review: twin SVMs
+42,Math/101038s4158602306618z,Elevated genetic risk for multiple sclerosis emerged in steppe pastoralist populations,rejected_after_reading,AI/ML term only incidental
+43,Math/101038s41592023021500,Understanding metric-related pitfalls in image analysis validation,selected_extra,ML validation: image-analysis metrics
+44,Math/101038s4159202302151z,Metrics reloaded: recommendations for image analysis validation,selected_extra,ML validation: image-analysis metrics
+45,Physics/101038s41578023006225,Organic mixed conductors for bioinspired electronics,rejected_after_reading,AI/ML term only incidental

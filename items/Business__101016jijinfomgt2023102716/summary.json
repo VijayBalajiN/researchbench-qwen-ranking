@@ -1,0 +1,32 @@
+{
+ "sample_id": "Business/101016jijinfomgt2023102716",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 12502,
+ "completion_tokens": 47123,
+ "reasoning_tokens": 35921,
+ "cost_usd": 0.088,
+ "wall_seconds": 462,
+ "sum_request_seconds": 462,
+ "providers": [
+  "Darkbloom",
+  "ModelRun",
+  "Near AI",
+  "Tenstorrent",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 12,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 12,
+   "gold_wins": true
+  }
+ }
+}

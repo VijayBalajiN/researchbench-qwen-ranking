@@ -1,43 +1,43 @@
 {
   "summary": {
-    "overall_accuracy": 0.7,
+    "overall_accuracy": 0.6923076923076923,
     "order_accuracy": {
-      "res": 0.625,
-      "fan_1_res": 0.775
+      "res": 0.6538461538461539,
+      "fan_1_res": 0.7307692307692307
     },
     "readable_order_accuracy": {
-      "gold_first_accuracy": 0.625,
-      "negative_first_accuracy": 0.775
+      "gold_first_accuracy": 0.6538461538461539,
+      "negative_first_accuracy": 0.7307692307692307
     },
     "sum_ratios": {
-      "2": 0.6,
-      "1": 0.2,
-      "0": 0.2
+      "2": 0.5961538461538461,
+      "1": 0.19230769230769232,
+      "0": 0.21153846153846154
     },
     "sum_counts": {
-      "2": 24,
-      "1": 8,
-      "0": 8
+      "2": 31,
+      "1": 10,
+      "0": 11
     },
     "sample_outcome_ratios": {
-      "gold_wins_neither_order": 0.2,
-      "gold_wins_exactly_one_order": 0.2,
-      "gold_wins_both_orders": 0.6
+      "gold_wins_neither_order": 0.21153846153846154,
+      "gold_wins_exactly_one_order": 0.19230769230769232,
+      "gold_wins_both_orders": 0.5961538461538461
     },
     "pair_ratios": {
-      "both_correct": 0.5466666666666666,
-      "both_wrong": 0.2866666666666667,
-      "self_contradictory": 0.16666666666666666
+      "both_correct": 0.5602564102564103,
+      "both_wrong": 0.27564102564102566,
+      "self_contradictory": 0.1641025641025641
     },
     "pair_counts": {
-      "both_correct": 328,
-      "both_wrong": 172,
-      "self_contradictory": 100
+      "both_correct": 437,
+      "both_wrong": 215,
+      "self_contradictory": 128
     },
     "pair_consistency_ratios": {
-      "both_orders_choose_gold": 0.5466666666666666,
-      "orders_disagree": 0.16666666666666666,
-      "both_orders_choose_negative": 0.2866666666666667
+      "both_orders_choose_gold": 0.5602564102564103,
+      "orders_disagree": 0.1641025641025641,
+      "both_orders_choose_negative": 0.27564102564102566
     }
   },
   "per_sample": [
@@ -49,6 +49,13 @@
       }
     },
     {
+      "sample_id": "Astronomy/101016jascom2023100771",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 0
+      }
+    },
+    {
       "sample_id": "Astronomy/101016jascom2023100784",
       "orders": {
         "res": 1,
@@ -56,10 +63,24 @@
       }
     },
     {
+      "sample_id": "Astronomy/101016jascom2024100879",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Astronomy/101016jascom2024100884",
       "orders": {
         "res": 1,
         "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Astronomy/101016jjastp2024106370",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
       }
     },
     {
@@ -105,6 +126,13 @@
       }
     },
     {
+      "sample_id": "Biology/101038s41592024022010",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Business/101007s1047902103956x",
       "orders": {
         "res": 1,
@@ -133,6 +161,20 @@
       }
     },
     {
+      "sample_id": "Business/101007s1079602110203y",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Business/101007s10845023020748",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
+      }
+    },
+    {
       "sample_id": "Business/101007s1125702309364z",
       "orders": {
         "res": 0,
@@ -140,10 +182,45 @@
       }
     },
     {
+      "sample_id": "Business/101016jeneco2024107403",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Business/101016jeswa2023121464",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 0
+      }
+    },
+    {
       "sample_id": "Business/101016jeswa2023122442",
       "orders": {
         "res": 0,
         "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Business/101016jijinfomgt2023102716",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Business/101016jjclepro2023140527",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Business/101016jjretconser2023103560",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
       }
     },
     {
@@ -220,6 +297,13 @@
       "sample_id": "Environmental Science/101016jijinfomgt2023102700",
       "orders": {
         "res": 0,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Law/101007s10506022093436",
+      "orders": {
+        "res": 1,
         "fan_1_res": 1
       }
     },

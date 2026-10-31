@@ -1,4 +1,4 @@
-"""Runs the `selected_40` items of ai_selection/shortlist.csv in batches. After each batch: build the views, commit, push.
+"""Runs the items of ai_selection/shortlist.csv whose status starts with `selected` in batches. After each batch: build the views, commit, push.
 Stops (after publishing what finished) if an item fails or the logged cost passes --max-cost-usd.
 Usage: run_batches.py [--batch 10] [--parallel 10] [--max-cost-usd 8]      (needs OPENROUTER_ENV_FILE, see qwen_env.py)
 """
@@ -15,7 +15,7 @@ def item_dir(sample_id: str) -> Path:
 
 def selected_ids() -> list:
     with open(OUT / "ai_selection" / "shortlist.csv", newline="", encoding="utf-8") as handle:
-        return [row["sample_id"] for row in csv.DictReader(handle) if row["status"] == "selected_40"]
+        return [row["sample_id"] for row in csv.DictReader(handle) if row["status"].startswith("selected")]
 
 
 def total_cost() -> float:
@@ -50,7 +50,7 @@ def main() -> int:
         with open(OUT / "items" / f"_batch_{finished_count()}_done_before.log", "w") as log:
             code = run([sys.executable, str(OUT / "run_items.py"), "--parallel", str(args.parallel), "--max-calls", "80", *chunk], log)
         run([sys.executable, str(OUT / "build_views.py")])
-        publish(f"Add batch {number}: {finished_count()} of 40 items done, logged cost so far ${total_cost():.2f}")
+        publish(f"Add batch {number}: {finished_count()} of {len(selected_ids())} selected items done, logged cost so far ${total_cost():.2f}")
         print(f"batch {number}: exit={code}; {finished_count()} items done; logged cost ${total_cost():.2f}", flush=True)
         if code:
             print("STOP: an item failed; see its run.log", flush=True)

@@ -22,3 +22,22 @@ Chemistry 1, Physics 1 (a spread, not a quota: it is what the reading turned up)
 **Caveats.** The selection was made by Claude (an AI model) reading titles and abstracts, not by a human domain expert; the
 discipline labels are the dataset's own (for example a COVID-19 machine-learning paper is filed under Physics, and many "Math"
 items are not mathematics). "AI-related" is a judgement call at the edges.
+
+## Second pass (for the next batch of items)
+
+The first 40 came from the title reading above. For more, a second pass was made:
+
+1. **The 28 reserve items' abstracts were read.** 25 were confirmed (`selected_extra`); 3 were rejected after reading
+   (`rejected_after_reading_abstract`, with the reason in `kind`).
+2. **A recall check.** A keyword search (AI/ML terms in the abstract or research question) was run **only to surface papers the title
+   reading might have missed**; it did not select anything. It found 46 papers that had not been flagged. Each was then read
+   (the snippet around the match, and for doubtful ones more of the abstract) and judged by hand; every decision, with a reason, is in
+   `second_pass_recall.csv`. 13 were added (`selected_extra`); 11 are `tier2_ml_as_tool_not_run` (ML is used as a tool inside a paper
+   that is about something else, e.g. a wearable sensor with a classifier); the rest were rejected (the term was incidental).
+   Eight more title-only borderlines were also put in `tier2_ml_as_tool_not_run`. **Tier 2 has not been run.**
+3. **Other dataset rows of the same paper.** A paper can appear in two disciplines, and those rows have a different research
+   question, gold hypothesis and negatives (checked: none of the 10 pairs found is identical). They are separate benchmark
+   items, so the second rows of selected papers are included as `selected_extra_other_row_of_same_paper`.
+
+Counts: `selected_40` 40 (run), `selected_extra` 38 + `selected_extra_other_row_of_same_paper` 10 (to run), `tier2_ml_as_tool_not_run` 19,
+`rejected_after_reading_abstract` 3. As before, the judgement is Claude's, not a domain expert's.
