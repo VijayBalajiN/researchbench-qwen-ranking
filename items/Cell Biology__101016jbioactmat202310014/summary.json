@@ -1,0 +1,36 @@
+{
+ "sample_id": "Cell Biology/101016jbioactmat202310014",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 14326,
+ "completion_tokens": 46970,
+ "reasoning_tokens": 34056,
+ "cost_usd": 0.099224,
+ "wall_seconds": 395,
+ "sum_request_seconds": 395,
+ "providers": [
+  "Alibaba",
+  "Chutes",
+  "Darkbloom",
+  "DekaLLM",
+  "ModelRun",
+  "Near AI",
+  "Parasail",
+  "Reka",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 15,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 15,
+   "gold_wins": true
+  }
+ }
+}

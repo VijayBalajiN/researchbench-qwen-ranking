@@ -1,0 +1,32 @@
+{
+ "sample_id": "Cell Biology/101038s4138802302907z",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 14174,
+ "completion_tokens": 49148,
+ "reasoning_tokens": 37313,
+ "cost_usd": 0.11702,
+ "wall_seconds": 366,
+ "sum_request_seconds": 366,
+ "providers": [
+  "DekaLLM",
+  "ModelRun",
+  "Near AI",
+  "Tenstorrent",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 3,
+   "gold_wins": false
+  },
+  "res": {
+   "rank": 5,
+   "gold_wins": false
+  }
+ }
+}

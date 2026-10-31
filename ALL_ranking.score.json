@@ -1,43 +1,43 @@
 {
   "summary": {
-    "overall_accuracy": 0.618421052631579,
+    "overall_accuracy": 0.6259842519685039,
     "order_accuracy": {
-      "res": 0.5964912280701754,
-      "fan_1_res": 0.6403508771929824
+      "res": 0.6062992125984252,
+      "fan_1_res": 0.6456692913385826
     },
     "readable_order_accuracy": {
-      "gold_first_accuracy": 0.5964912280701754,
-      "negative_first_accuracy": 0.6403508771929824
+      "gold_first_accuracy": 0.6062992125984252,
+      "negative_first_accuracy": 0.6456692913385826
     },
     "sum_ratios": {
-      "1": 0.18421052631578946,
-      "2": 0.5263157894736842,
-      "0": 0.2894736842105263
+      "1": 0.18110236220472442,
+      "2": 0.5354330708661418,
+      "0": 0.28346456692913385
     },
     "sum_counts": {
-      "1": 21,
-      "2": 60,
-      "0": 33
+      "1": 23,
+      "2": 68,
+      "0": 36
     },
     "sample_outcome_ratios": {
-      "gold_wins_neither_order": 0.2894736842105263,
-      "gold_wins_exactly_one_order": 0.18421052631578946,
-      "gold_wins_both_orders": 0.5263157894736842
+      "gold_wins_neither_order": 0.28346456692913385,
+      "gold_wins_exactly_one_order": 0.18110236220472442,
+      "gold_wins_both_orders": 0.5354330708661418
     },
     "pair_ratios": {
-      "self_contradictory": 0.18187134502923977,
-      "both_wrong": 0.3157894736842105,
-      "both_correct": 0.5023391812865498
+      "self_contradictory": 0.18005249343832022,
+      "both_wrong": 0.30551181102362207,
+      "both_correct": 0.5144356955380578
     },
     "pair_counts": {
-      "self_contradictory": 311,
-      "both_wrong": 540,
-      "both_correct": 859
+      "self_contradictory": 343,
+      "both_wrong": 582,
+      "both_correct": 980
     },
     "pair_consistency_ratios": {
-      "both_orders_choose_gold": 0.5023391812865498,
-      "orders_disagree": 0.18187134502923977,
-      "both_orders_choose_negative": 0.3157894736842105
+      "both_orders_choose_gold": 0.5144356955380578,
+      "orders_disagree": 0.18005249343832022,
+      "both_orders_choose_negative": 0.30551181102362207
     }
   },
   "per_sample": [
@@ -224,6 +224,13 @@
       }
     },
     {
+      "sample_id": "Business/101007s10668023030261",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
+      }
+    },
+    {
       "sample_id": "Business/101007s10755023096861",
       "orders": {
         "res": 1,
@@ -266,6 +273,13 @@
       }
     },
     {
+      "sample_id": "Business/101016jeiar2023107335",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Business/101016jeneco2024107403",
       "orders": {
         "res": 1,
@@ -287,7 +301,21 @@
       }
     },
     {
+      "sample_id": "Business/101016jgr202305016",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Business/101016jijinfomgt2023102716",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Business/101016jirfa2023103003",
       "orders": {
         "res": 1,
         "fan_1_res": 1
@@ -305,6 +333,34 @@
       "orders": {
         "res": 1,
         "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Cell Biology/101016jbioactmat202310014",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Cell Biology/101038s4138802302907z",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Cell Biology/101038s41565023015536",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Cell Biology/101038s41580023006801",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
       }
     },
     {
@@ -343,6 +399,13 @@
       }
     },
     {
+      "sample_id": "Cell Biology/101038s41591023027867",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Cell Biology/101038s41592024022010",
       "orders": {
         "res": 1,
@@ -364,10 +427,24 @@
       }
     },
     {
+      "sample_id": "Cell Biology/101038s43018023006473",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Chemistry/101016jjechem202310032",
       "orders": {
         "res": 0,
         "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Chemistry/101016jsaa2023123585",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
       }
     },
     {
@@ -413,6 +490,13 @@
       }
     },
     {
+      "sample_id": "Earth Science/101007s1266502411619w",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Earth Science/101016jcj202310005",
       "orders": {
         "res": 0,
@@ -424,6 +508,13 @@
       "orders": {
         "res": 0,
         "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Earth Science/101016jese2023100295",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 1
       }
     },
     {
