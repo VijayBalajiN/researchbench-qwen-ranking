@@ -6,10 +6,11 @@ Outputs of running **ResearchBench's own hypothesis-ranking pipeline** ([paper](
 does not compare the model with anything. It is a work in progress: items are added as they are run. Not affiliated with the
 ResearchBench authors.
 
-**Status:** 40 hand-picked AI-related items run (1,200 requests, all answered in the expected format, no retries). Totals, from
-ResearchBench's own `score-rank` over all 40 (`ALL_ranking.score.json`): overall directional accuracy **70.0%** (gold first 62.5%,
-gold second 77.5%); gold wins in both orders for 24 items, in exactly one order for 8, in neither for 8. Logged cost $3.99; 0.57M
-prompt and 1.93M completion tokens, of which 1.48M are thinking. Per-item rows: `SUMMARY.md`.
+**Status:** 140 items run: the first 40 hand-picked AI-related items, then 100 more (48 AI-related, 19 where ML is a tool inside a non-AI
+study, 33 non-AI items drawn at random as a control). 4,200 comparisons, 4,201 requests (one empty reply was retried), all replies in the expected
+format, logged cost $14.15 (2.0M prompt and 6.8M completion tokens, of which 5.2M thinking). ResearchBench's own `score-rank` over all 140:
+overall directional accuracy 64.6% (gold first 62.1%, gold second 67.1%). Results by group are in `SUMMARY.md`; they are recorded, not
+compared. `REVIEW.md` is a read of whether the first 40 items' answers make sense.
 
 ## What was run
 
@@ -18,7 +19,7 @@ prompt and 1.93M completion tokens, of which 1.48M are thinking. Per-item rows: 
 | Pipeline | upstream `researchbench run-rank --order both` then `score-rank`, unchanged logic: for each item, the gold hypothesis is compared with each of its 15 negatives in both orders (30 requests per item), temperature 0.0, upstream prompt and parser. Gold "wins" an order if it beats at least 8 of the 15 negatives. |
 | Upstream | `ankitala/ResearchBench` commit `03873e0` (MIT) plus one small patch, `clients_local_patch.diff` (below) |
 | Model | `qwen/qwen3.8-27b` via OpenRouter, `reasoning.effort = high` |
-| Data | the full `ranking.jsonl` (1,323 items) from Hugging Face; items chosen by hand, see `ai_selection/` |
+| Data | the full `ranking.jsonl` (1,323 items) from Hugging Face; AI-related items chosen by hand (plus a labelled ML-as-tool group and a seeded non-AI control), see `ai_selection/` |
 
 **The patch** (one file, `src/researchbench/clients.py`, the OpenAI-compatible client). With none of its environment variables set
 the client sends the same request as upstream.
@@ -42,7 +43,8 @@ items/<discipline>__<doi>/   one folder per item
     run.log
 ALL_ranking.jsonl, ALL_ranking.score.json   all items together, through the same score-rank
 SUMMARY.md              one table: result, requests, cost and time per item
-ai_selection/           how the items were chosen: all 1,323 titles reviewed, shortlist of 40 (+28 reserve)
+ai_selection/           how the items were chosen: all 1,323 titles reviewed, shortlist, second pass, the seeded non-AI draw
+REVIEW.md               a read of the model's answers for the first 40 items (do they make sense?)
 v0_keyword_trial_superseded/   the first 3-item trial (keyword-picked items, no call log), kept for completeness
 run_batches.py (batches of items: run, build views, commit, push), run_items.py (items in parallel), build_views.py, qwen_env.py
 clients_local_patch.diff   the patch
@@ -50,7 +52,7 @@ clients_local_patch.diff   the patch
 
 ## Please read before using the numbers
 
-- **Small.** 40 items, one run each (temperature 0.0, but the provider can differ between requests); do not read small differences as real.
+- **Small.** 140 items (groups of 10-40), one run each (temperature 0.0, but the provider can differ between requests); do not read small differences as real.
 - **The items are not a random sample.** The benchmark has no AI/CS discipline; AI-related items were picked by reading titles and
   abstracts (by Claude, an AI model, not a domain expert). `ai_selection/README.md` has the details and the caveats.
 - **`calls.jsonl` is the provider's reply as returned.** The thinking is the provider's `reasoning` field. Upstream's client keeps only
