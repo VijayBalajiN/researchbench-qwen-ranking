@@ -1,0 +1,6 @@
+{
+ "sample_id": "Biology/101038s41587023020199",
+ "doi": "10.1038/s41587-023-02019-9",
+ "title": "Inferring super-resolution tissue architecture by integrating spatial transcriptomics with histology",
+ "abstract": "Spatial transcriptomics (ST) has demonstrated enormous potential for generating intricate molecular maps of cells within tissues. Here we present iStar, a method based on hierarchical image feature extraction that integrates ST data and high-resolution histology images to predict spatial gene expression with super-resolution. Our method enhances gene expression resolution to near-single-cell levels in ST and enables gene expression prediction in tissue sections where only histology images are available. iStar predicts gene expression with near-single-cell resolution from histology images."
+}

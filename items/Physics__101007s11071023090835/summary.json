@@ -1,0 +1,28 @@
+{
+ "sample_id": "Physics/101007s11071023090835",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 16916,
+ "completion_tokens": 47388,
+ "reasoning_tokens": 35122,
+ "cost_usd": 0.121712,
+ "wall_seconds": 254,
+ "sum_request_seconds": 254,
+ "providers": [
+  "ModelRun"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 14,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 13,
+   "gold_wins": true
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "sample_id": "Math/101038s41592023021500",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 10466,
+ "completion_tokens": 42983,
+ "reasoning_tokens": 32515,
+ "cost_usd": 0.092027,
+ "wall_seconds": 504,
+ "sum_request_seconds": 504,
+ "providers": [
+  "Darkbloom",
+  "DekaLLM",
+  "ModelRun",
+  "Near AI",
+  "Parasail",
+  "Reka",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 8,
+   "gold_wins": false
+  },
+  "res": {
+   "rank": 5,
+   "gold_wins": false
+  }
+ }
+}

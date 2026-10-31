@@ -1,0 +1,48 @@
+{
+  "summary": {
+    "overall_accuracy": 0.5,
+    "order_accuracy": {
+      "res": 0.0,
+      "fan_1_res": 1.0
+    },
+    "readable_order_accuracy": {
+      "gold_first_accuracy": 0.0,
+      "negative_first_accuracy": 1.0
+    },
+    "sum_ratios": {
+      "1": 1.0
+    },
+    "sum_counts": {
+      "1": 1
+    },
+    "sample_outcome_ratios": {
+      "gold_wins_neither_order": 0.0,
+      "gold_wins_exactly_one_order": 1.0,
+      "gold_wins_both_orders": 0.0
+    },
+    "pair_ratios": {
+      "self_contradictory": 0.3333333333333333,
+      "both_wrong": 0.26666666666666666,
+      "both_correct": 0.4
+    },
+    "pair_counts": {
+      "self_contradictory": 5,
+      "both_wrong": 4,
+      "both_correct": 6
+    },
+    "pair_consistency_ratios": {
+      "both_orders_choose_gold": 0.4,
+      "orders_disagree": 0.3333333333333333,
+      "both_orders_choose_negative": 0.26666666666666666
+    }
+  },
+  "per_sample": [
+    {
+      "sample_id": "Chemistry/101038s4159102302702z",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 1
+      }
+    }
+  ]
+}

@@ -1,43 +1,43 @@
 {
   "summary": {
-    "overall_accuracy": 0.6513157894736842,
+    "overall_accuracy": 0.6704545454545454,
     "order_accuracy": {
-      "res": 0.631578947368421,
-      "fan_1_res": 0.6710526315789473
+      "res": 0.6477272727272727,
+      "fan_1_res": 0.6931818181818182
     },
     "readable_order_accuracy": {
-      "gold_first_accuracy": 0.631578947368421,
-      "negative_first_accuracy": 0.6710526315789473
+      "gold_first_accuracy": 0.6477272727272727,
+      "negative_first_accuracy": 0.6931818181818182
     },
     "sum_ratios": {
-      "2": 0.5657894736842105,
-      "1": 0.17105263157894737,
-      "0": 0.2631578947368421
+      "2": 0.5795454545454546,
+      "1": 0.18181818181818182,
+      "0": 0.23863636363636365
     },
     "sum_counts": {
-      "2": 43,
-      "1": 13,
-      "0": 20
+      "2": 51,
+      "1": 16,
+      "0": 21
     },
     "sample_outcome_ratios": {
-      "gold_wins_neither_order": 0.2631578947368421,
-      "gold_wins_exactly_one_order": 0.17105263157894737,
-      "gold_wins_both_orders": 0.5657894736842105
+      "gold_wins_neither_order": 0.23863636363636365,
+      "gold_wins_exactly_one_order": 0.18181818181818182,
+      "gold_wins_both_orders": 0.5795454545454546
     },
     "pair_ratios": {
-      "both_correct": 0.5175438596491229,
-      "both_wrong": 0.3087719298245614,
-      "self_contradictory": 0.1736842105263158
+      "both_correct": 0.5295454545454545,
+      "both_wrong": 0.29318181818181815,
+      "self_contradictory": 0.17727272727272728
     },
     "pair_counts": {
-      "both_correct": 590,
-      "both_wrong": 352,
-      "self_contradictory": 198
+      "both_correct": 699,
+      "both_wrong": 387,
+      "self_contradictory": 234
     },
     "pair_consistency_ratios": {
-      "both_orders_choose_gold": 0.5175438596491229,
-      "orders_disagree": 0.1736842105263158,
-      "both_orders_choose_negative": 0.3087719298245614
+      "both_orders_choose_gold": 0.5295454545454545,
+      "orders_disagree": 0.17727272727272728,
+      "both_orders_choose_negative": 0.29318181818181815
     }
   },
   "per_sample": [
@@ -122,6 +122,13 @@
       "sample_id": "Biology/101038s41586024072154",
       "orders": {
         "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Biology/101038s41587023020199",
+      "orders": {
+        "res": 0,
         "fan_1_res": 1
       }
     },
@@ -266,6 +273,13 @@
       }
     },
     {
+      "sample_id": "Cell Biology/101038s41592024022010",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Cell Biology/101038s41592024023057",
       "orders": {
         "res": 1,
@@ -276,6 +290,13 @@
       "sample_id": "Chemistry/101038s41587023017632",
       "orders": {
         "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Chemistry/101038s4159102302702z",
+      "orders": {
+        "res": 0,
         "fan_1_res": 1
       }
     },
@@ -353,6 +374,13 @@
       "sample_id": "Environmental Science/101016jijinfomgt2023102700",
       "orders": {
         "res": 0,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Environmental Science/101038s4158702301953y",
+      "orders": {
+        "res": 1,
         "fan_1_res": 1
       }
     },
@@ -455,6 +483,13 @@
       }
     },
     {
+      "sample_id": "Material Science/101016jijinfomgt2023102716",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Math/101007s10208022095953",
       "orders": {
         "res": 1,
@@ -487,6 +522,13 @@
       "orders": {
         "res": 1,
         "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Math/101007s1104202008769x",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 0
       }
     },
     {
@@ -539,6 +581,13 @@
       }
     },
     {
+      "sample_id": "Math/101016jengappai2023107536",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Math/101016jtriboint2023109231",
       "orders": {
         "res": 0,
@@ -553,7 +602,28 @@
       }
     },
     {
+      "sample_id": "Math/101038s4158602407020z",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Math/101038s41587023019172",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Math/101038s41592023021500",
+      "orders": {
+        "res": 0,
+        "fan_1_res": 0
+      }
+    },
+    {
+      "sample_id": "Math/101038s4159202302151z",
       "orders": {
         "res": 1,
         "fan_1_res": 1
@@ -567,7 +637,21 @@
       }
     },
     {
+      "sample_id": "Physics/101007s11071023090835",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
       "sample_id": "Physics/101007s12559020098127",
+      "orders": {
+        "res": 1,
+        "fan_1_res": 1
+      }
+    },
+    {
+      "sample_id": "Physics/101038s4159202302151z",
       "orders": {
         "res": 1,
         "fan_1_res": 1
