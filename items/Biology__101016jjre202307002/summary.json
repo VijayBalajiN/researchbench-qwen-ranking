@@ -1,0 +1,33 @@
+{
+ "sample_id": "Biology/101016jjre202307002",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 15744,
+ "completion_tokens": 53409,
+ "reasoning_tokens": 41334,
+ "cost_usd": 0.124552,
+ "wall_seconds": 332,
+ "sum_request_seconds": 332,
+ "providers": [
+  "Darkbloom",
+  "DekaLLM",
+  "ModelRun",
+  "Near AI",
+  "Tenstorrent",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 13,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 12,
+   "gold_wins": true
+  }
+ }
+}

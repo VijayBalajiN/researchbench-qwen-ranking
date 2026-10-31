@@ -5,15 +5,17 @@
 
 | group | items | order-runs won | share |
 |---|---|---|---|
+| non-AI control | 7 | 5 / 14 | 35.7% |
 | AI (first 40) | 40 | 56 / 80 | 70.0% |
 | AI | 38 | 45 / 76 | 59.2% |
-| ML as a tool | 13 | 12 / 26 | 46.2% |
+| ML as a tool | 19 | 18 / 38 | 47.4% |
 | AI (second row of a paper) | 10 | 17 / 20 | 85.0% |
 
 ## Per item
 
 | item | group | discipline | gold first (`res`) | gold second (`fan_1_res`) | requests | cost USD | wall s |
 |---|---|---|---|---|---|---|---|
+| Astronomy/101007s11214024010483 | non-AI control | Astronomy | rank 8 (loss) | rank 9 (win) | 30 | 0.0889 | 434 |
 | Astronomy/101016jascom2023100770 | AI (first 40) | Astronomy | rank 11 (win) | rank 9 (win) | 30 | 0.1143 | 728 |
 | Astronomy/101016jascom2023100771 | AI | Astronomy | rank 12 (win) | rank 7 (loss) | 30 | 0.1020 | 519 |
 | Astronomy/101016jascom2023100782 | ML as a tool | Astronomy | rank 6 (loss) | rank 4 (loss) | 30 | 0.0933 | 456 |
@@ -21,10 +23,16 @@
 | Astronomy/101016jascom2024100799 | AI | Astronomy | rank 12 (win) | rank 6 (loss) | 30 | 0.1175 | 515 |
 | Astronomy/101016jascom2024100879 | AI | Astronomy | rank 15 (win) | rank 16 (win) | 30 | 0.1004 | 327 |
 | Astronomy/101016jascom2024100884 | AI (first 40) | Astronomy | rank 13 (win) | rank 11 (win) | 30 | 0.1142 | 507 |
+| Astronomy/101016jicarus2023115767 | non-AI control | Astronomy | rank 1 (loss) | rank 2 (loss) | 30 | 0.0665 | 292 |
 | Astronomy/101016jjastp2024106370 | AI | Astronomy | rank 8 (loss) | rank 8 (loss) | 30 | 0.1183 | 409 |
 | Astronomy/101016jnewast2023102125 | AI (first 40) | Astronomy | rank 8 (loss) | rank 11 (win) | 30 | 0.0933 | 577 |
 | Astronomy/101016jsoftx2024101930 | AI (first 40) | Astronomy | rank 1 (loss) | rank 1 (loss) | 30 | 0.0778 | 285 |
+| Astronomy/101038s41586023068436 | non-AI control | Astronomy | rank 2 (loss) | rank 4 (loss) | 30 | 0.0809 | 318 |
+| Astronomy/101038s41586024071166 | non-AI control | Astronomy | rank 11 (win) | rank 12 (win) | 30 | 0.1126 | 454 |
+| Biology/101016jjre202307002 | non-AI control | Biology | rank 12 (win) | rank 13 (win) | 30 | 0.1246 | 332 |
+| Biology/101038s41422023009189 | non-AI control | Biology | rank 4 (loss) | rank 8 (loss) | 30 | 0.1352 | 716 |
 | Biology/101038s41579023009841 | AI (first 40) | Biology | rank 1 (loss) | rank 4 (loss) | 30 | 0.0837 | 619 |
+| Biology/101038s41580023006454 | non-AI control | Biology | rank 2 (loss) | rank 5 (loss) | 30 | 0.0939 | 444 |
 | Biology/101038s41586023068329 | AI (first 40) | Biology | rank 16 (win) | rank 16 (win) | 30 | 0.0750 | 444 |
 | Biology/101038s41586024072154 | AI (first 40) | Biology | rank 13 (win) | rank 13 (win) | 30 | 0.1300 | 529 |
 | Biology/101038s41587023020199 | AI (second row of a paper) | Biology | rank 7 (loss) | rank 11 (win) | 30 | 0.1108 | 513 |
@@ -47,7 +55,9 @@
 | Business/101016jjretconser2023103560 | AI | Business | rank 16 (win) | rank 15 (win) | 30 | 0.0798 | 388 |
 | Cell Biology/101038s41586023069362 | AI | Cell Biology | rank 6 (loss) | rank 7 (loss) | 30 | 0.0884 | 658 |
 | Cell Biology/101038s41587023017285 | AI | Cell Biology | rank 5 (loss) | rank 5 (loss) | 30 | 0.0978 | 662 |
+| Cell Biology/101038s41587023017721 | ML as a tool | Cell Biology | rank 9 (win) | rank 8 (loss) | 30 | 0.1244 | 340 |
 | Cell Biology/101038s41587023020199 | AI (first 40) | Cell Biology | rank 14 (win) | rank 15 (win) | 30 | 0.0846 | 541 |
+| Cell Biology/101038s41588024016643 | ML as a tool | Cell Biology | rank 13 (win) | rank 14 (win) | 30 | 0.1054 | 348 |
 | Cell Biology/101038s41592024022010 | AI (second row of a paper) | Cell Biology | rank 15 (win) | rank 15 (win) | 30 | 0.1006 | 390 |
 | Cell Biology/101038s41592024023057 | AI (first 40) | Cell Biology | rank 9 (win) | rank 9 (win) | 30 | 0.1070 | 642 |
 | Cell Biology/101038s41928023011077 | ML as a tool | Cell Biology | rank 5 (loss) | rank 8 (loss) | 30 | 0.1117 | 493 |
@@ -58,6 +68,7 @@
 | Chemistry/101038s41592023020218 | ML as a tool | Chemistry | rank 8 (loss) | rank 12 (win) | 30 | 0.1228 | 655 |
 | Chemistry/101038s41928023011166 | ML as a tool | Chemistry | rank 3 (loss) | rank 3 (loss) | 30 | 0.0752 | 474 |
 | Earth Science/101007s1034602402215x | ML as a tool | Earth Science | rank 5 (loss) | rank 2 (loss) | 30 | 0.0921 | 488 |
+| Earth Science/101016jcj202310005 | ML as a tool | Earth Science | rank 4 (loss) | rank 5 (loss) | 30 | 0.0850 | 465 |
 | Earth Science/101016jecoinf2023102421 | AI (first 40) | Earth Science | rank 4 (loss) | rank 4 (loss) | 30 | 0.0936 | 534 |
 | Earth Science/101016jjafrearsci2024105229 | AI (first 40) | Earth Science | rank 14 (win) | rank 10 (win) | 30 | 0.1190 | 363 |
 | Earth Science/101016jjrmge202311040 | AI | Earth Science | rank 5 (loss) | rank 1 (loss) | 30 | 0.0964 | 614 |
@@ -86,6 +97,7 @@
 | Law/101016jcompgeo2024106174 | AI | Law | rank 10 (win) | rank 13 (win) | 30 | 0.1299 | 447 |
 | Law/101016jfoodchem2023136990 | ML as a tool | Law | rank 15 (win) | rank 15 (win) | 30 | 0.1323 | 328 |
 | Law/101016jpolgeo2021102547 | AI | Law | rank 15 (win) | rank 15 (win) | 30 | 0.0865 | 455 |
+| Law/101016jtra2023103887 | ML as a tool | Law | rank 16 (win) | rank 15 (win) | 30 | 0.0877 | 414 |
 | Law/101016jxcrm2023101356 | AI | Law | rank 3 (loss) | rank 6 (loss) | 30 | 0.0857 | 489 |
 | Law/103758s13428023021242 | ML as a tool | Law | rank 7 (loss) | rank 8 (loss) | 30 | 0.1322 | 422 |
 | Material Science/101016jenganabound2024105802 | AI (first 40) | Material Science | rank 14 (win) | rank 15 (win) | 30 | 0.0921 | 505 |
@@ -105,18 +117,20 @@
 | Math/101016jdcan202205020 | AI | Math | rank 8 (loss) | rank 4 (loss) | 30 | 0.1072 | 421 |
 | Math/101016jdcan202303008 | AI | Math | rank 3 (loss) | rank 9 (win) | 30 | 0.0833 | 521 |
 | Math/101016jengappai2023107536 | AI (second row of a paper) | Math | rank 15 (win) | rank 13 (win) | 30 | 0.1257 | 651 |
+| Math/101016jeswa2023121581 | ML as a tool | Math | rank 13 (win) | rank 7 (loss) | 30 | 0.0968 | 514 |
 | Math/101016jtriboint2023109231 | AI | Math | rank 3 (loss) | rank 2 (loss) | 30 | 0.0712 | 364 |
 | Math/101038s41586023069246 | AI (first 40) | Math | rank 16 (win) | rank 15 (win) | 30 | 0.1144 | 515 |
 | Math/101038s4158602407020z | AI (second row of a paper) | Math | rank 11 (win) | rank 12 (win) | 30 | 0.1235 | 481 |
 | Math/101038s41587023019172 | AI | Math | rank 14 (win) | rank 10 (win) | 30 | 0.0913 | 615 |
 | Math/101038s41592023021500 | AI | Math | rank 5 (loss) | rank 8 (loss) | 30 | 0.0920 | 504 |
 | Math/101038s4159202302151z | AI | Math | rank 9 (win) | rank 13 (win) | 30 | 0.0930 | 390 |
+| Math/101038s41592024022327 | ML as a tool | Math | rank 8 (loss) | rank 8 (loss) | 30 | 0.1146 | 333 |
 | Math/101067jcpradiol202304001 | AI | Math | rank 12 (win) | rank 11 (win) | 30 | 0.0707 | 416 |
 | Physics/101007s11071023090835 | AI (second row of a paper) | Physics | rank 13 (win) | rank 14 (win) | 30 | 0.1217 | 254 |
 | Physics/101007s12559020098127 | AI (first 40) | Physics | rank 13 (win) | rank 12 (win) | 30 | 0.0809 | 415 |
 | Physics/101038s4159202302151z | AI (second row of a paper) | Physics | rank 16 (win) | rank 15 (win) | 30 | 0.1154 | 765 |
-| **total (101 items)** | | | | | 3031 | 10.1368 | |
+| **total (114 items)** | | | | | 3421 | 11.4535 | |
 
-Tokens: prompt 1455562, completion 4839792 (of which reasoning 3713857). Retried attempts: 1. Empty replies: 1.
+Tokens: prompt 1656434, completion 5466790 (of which reasoning 4196615). Retried attempts: 1. Empty replies: 1.
 
 Scores from ResearchBench's own `score-rank` over all items: `ALL_ranking.score.json`.

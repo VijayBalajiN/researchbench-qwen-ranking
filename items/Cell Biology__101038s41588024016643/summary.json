@@ -1,0 +1,34 @@
+{
+ "sample_id": "Cell Biology/101038s41588024016643",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 12808,
+ "completion_tokens": 45036,
+ "reasoning_tokens": 34825,
+ "cost_usd": 0.105432,
+ "wall_seconds": 348,
+ "sum_request_seconds": 348,
+ "providers": [
+  "AkashML",
+  "CoreWeave",
+  "DekaLLM",
+  "ModelRun",
+  "Near AI",
+  "Reka",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 14,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 13,
+   "gold_wins": true
+  }
+ }
+}

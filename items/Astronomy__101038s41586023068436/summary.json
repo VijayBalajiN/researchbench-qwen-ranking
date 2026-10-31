@@ -1,0 +1,32 @@
+{
+ "sample_id": "Astronomy/101038s41586023068436",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 14528,
+ "completion_tokens": 46631,
+ "reasoning_tokens": 34651,
+ "cost_usd": 0.080922,
+ "wall_seconds": 318,
+ "sum_request_seconds": 318,
+ "providers": [
+  "DekaLLM",
+  "ModelRun",
+  "Near AI",
+  "Tenstorrent",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 4,
+   "gold_wins": false
+  },
+  "res": {
+   "rank": 2,
+   "gold_wins": false
+  }
+ }
+}

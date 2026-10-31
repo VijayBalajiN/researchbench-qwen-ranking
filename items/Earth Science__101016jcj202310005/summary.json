@@ -1,0 +1,35 @@
+{
+ "sample_id": "Earth Science/101016jcj202310005",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 14676,
+ "completion_tokens": 45351,
+ "reasoning_tokens": 34436,
+ "cost_usd": 0.085029,
+ "wall_seconds": 465,
+ "sum_request_seconds": 465,
+ "providers": [
+  "AkashML",
+  "Darkbloom",
+  "DeepInfra",
+  "DekaLLM",
+  "ModelRun",
+  "Near AI",
+  "Parasail",
+  "Reka"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 5,
+   "gold_wins": false
+  },
+  "res": {
+   "rank": 4,
+   "gold_wins": false
+  }
+ }
+}

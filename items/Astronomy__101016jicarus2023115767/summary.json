@@ -1,0 +1,36 @@
+{
+ "sample_id": "Astronomy/101016jicarus2023115767",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 16616,
+ "completion_tokens": 34484,
+ "reasoning_tokens": 25621,
+ "cost_usd": 0.066477,
+ "wall_seconds": 292,
+ "sum_request_seconds": 292,
+ "providers": [
+  "AkashML",
+  "CoreWeave",
+  "Darkbloom",
+  "DeepInfra",
+  "DekaLLM",
+  "ModelRun",
+  "Near AI",
+  "Tenstorrent",
+  "Wafer"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 2,
+   "gold_wins": false
+  },
+  "res": {
+   "rank": 1,
+   "gold_wins": false
+  }
+ }
+}
