@@ -1,0 +1,32 @@
+{
+ "sample_id": "Energy Science/101016jseppur2023125873",
+ "model": "qwen/qwen3.8-27b",
+ "comparisons": 30,
+ "replies_in_the_expected_format": 30,
+ "requests_logged": 30,
+ "retried_attempts": 0,
+ "empty_replies": 0,
+ "prompt_tokens": 15284,
+ "completion_tokens": 49951,
+ "reasoning_tokens": 38173,
+ "cost_usd": 0.080718,
+ "wall_seconds": 702,
+ "sum_request_seconds": 702,
+ "providers": [
+  "Darkbloom",
+  "ModelRun",
+  "Near AI",
+  "PrimeIntellect",
+  "Tenstorrent"
+ ],
+ "result": {
+  "fan_1_res": {
+   "rank": 9,
+   "gold_wins": true
+  },
+  "res": {
+   "rank": 8,
+   "gold_wins": false
+  }
+ }
+}
