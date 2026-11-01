@@ -12,12 +12,13 @@ import argparse, json, os, subprocess, sys, time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+OUT = Path(__file__).resolve().parent.parent  # this repo, which sits at <clone>/outputs
+ROOT = OUT.parent
 MODEL = "qwen/qwen3.8-27b"
 
 
 def folder_for(sample_id: str) -> Path:
-    return ROOT / "outputs" / "items" / sample_id.replace("/", "__")
+    return OUT / "items" / sample_id.replace("/", "__")
 
 
 def load_rows(path: Path) -> dict:
@@ -40,7 +41,7 @@ def prepare(sample_id: str, ranking: dict, papers: dict) -> Path:
 def run_one(sample_id: str, folder: Path, max_calls: int) -> int:
     env = {**os.environ, "RESEARCHBENCH_CALL_LOG": str(folder / "calls.jsonl")}
     cli = str(ROOT / ".venv" / "bin" / "researchbench")
-    run = [sys.executable, str(ROOT / "outputs" / "qwen_env.py"), "--max-calls", str(max_calls), "--", cli, "run-rank",
+    run = [sys.executable, str(OUT / "scripts" / "qwen_env.py"), "--max-calls", str(max_calls), "--", cli, "run-rank",
            "--data", str(folder / "item.jsonl"), "--model-name", MODEL, "--order", "both", "--concurrency", "1",
            "--out", str(folder / "ranking.jsonl")]
     with open(folder / "run.log", "w") as log:

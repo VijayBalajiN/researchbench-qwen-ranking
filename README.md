@@ -9,17 +9,17 @@ ResearchBench authors.
 **Status:** 140 items run: the first 40 hand-picked AI-related items, then 100 more (48 AI-related, 19 where ML is a tool inside a non-AI
 study, 33 non-AI items drawn at random as a control). 4,200 comparisons, 4,201 requests (one empty reply was retried), all replies in the expected
 format, logged cost $14.15 (2.0M prompt and 6.8M completion tokens, of which 5.2M thinking). ResearchBench's own `score-rank` over all 140:
-overall directional accuracy 64.6% (gold first 62.1%, gold second 67.1%). Results by group are in `SUMMARY.md`; they are recorded, not
-compared. `REVIEW.md` is a read of whether the first 40 items' answers make sense.
+overall directional accuracy 64.6% (gold first 62.1%, gold second 67.1%). Results by group are in `results/SUMMARY.md`; they are recorded, not
+compared. `results/REVIEW.md` is a read of whether the first 40 items' answers make sense.
 
 ## What was run
 
 | | |
 |---|---|
 | Pipeline | upstream `researchbench run-rank --order both` then `score-rank`, unchanged logic: for each item, the gold hypothesis is compared with each of its 15 negatives in both orders (30 requests per item), temperature 0.0, upstream prompt and parser. Gold "wins" an order if it beats at least 8 of the 15 negatives. |
-| Upstream | `ankitala/ResearchBench` commit `03873e0` (MIT) plus one small patch, `clients_local_patch.diff` (below) |
+| Upstream | `ankitala/ResearchBench` commit `03873e0` (MIT) plus one small patch, `patch/clients_local_patch.diff` (below) |
 | Model | `qwen/qwen3.8-27b` via OpenRouter, `reasoning.effort = high` |
-| Data | the full `ranking.jsonl` (1,323 items) from Hugging Face; AI-related items chosen by hand (plus a labelled ML-as-tool group and a seeded non-AI control), see `ai_selection/` |
+| Data | the full `ranking.jsonl` (1,323 items) from Hugging Face; AI-related items chosen by hand (plus a labelled ML-as-tool group and a seeded non-AI control), see "How the items were chosen" below |
 
 **The patch** (one file, `src/researchbench/clients.py`, the OpenAI-compatible client). With none of its environment variables set
 the client sends the same request as upstream.
@@ -41,20 +41,35 @@ items/<discipline>__<doi>/   one folder per item
     summary.json          requests, retries, tokens, cost, time, result
     READABLE.md           the same, as a document: every negative, the reply and the thinking
     run.log
-ALL_ranking.jsonl, ALL_ranking.score.json   all items together, through the same score-rank
-SUMMARY.md              one table: result, requests, cost and time per item
-ai_selection/           how the items were chosen: all 1,323 titles reviewed, shortlist, second pass, the seeded non-AI draw
-REVIEW.md               a read of the model's answers for the first 40 items (do they make sense?)
-v0_keyword_trial_superseded/   the first 3-item trial (keyword-picked items, no call log), kept for completeness
-run_batches.py (batches of items: run, build views, commit, push), run_items.py (items in parallel), build_views.py, qwen_env.py
-clients_local_patch.diff   the patch
+results/
+    SUMMARY.md            one table: result, requests, cost and time per item, and a table by group
+    ALL_ranking.jsonl, ALL_ranking.score.json   all items together, through the same score-rank
+    REVIEW.md             a read of the model's answers for the first 40 items (do they make sense?)
+scripts/
+    run_items.py          runs run-rank + score-rank for chosen items, one process and folder per item
+    run_batches.py        batches of items: run, build views, commit, push (reads a local shortlist, not published)
+    build_views.py        builds summary.json, READABLE.md and results/ from what the runs recorded (no model calls)
+    qwen_env.py           launcher: puts the OpenRouter key into the child's environment only, thinking on
+patch/clients_local_patch.diff   the patch to upstream's client
 ```
+
+## How the items were chosen
+
+The benchmark's ranking file has 1,323 items in 12 disciplines, and **none of them is AI or CS**, so AI-related items had to be found by
+reading. No keyword filter picked them. All 1,323 titles were read and candidates marked by judgement (is the paper about developing,
+applying, evaluating or governing AI/ML?); the abstracts of the 40 selected were read, then a second pass read the abstracts of the
+reserve and of 46 papers a keyword search surfaced (as a recall aid only; it selected nothing). Of the 100 items after the first 40,
+48 are AI-related, 19 are papers where ML is a tool inside a non-AI study (their own group), and 33 are non-AI items drawn at random
+(seed 20261101, from the 1,156 items whose paper and question contain no AI/ML term), labelled as a control. The same paper can appear
+under two disciplines with different questions, golds and negatives; those are separate items. The selection files themselves (titles
+list, shortlist, second-pass notes, draw script) are kept locally and are not published in this repo.
 
 ## Please read before using the numbers
 
 - **Small.** 140 items (groups of 10-40), one run each (temperature 0.0, but the provider can differ between requests); do not read small differences as real.
 - **The items are not a random sample.** The benchmark has no AI/CS discipline; AI-related items were picked by reading titles and
-  abstracts (by Claude, an AI model, not a domain expert). `ai_selection/README.md` has the details and the caveats.
+  abstracts (by Claude, an AI model, not a domain expert); "AI-related" is a judgement call at the edges, and the dataset's own
+  discipline labels are noisy (for example a COVID-19 machine-learning paper is filed under Physics).
 - **`calls.jsonl` is the provider's reply as returned.** The thinking is the provider's `reasoning` field. Upstream's client keeps only
   the visible answer; the patch is what makes the rest available.
 - **OpenRouter routes each request to one of several upstream providers** (listed per item in `summary.json`), so identical settings can
@@ -67,19 +82,19 @@ clients_local_patch.diff   the patch
 
 ```
 git clone https://github.com/ankitala/ResearchBench && cd ResearchBench && git checkout 03873e0
-git apply <this repo>/clients_local_patch.diff
+git apply <this repo>/patch/clients_local_patch.diff
 uv venv .venv && uv pip install --python .venv/bin/python -e ".[openai]"
 hf download ankilok/ResearchBench --repo-type dataset --include "ranking/*" --include "papers/*" --local-dir data   # gated dataset
 cp -r <this repo> outputs
-OPENROUTER_ENV_FILE=/path/to/.env .venv/bin/python outputs/run_items.py --parallel 3 <sample_id> ...   # .env holds OPENROUTER_API_KEY
-.venv/bin/python outputs/build_views.py
+OPENROUTER_ENV_FILE=/path/to/.env .venv/bin/python outputs/scripts/run_items.py --parallel 3 <sample_id> ...   # .env holds OPENROUTER_API_KEY
+.venv/bin/python outputs/scripts/build_views.py
 ```
 
 ## Licences and credits
 
 - Our scripts and write-up: MIT (`LICENSE`).
 - ResearchBench code: MIT. **The dataset text in this repo** (research questions, hypotheses, negatives, titles, abstracts in
-  `items/` and `ai_selection/`) is from the ResearchBench dataset, **CC BY-NC 4.0, non-commercial use only** (`DATA_LICENSE.md`);
+  `items/`) is from the ResearchBench dataset, **CC BY-NC 4.0, non-commercial use only** (`DATA_LICENSE.md`);
   titles and abstracts originate from the papers' publishers, whose terms apply. Cite Liu et al., "ResearchBench: Benchmarking LLMs in
   Scientific Discovery via Inspiration-Based Task Decomposition", arXiv 2503.21248.
 - Model replies are Qwen3.8-27B output.

@@ -2,15 +2,17 @@
 
 Per item folder (outputs/items/*/ with a ranking.jsonl):  summary.json  (requests, tokens, cost, time, result)
                                                            READABLE.md   (question, gold, every negative, the model's reply and thinking)
-Top level (outputs/):  ALL_ranking.jsonl + ALL_ranking.score.json (all items through ResearchBench's own score-rank), SUMMARY.md
+results/:  ALL_ranking.jsonl + ALL_ranking.score.json (all items through ResearchBench's own score-rank), SUMMARY.md
 """
 import csv, json, subprocess, sys
 from pathlib import Path
 
 from researchbench.ranking import SELECTION_RE  # the pattern run-rank looks for before it falls back to a looser one
 
-ROOT = Path(__file__).resolve().parent.parent
-ITEMS = ROOT / "outputs" / "items"
+OUT = Path(__file__).resolve().parent.parent  # this repo, which sits at <clone>/outputs
+ROOT = OUT.parent
+ITEMS = OUT / "items"
+RESULTS = OUT / "results"
 
 
 def read_jsonl(path: Path) -> list:
@@ -90,15 +92,20 @@ GROUP_NAMES = {"selected_40": "AI (first 40)", "selected_extra": "AI", "selected
 
 
 def groups_by_item() -> dict:
-    with open(ROOT / "outputs" / "ai_selection" / "shortlist.csv", newline="", encoding="utf-8") as handle:
+    """The selection files are kept locally, not in the published repo; without them every item is 'ungrouped'."""
+    shortlist = OUT / "ai_selection" / "shortlist.csv"
+    if not shortlist.exists():
+        return {}
+    with open(shortlist, newline="", encoding="utf-8") as handle:
         return {r["sample_id"]: GROUP_NAMES.get(r["status"], r["status"]) for r in csv.DictReader(handle)}
 
 
 def group_table(rows: list, groups: dict) -> list:
     """Per group: items, order-runs won (gold beat >= 8 of 15 negatives) out of order-runs, and that share (same definition as score-rank)."""
     lines = ["\n## By group\n", "| group | items | order-runs won | share |", "|---|---|---|---|"]
-    for name in dict.fromkeys(groups[r["sample_id"]] for r in rows):
-        members = [r for r in rows if groups[r["sample_id"]] == name]
+    group_of = lambda r: groups.get(r["sample_id"], "ungrouped")
+    for name in dict.fromkeys(group_of(r) for r in rows):
+        members = [r for r in rows if group_of(r) == name]
         won = sum(v["gold_wins"] for r in members for v in r["result"].values()); total = sum(len(r["result"]) for r in members)
         lines.append(f"| {name} | {len(members)} | {won} / {total} | {won / total:.1%} |")
     return lines
@@ -106,7 +113,8 @@ def group_table(rows: list, groups: dict) -> list:
 
 def build_top(rows: list, folders: list) -> None:
     groups = groups_by_item()
-    pred = ROOT / "outputs" / "ALL_ranking.jsonl"
+    RESULTS.mkdir(exist_ok=True)
+    pred = RESULTS / "ALL_ranking.jsonl"
     pred.write_text("".join((f / "ranking.jsonl").read_text(encoding="utf-8") for f in folders), encoding="utf-8")
     subprocess.run([str(ROOT / ".venv" / "bin" / "researchbench"), "score-rank", "--pred", str(pred)], check=True,
                    stdout=subprocess.DEVNULL)
@@ -115,7 +123,7 @@ def build_top(rows: list, folders: list) -> None:
               "|---|---|---|---|---|---|---|---|"]
     for r in rows:
         cell = lambda o: f"rank {r['result'][o]['rank']} ({'win' if r['result'][o]['gold_wins'] else 'loss'})"
-        lines.append(f"| {r['sample_id']} | {groups[r['sample_id']]} | {r['discipline']} | {cell('res')} | {cell('fan_1_res')} | "
+        lines.append(f"| {r['sample_id']} | {groups.get(r['sample_id'], 'ungrouped')} | {r['discipline']} | {cell('res')} | {cell('fan_1_res')} | "
                      f"{r['requests_logged']} | {r['cost_usd']:.4f} | {r['wall_seconds']} |")
     lines.append(f"| **total ({len(rows)} items)** | | | | | {sum(r['requests_logged'] for r in rows)} | "
                  f"{sum(r['cost_usd'] for r in rows):.4f} | |")
@@ -123,7 +131,7 @@ def build_top(rows: list, folders: list) -> None:
                  f"(of which reasoning {sum(r['reasoning_tokens'] for r in rows)}). Retried attempts: {sum(r['retried_attempts'] for r in rows)}. "
                  f"Empty replies: {sum(r['empty_replies'] for r in rows)}.\n")
     lines.append("Scores from ResearchBench's own `score-rank` over all items: `ALL_ranking.score.json`.\n")
-    (ROOT / "outputs" / "SUMMARY.md").write_text("\n".join(lines), encoding="utf-8")
+    (RESULTS / "SUMMARY.md").write_text("\n".join(lines), encoding="utf-8")
 
 
 def main() -> int:

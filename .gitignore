@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .env
 *.env
+ai_selection/
+v0_keyword_trial_superseded/
